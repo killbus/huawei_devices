@@ -984,7 +984,7 @@ KIW-TL00: *id139
 KIW-TL00H: *id139
 KIW-UL00: *id139
 KKG-AN00:
-  codename: ''
+  codename: kingkong
   model_name: 荣耀 X10 Max 5G 全网通版
   name: 荣耀 X10 Max
 KLCZ-WDH9:
@@ -1712,7 +1712,7 @@ TAS-L29: *id235
 TAS-TL00: *id234
 TAS-TN00: *id234
 TEL-AN00: &id236
-  codename: ''
+  codename: teller
   model_name: 荣耀 X10 5G 移动定制版
   name: 荣耀 X10
 TEL-AN00a: *id236
