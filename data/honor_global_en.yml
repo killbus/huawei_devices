@@ -351,7 +351,7 @@ C199s:
   codename: ''
   model_name: 华为麦芒 3S
   name: 华为麦芒 3S
-C8817D: &id101
+C8817D: &id102
   codename: ''
   model_name: 荣耀畅玩 4 电信版
   name: 荣耀畅玩 4
@@ -626,87 +626,93 @@ EML-L09: &id088
   name: HUAWEI P20
 EML-L29: *id088
 EML-TL00: *id089
-EVA-AL00: &id090
+EUL-W19: &id090
+  codename: ''
+  model_name: HUAWEI MateBook X i7 (16GB+512GB)
+  name: HUAWEI MateBook X
+EUL-W19P: *id090
+EUL-W29P: *id090
+EVA-AL00: &id091
   codename: eva
   model_name: HUAWEI P9 电信版
   name: HUAWEI P9
-EVA-AL10: *id090
-EVA-CL00: *id090
-EVA-DL00: *id090
-EVA-L09: &id091
+EVA-AL10: *id091
+EVA-CL00: *id091
+EVA-DL00: *id091
+EVA-L09: &id092
   codename: eva
   model_name: HUAWEI P9 Dual SIM
   name: HUAWEI P9
-EVA-L19: *id091
-EVA-L29: *id091
-EVA-TL00: *id090
-EVR-AL00: &id092
+EVA-L19: *id092
+EVA-L29: *id092
+EVA-TL00: *id091
+EVR-AL00: &id093
   codename: ever
   model_name: HUAWEI Mate 20 X 5G
   name: HUAWEI Mate 20 X
-EVR-AN00: *id092
-EVR-L29: &id093
+EVR-AN00: *id093
+EVR-L29: &id094
   codename: ever
   model_name: HUAWEI Mate 20 X 5G Dual SIM
   name: HUAWEI Mate 20 X
-EVR-N29: *id093
-EVR-TL00: *id092
-FDR-A01w: &id094
+EVR-N29: *id094
+EVR-TL00: *id093
+FDR-A01w: &id095
   codename: ''
   model_name: 华为揽阅 M2 青春版 10.1 英寸 LTE 版
   name: 华为揽阅 M2 青春版
-FDR-A03L: *id094
-FIG-AL00: &id095
+FDR-A03L: *id095
+FIG-AL00: &id096
   codename: figo
   model_name: 华为畅享 7S 移动 4G+ 高配版
   name: 华为畅享 7S
-FIG-AL10: *id095
-FIG-LA1: &id096
+FIG-AL10: *id096
+FIG-LA1: &id097
   codename: figo
   model_name: HUAWEI P Smart
   name: HUAWEI P Smart
-FIG-LX1: *id096
-FIG-LX2: *id096
-FIG-LX3: *id096
-FIG-TL00: *id095
-FIG-TL10: *id095
-FLA-AL00: &id097
+FIG-LX1: *id097
+FIG-LX2: *id097
+FIG-LX3: *id097
+FIG-TL00: *id096
+FIG-TL10: *id096
+FLA-AL00: &id098
   codename: florida
   model_name: 华为畅享 8 Plus 移动 4G+ 版
   name: 华为畅享 8 Plus
-FLA-AL10: *id097
-FLA-AL20: *id097
-FLA-TL00: *id097
-FLA-TL10: *id097
-FRD-AL00: &id098
+FLA-AL10: *id098
+FLA-AL20: *id098
+FLA-TL00: *id098
+FLA-TL10: *id098
+FRD-AL00: &id099
   codename: faraday
   model_name: 荣耀 8 移动/联通版
   name: 荣耀 8
-FRD-AL10: *id098
-FRD-DL00: *id098
-FRD-L02: &id099
+FRD-AL10: *id099
+FRD-DL00: *id099
+FRD-L02: &id100
   codename: faraday
   model_name: HONOR 8 Dual SIM
   name: HONOR 8
-FRD-L04: *id099
-FRD-L09: *id099
-FRD-L19: *id099
-FRD-TL00: *id098
-G6-C00: &id100
+FRD-L04: *id100
+FRD-L09: *id100
+FRD-L19: *id100
+FRD-TL00: *id099
+G6-C00: &id101
   codename: ''
   model_name: 华为 Ascend G6 电信版
   name: 华为 Ascend G6
-G6-T00: *id100
-G6-U00: *id100
-G620S-UL00: *id101
-G621-TL00: *id101
-G621-TL00M: *id101
-G7-TL00: &id102
+G6-T00: *id101
+G6-U00: *id101
+G620S-UL00: *id102
+G621-TL00: *id102
+G621-TL00M: *id102
+G7-TL00: &id103
   codename: ''
   model_name: 华为 Ascend G7 联通版
   name: 华为 Ascend G7
-G7-UL00: *id102
-G750-T00: &id103
+G7-UL00: *id103
+G750-T00: &id104
   codename: ''
   model_name: 荣耀 3X Pro
   name: 荣耀 3X
@@ -714,128 +720,133 @@ G750-T01:
   codename: ''
   model_name: 荣耀真八核畅玩版
   name: 荣耀真八核畅玩版
-G750-T20: *id103
-G750-U00: *id103
-GEM-703L: &id104
+G750-T20: *id104
+G750-U00: *id104
+GEM-703L: &id105
   codename: ''
   model_name: 荣耀 X2 移动版
   name: 荣耀 X2
-GEM-703LT: *id104
-GLK-AL00: &id105
+GEM-703LT: *id105
+GLK-AL00: &id106
   codename: ''
   model_name: HUAWEI nova 5i 联通定制版
   name: HUAWEI nova 5i
-GLK-LX1U: *id105
-GLK-TL00: *id105
-GRA-CL00: &id106
+GLK-LX1U: *id106
+GLK-TL00: *id106
+GRA-CL00: &id107
   codename: grace
   model_name: HUAWEI P8 电信高配版
   name: HUAWEI P8
-GRA-CL10: *id106
-GRA-L09: &id107
+GRA-CL10: *id107
+GRA-L09: &id108
   codename: grace
   model_name: HUAWEI P8 Dual SIM
   name: HUAWEI P8
-GRA-TL00: *id106
-GRA-UL00: *id107
-GRA-UL10: *id107
-H30-C00: &id108
+GRA-TL00: *id107
+GRA-UL00: *id108
+GRA-UL10: *id108
+H30-C00: &id109
   codename: ''
   model_name: 荣耀 3C 电信版
   name: 荣耀 3C
-H30-L01: *id108
-H30-L01M: *id108
-H30-L02: *id108
-H30-T00: *id108
-H30-T10: *id108
-H30-U10: *id108
-H60-L01: &id109
+H30-L01: *id109
+H30-L01M: *id109
+H30-L02: *id109
+H30-T00: *id109
+H30-T10: *id109
+H30-U10: *id109
+H60-L01: &id110
   codename: mogolia
   model_name: 荣耀 6 至尊版
   name: 荣耀 6
-H60-L02: *id109
-H60-L03: *id109
+H60-L02: *id110
+H60-L03: *id110
 H60-L04:
   codename: mogolia
   model_name: HONOR 6 Single SIM
   name: HONOR 6
-H60-L11: *id109
-H60-L12: *id109
-H60-L21: *id109
-HBB-WAE9PHNL: &id110
+H60-L11: *id110
+H60-L12: *id110
+H60-L21: *id110
+HBB-WAE9PHNL: &id111
   codename: ''
   model_name: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
   name: 荣耀 MagicBook Pro 2020
-HBB-WAH9PHNL: *id110
-HBL-W19: &id111
+HBB-WAH9PHNL: *id111
+HBL-W19: &id112
   codename: ''
   model_name: 荣耀 MagicBook Pro 科技尝鲜版 R7
   name: 荣耀 MagicBook Pro
-HBL-W19L: *id111
-HBL-W29: *id111
-HBL-W29L: *id111
-HDL-AL09: &id112
+HBL-W19L: *id112
+HBL-W29: *id112
+HBL-W29L: *id112
+HDL-AL09: &id113
   codename: handel
   model_name: 荣耀 Waterplay 8 英寸 全网通版
   name: 荣耀 Waterplay
-HDL-W09: *id112
-HDN-L09: &id113
+HDL-W09: *id113
+HDN-L09: &id114
   codename: haydn
   model_name: 荣耀 Waterplay 10.1 英寸 LTE 版
   name: 荣耀 Waterplay
-HDN-W09: *id113
-HEGE-550: &id114
+HDN-W09: *id114
+HEGE-550: &id115
   codename: hege
   model_name: 华为智慧屏 V75
   name: 华为智慧屏
-HEGE-550B: *id114
-HEGE-560: *id114
-HEGE-560B: *id114
-HEGE-570: *id114
-HLK-AL00: &id115
+HEGE-550B: *id115
+HEGE-560: *id115
+HEGE-560B: *id115
+HEGE-570: *id115
+HLK-AL00: &id116
   codename: hulk
   model_name: 荣耀 9X 移动 4G+ 版
   name: 荣耀 9X
-HLK-AL00a: *id115
+HLK-AL00a: *id116
 HLK-AL10:
   codename: hulk
   model_name: 荣耀 9X PRO 全网通版
   name: 荣耀 9X PRO
-HLK-L41: &id116
+HLK-L41: &id117
   codename: hulk
   model_name: HONOR 9X PRO Dual SIM
   name: HONOR 9X PRO
-HLK-L42: *id116
-HLK-TL00: *id115
-HLY-W19R: *id111
-HLY-W19RL: *id111
-HLY-W19RLP: *id111
-HLY-W19RP: *id111
-HLY-W29R: *id111
-HLY-W29RL: *id111
-HLYL-WFP9: *id110
-HLYL-WFQ9: *id110
-HMA-AL00: &id118
+HLK-L42: *id117
+HLK-TL00: *id116
+HLY-W19R: *id112
+HLY-W19RL: *id112
+HLY-W19RLP: *id112
+HLY-W19RP: *id112
+HLY-W29R: *id112
+HLY-W29RL: *id112
+HLYL-WFP9: *id111
+HLYL-WFQ9: *id111
+HMA-AL00: &id119
   codename: hima
   model_name: HUAWEI Mate 20 移动 4G+ 版
   name: HUAWEI Mate 20
-HMA-L09: &id117
+HMA-L09: &id118
   codename: hima
   model_name: HUAWEI Mate 20 Dual SIM
   name: HUAWEI Mate 20
-HMA-L29: *id117
-HMA-TL00: *id118
-HN-W19L: &id119
+HMA-L29: *id118
+HMA-TL00: *id119
+HN-W19L: &id120
   codename: ''
   model_name: HUAWEI MateBook 13 锐龙 Linux 版
   name: HUAWEI MateBook 13 锐龙版
-HN-W19R: *id119
+HN-W19R: *id120
 HN3-U01: *id050
-HRY-AL00: &id120
+HNL-WFP9: &id121
+  codename: ''
+  model_name: HUAWEI MateBook 13 (2020) R7
+  name: HUAWEI MateBook 13
+HNL-WFQ9: *id121
+HRY-AL00: &id122
   codename: harry
   model_name: HONOR 10 Lite Dual SIM
   name: HONOR 10 Lite
-HRY-AL00T: &id121
+HRY-AL00T: &id123
   codename: harrypro
   model_name: 荣耀 20i 移动 4G+ 版
   name: 荣耀 20i
@@ -843,105 +854,105 @@ HRY-AL00Ta:
   codename: harry
   model_name: HONOR 20i Dual SIM
   name: HONOR 20i
-HRY-AL00a: *id120
-HRY-LX1: *id120
-HRY-LX1MEB: *id120
-HRY-LX2: *id120
+HRY-AL00a: *id122
+HRY-LX1: *id122
+HRY-LX1MEB: *id122
+HRY-LX2: *id122
 HRY-TL00:
   codename: harry
   model_name: 荣耀 10 青春版 移动 4G+ 版
   name: 荣耀 10 青春版
-HRY-TL00T: *id121
-HWI-AL00: &id122
+HRY-TL00T: *id123
+HWI-AL00: &id124
   codename: hawaii
   model_name: HUAWEI nova 2s 移动 4G+ 版
   name: HUAWEI nova 2s
-HWI-TL00: *id122
-HZ-W09: &id123
+HWI-TL00: *id124
+HZ-W09: &id125
   codename: ''
   model_name: HUAWEI MateBook m7
   name: HUAWEI MateBook
-HZ-W19: *id123
-HZ-W29: *id123
-Hol-T00: &id124
+HZ-W19: *id125
+HZ-W29: *id125
+Hol-T00: &id126
   codename: holly
   model_name: 荣耀 3C 畅玩版 联通版
   name: 荣耀 3C 畅玩版
-Hol-U10: *id124
-INE-AL00: &id126
+Hol-U10: *id126
+INE-AL00: &id128
   codename: sydneyi
   model_name: HUAWEI nova 3i 移动 4G+ 版
   name: HUAWEI nova 3i
-INE-LX1: &id125
+INE-LX1: &id127
   codename: sydneyi
   model_name: HUAWEI nova 3i
   name: HUAWEI nova 3i
-INE-LX1r: *id125
-INE-LX2: *id125
-INE-LX2r: *id125
-INE-TL00: *id126
-JAT-AL00: &id128
+INE-LX1r: *id127
+INE-LX2: *id127
+INE-LX2r: *id127
+INE-TL00: *id128
+JAT-AL00: &id130
   codename: jakarta
   model_name: 荣耀畅玩 8A 移动 4G+ 版
   name: 荣耀畅玩 8A
-JAT-L29: &id127
+JAT-L29: &id129
   codename: jakarta
   model_name: HONOR 8A Dual SIM
   name: HONOR 8A
-JAT-L41: *id127
-JAT-LX1: *id127
-JAT-LX3: *id127
-JAT-TL00: *id128
-JDN-AL00: &id129
+JAT-L41: *id129
+JAT-LX1: *id129
+JAT-LX3: *id129
+JAT-TL00: *id130
+JDN-AL00: &id131
   codename: jordan
   model_name: 荣耀平板 2 全网通版
   name: 荣耀平板 2
-JDN-AL50HN: &id130
+JDN-AL50HN: &id132
   codename: jordan2
   model_name: 荣耀平板 5 8 英寸 全网通版
   name: 荣耀平板 5
-JDN-W09: *id129
-JDN2-AL00: &id131
+JDN-W09: *id131
+JDN2-AL00: &id133
   codename: jordan2
   model_name: 华为平板 M5 青春版 8 英寸 全网通版
   name: 华为平板 M5 青春版
-JDN2-AL00HN: *id130
-JDN2-AL50: *id131
-JDN2-W09: *id131
-JDN2-W09HN: *id130
-JEF-AN00: &id132
+JDN2-AL00HN: *id132
+JDN2-AL50: *id133
+JDN2-W09: *id133
+JDN2-W09HN: *id132
+JEF-AN00: &id134
   codename: ''
   model_name: HUAWEI nova 7 5G 移动全网通版
   name: HUAWEI nova 7
-JEF-AN20: *id132
-JEF-TN00: *id132
-JEF-TN20: *id132
-JER-AN10: &id133
+JEF-AN20: *id134
+JEF-TN00: *id134
+JEF-TN20: *id134
+JER-AN10: &id135
   codename: ''
   model_name: HUAWEI nova 7 Pro 5G 移动全网通版
   name: HUAWEI nova 7 Pro
-JER-AN20: *id133
-JER-TN10: *id133
-JER-TN20: *id133
-JKM-AL00: &id134
+JER-AN20: *id135
+JER-TN10: *id135
+JER-TN20: *id135
+JKM-AL00: &id136
   codename: jackman
   model_name: 华为畅享 9 Plus 移动 4G+ 版
   name: 华为畅享 9 Plus
-JKM-AL00a: *id134
-JKM-AL00b: *id134
-JKM-TL00: *id134
-JMM-AL00: &id135
+JKM-AL00a: *id136
+JKM-AL00b: *id136
+JKM-TL00: *id136
+JMM-AL00: &id137
   codename: jimmy
   model_name: 荣耀 V9 Play 移动定制高配版
   name: 荣耀 V9 Play
-JMM-AL10: *id135
+JMM-AL10: *id137
 JMM-L22:
   codename: jimmy
   model_name: HONOR 6C Pro Dual SIM
   name: HONOR 6C Pro
-JMM-TL00: *id135
-JMM-TL10: *id135
-JNY-AL10: &id136
+JMM-TL00: *id137
+JMM-TL10: *id137
+JNY-AL10: &id138
   codename: jenny
   model_name: HUAWEI nova 6 SE 移动全网通版
   name: HUAWEI nova 6 SE
@@ -953,36 +964,36 @@ JNY-LX2:
   codename: jenny
   model_name: HUAWEI P40 lite Single SIM
   name: HUAWEI P40 lite
-JNY-TL10: *id136
-JSM-TL00: &id137
+JNY-TL10: *id138
+JSM-TL00: &id139
   codename: johnson
   model_name: 荣耀 8X 移动 4G+ 版
   name: 荣耀 8X
-JSN-AL00: *id137
-JSN-AL00a: *id137
-JSN-L21: &id138
+JSN-AL00: *id139
+JSN-AL00a: *id139
+JSN-L21: &id140
   codename: johnson
   model_name: HONOR 9X Lite Dual SIM
   name: HONOR 9X Lite
-JSN-L22: *id138
-JSN-L23: *id138
+JSN-L22: *id140
+JSN-L23: *id140
 JSN-L42:
   codename: johnson
   model_name: HONOR 8X Dual SIM
   name: HONOR 8X
-KIW-AL10: &id139
+KIW-AL10: &id141
   codename: kiwi
   model_name: 荣耀畅玩 5X 电信版
   name: 荣耀畅玩 5X
-KIW-CL00: *id139
-KIW-L21: &id140
+KIW-CL00: *id141
+KIW-L21: &id142
   codename: kiwi
   model_name: HONOR 5X Dual SIM (United States)
   name: HONOR 5X
-KIW-L24: *id140
-KIW-TL00: *id139
-KIW-TL00H: *id139
-KIW-UL00: *id139
+KIW-L24: *id142
+KIW-TL00: *id141
+KIW-TL00H: *id141
+KIW-UL00: *id141
 KKG-AN00:
   codename: kingkong
   model_name: 荣耀 X10 Max 5G 全网通版
@@ -991,47 +1002,51 @@ KLCZ-WDH9:
   codename: kelvinc
   model_name: HUAWEI MateBook B5-420
   name: HUAWEI MateBook B5-420
-KLV-W19: &id141
+KLV-W19: &id143
   codename: kelvin
   model_name: HUAWEI MateBook 14 i7
   name: HUAWEI MateBook 14
-KLV-W19DL: *id141
-KLV-W29: *id141
-KLVC-WAH9L: &id142
+KLV-W19DL: *id143
+KLV-W29: *id143
+KLVC-WAH9L: &id144
   codename: kelvinc
   model_name: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
   name: HUAWEI MateBook 14
-KLVC-WFE9L: *id142
-KLVC-WFH9L: *id142
-KNT-AL10: &id143
+KLVC-WFE9L: *id144
+KLVC-WFH9L: *id144
+KLVL-WFH9:
+  codename: kelvinl
+  model_name: HUAWEI MateBook 14 (2020) R5
+  name: HUAWEI MateBook 14
+KNT-AL10: &id145
   codename: knight
   model_name: 荣耀 V8 移动/联通版
   name: 荣耀 V8
-KNT-AL20: *id143
-KNT-TL10: *id143
-KNT-UL10: *id143
-KOB-L09: &id144
+KNT-AL20: *id145
+KNT-TL10: *id145
+KNT-UL10: *id145
+KOB-L09: &id146
   codename: kobe
   model_name: 荣耀畅玩平板 2 8 英寸 LTE 版
   name: 荣耀畅玩平板 2
-KOB-W09: *id144
+KOB-W09: *id146
 KPL-W00:
   codename: ''
   model_name: 荣耀 MagicBook 锐龙版
   name: 荣耀 MagicBook 锐龙版
-KPR-W19: &id145
+KPR-W19: &id147
   codename: ''
   model_name: 荣耀 MagicBook 2019 科技尝鲜版 R7
   name: 荣耀 MagicBook 2019 锐龙版
-KPR-W29: *id145
-KPRC-W10L: *id145
-KPRC-W20L: *id145
-KRJ-AN00: &id146
+KPR-W29: *id147
+KPRC-W10L: *id147
+KPRC-W20L: *id147
+KRJ-AN00: &id148
   codename: ''
   model_name: 荣耀平板 V6 10.4 英寸 5G 版
   name: 荣耀平板 V6
-KRJ-W09: *id146
-KSA-AL00: &id148
+KRJ-W09: *id148
+KSA-AL00: &id150
   codename: katyusha
   model_name: 荣耀畅玩 8 移动 4G+ 版
   name: 荣耀畅玩 8
@@ -1039,51 +1054,51 @@ KSA-AL10:
   codename: katyusha
   model_name: 荣耀 Play 3e 全网通版
   name: 荣耀 Play 3e
-KSA-LX2: &id147
+KSA-LX2: &id149
   codename: katyusha
   model_name: HONOR 8S Dual SIM
   name: HONOR 8S
-KSA-LX3: *id147
-KSA-LX9: *id147
-KSA-TL00: *id148
-LDN-AL00: &id149
+KSA-LX3: *id149
+KSA-LX9: *id149
+KSA-TL00: *id150
+LDN-AL00: &id151
   codename: london
   model_name: 华为畅享 8 移动 4G+ 高配版
   name: 华为畅享 8
-LDN-AL10: *id149
-LDN-AL20: *id149
+LDN-AL10: *id151
+LDN-AL20: *id151
 LDN-LX2:
   codename: london
   model_name: HUAWEI nova 2 lite
   name: HUAWEI nova 2 lite
-LDN-TL00: *id149
-LDN-TL10: *id149
-LDN-TL20: *id149
-LIO-AL00: &id150
+LDN-TL00: *id151
+LDN-TL10: *id151
+LDN-TL20: *id151
+LIO-AL00: &id152
   codename: lion
   model_name: HUAWEI Mate 30 Pro 5G 移动定制版
   name: HUAWEI Mate 30 Pro
-LIO-AN00: *id150
+LIO-AN00: *id152
 LIO-AN00P:
   codename: lion
   model_name: HUAWEI Mate 30 RS 保时捷设计
   name: HUAWEI Mate 30 RS 保时捷设计
-LIO-L09: &id151
+LIO-L09: &id153
   codename: lion
   model_name: HUAWEI Mate 30 Pro 5G Dual SIM
   name: HUAWEI Mate 30 Pro
-LIO-L29: *id151
+LIO-L29: *id153
 LIO-N29:
   codename: lion
   model_name: PORSCHE DESIGN HUAWEI Mate 30 RS Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate 30 RS
-LIO-TL00: *id150
-LIO-TN00: *id150
-LLD-AL00: &id153
+LIO-TL00: *id152
+LIO-TN00: *id152
+LLD-AL00: &id155
   codename: leland
   model_name: 荣耀 9 青春版 移动 4G+ 版
   name: 荣耀 9 青春版
-LLD-AL10: &id152
+LLD-AL10: &id154
   codename: leland
   model_name: HONOR 9 Lite Dual SIM
   name: HONOR 9 Lite
@@ -1095,27 +1110,27 @@ LLD-AL30:
   codename: lelandp
   model_name: 荣耀 9i 全网通版
   name: 荣耀 9i
-LLD-L31: *id152
-LLD-TL10: *id153
-LND-AL30: &id154
+LLD-L31: *id154
+LLD-TL10: *id155
+LND-AL30: &id156
   codename: london
   model_name: HONOR 7C Dual SIM
   name: HONOR 7C
-LND-AL40: &id155
+LND-AL40: &id157
   codename: london
   model_name: 荣耀畅玩 7C 移动 4G+ 高配版
   name: 荣耀畅玩 7C
-LND-L29: *id154
-LND-TL30: *id155
-LND-TL40: *id155
-LOK-330: &id156
+LND-L29: *id156
+LND-TL30: *id157
+LND-TL40: *id157
+LOK-330: &id158
   codename: ''
   model_name: 荣耀智慧屏 X1 65 英寸
   name: 荣耀智慧屏 X1
-LOK-350: *id156
-LOK-350C: *id156
-LOK-360: *id156
-LOK-360C: *id156
+LOK-350: *id158
+LOK-350C: *id158
+LOK-360: *id158
+LOK-360C: *id158
 LON-AL00:
   codename: longland
   model_name: HUAWEI Mate 9 保时捷设计
@@ -1124,12 +1139,12 @@ LON-L29:
   codename: longland
   model_name: PORSCHE DESIGN HUAWEI Mate 9 Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate 9
-LRA-AL00: &id157
+LRA-AL00: &id159
   codename: laura
   model_name: 荣耀 20 青春版 移动 4G+ 版
   name: 荣耀 20 青春版
-LRA-TL00: *id157
-LYA-AL00: &id158
+LRA-TL00: *id159
+LYA-AL00: &id160
   codename: laya
   model_name: HUAWEI Mate 20 Pro 移动 4G+ 版
   name: HUAWEI Mate 20 Pro
@@ -1137,196 +1152,196 @@ LYA-AL00P:
   codename: laya
   model_name: HUAWEI Mate 20 RS 保时捷设计
   name: HUAWEI Mate 20 RS 保时捷设计
-LYA-AL10: *id158
-LYA-L09: &id159
+LYA-AL10: *id160
+LYA-L09: &id161
   codename: laya
   model_name: HUAWEI Mate 20 Dual SIM
   name: HUAWEI Mate 20 Pro
-LYA-L0C: *id159
+LYA-L0C: *id161
 LYA-L29:
   codename: laya
   model_name: PORSCHE DESIGN HUAWEI Mate 20 RS Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate 20 RS
-LYA-TL00: *id158
-M2-801W: &id160
+LYA-TL00: *id160
+M2-801W: &id162
   codename: mozart
   model_name: 华为揽阅 M2 8.0 LTE 版
   name: 华为揽阅 M2 8.0
-M2-803L: *id160
-M2-A01L: &id161
+M2-803L: *id162
+M2-A01L: &id163
   codename: ''
   model_name: 华为揽阅 M2 10.0 LTE 版
   name: 华为揽阅 M2 10.0
-M2-A01W: *id161
-MACH-W19: &id162
+M2-A01W: *id163
+MACH-W19: &id164
   codename: ''
   model_name: HUAWEI MateBook X Pro i7
   name: HUAWEI MateBook X Pro
-MACH-W29: *id162
-MACHC-WAE9LP: &id163
+MACH-W29: *id164
+MACHC-WAE9LP: &id165
   codename: ''
   model_name: HUAWEI MateBook X Pro (2020) i7
   name: HUAWEI MateBook X Pro
-MACHC-WAH9LP: *id163
-MACHR-W19: &id164
+MACHC-WAH9LP: *id165
+MACHR-W19: &id166
   codename: ''
   model_name: HUAWEI MateBook X Pro (2019) i7 Linux 版
   name: HUAWEI MateBook X Pro
-MACHR-W19L: *id164
-MACHR-W29: *id164
-MACHR-W29BL: *id164
-MAR-AL00: &id166
+MACHR-W19L: *id166
+MACHR-W29: *id166
+MACHR-W29BL: *id166
+MAR-AL00: &id168
   codename: marie
   model_name: HUAWEI nova 4e 移动 4G+ 版
   name: HUAWEI nova 4e
-MAR-LX1A: &id165
+MAR-LX1A: &id167
   codename: marie
   model_name: HUAWEI P30 lite
   name: HUAWEI P30 lite
-MAR-LX1Am: *id165
-MAR-LX1B: *id165
-MAR-LX1M: *id165
-MAR-LX1Mm: *id165
-MAR-LX2: *id165
-MAR-LX2B: *id165
-MAR-LX2J: *id165
-MAR-LX2m: *id165
-MAR-LX3A: *id165
-MAR-LX3Am: *id165
-MAR-LX3Bm: *id165
-MAR-TL00: *id166
-MED-AL00: &id167
+MAR-LX1Am: *id167
+MAR-LX1B: *id167
+MAR-LX1M: *id167
+MAR-LX1Mm: *id167
+MAR-LX2: *id167
+MAR-LX2B: *id167
+MAR-LX2J: *id167
+MAR-LX2m: *id167
+MAR-LX3A: *id167
+MAR-LX3Am: *id167
+MAR-LX3Bm: *id167
+MAR-TL00: *id168
+MED-AL00: &id169
   codename: merida
   model_name: 华为畅享 10e 移动 4G+ 版
   name: 华为畅享 10e
-MED-AL20: *id167
-MED-TL00: *id167
-MHA-AL00: &id169
+MED-AL20: *id169
+MED-TL00: *id169
+MHA-AL00: &id171
   codename: manhattan
   model_name: HUAWEI Mate 9 移动 4G+ 版
   name: HUAWEI Mate 9
-MHA-L09: &id168
+MHA-L09: &id170
   codename: manhattan
   model_name: HUAWEI Mate 9 Dual SIM
   name: HUAWEI Mate 9
-MHA-L29: *id168
-MHA-TL00: *id169
-MLA-AL00: &id170
+MHA-L29: *id170
+MHA-TL00: *id171
+MLA-AL00: &id172
   codename: ''
   model_name: HUAWEI 麦芒 5 全网通高配版
   name: HUAWEI 麦芒 5
-MLA-AL10: *id170
-MLA-L01: &id171
+MLA-AL10: *id172
+MLA-L01: &id173
   codename: ''
   model_name: HUAWEI nova Plus
   name: HUAWEI nova Plus
-MLA-L02: *id171
-MLA-L03: *id171
-MLA-L11: *id171
-MLA-L12: *id171
-MLA-L13: *id171
-MLA-TL00: &id172
+MLA-L02: *id173
+MLA-L03: *id173
+MLA-L11: *id173
+MLA-L12: *id173
+MLA-L13: *id173
+MLA-TL00: &id174
   codename: ''
   model_name: HUAWEI G9 Plus 双 4G 版
   name: HUAWEI G9 Plus
-MLA-TL10: *id172
-MLA-UL00: *id172
-MOA-AL00: &id173
+MLA-TL10: *id174
+MLA-UL00: *id174
+MOA-AL00: &id175
   codename: moana
   model_name: 荣耀畅玩 9A 移动 4G+ 版
   name: 荣耀畅玩 9A
-MOA-AL20: *id173
+MOA-AL20: *id175
 MOA-LX9N:
   codename: moana
   model_name: HONOR 9A Dual SIM
   name: HONOR 9A
-MOA-TL00: *id173
+MOA-TL00: *id175
 MON-AL19: *id046
 MON-W19: *id046
-MRC-W00: &id174
+MRC-W00: &id176
   codename: ''
   model_name: HUAWEI MateBook D (2018) i3 集显
   name: HUAWEI MateBook D
-MRC-W10BR: *id174
-MRC-W50: *id174
-MRC-W50R: *id174
-MRC-W60: *id174
-MRC-W60R: *id174
-MRC-W70: *id174
-MRD-AL00: &id175
+MRC-W10BR: *id176
+MRC-W50: *id176
+MRC-W50R: *id176
+MRC-W60: *id176
+MRC-W60R: *id176
+MRC-W70: *id176
+MRD-AL00: &id177
   codename: madrid
   model_name: 华为畅享 9e 移动 4G+ 版
   name: 华为畅享 9e
-MRD-TL00: *id175
-MRX-AL09: &id176
+MRD-TL00: *id177
+MRX-AL09: &id178
   codename: ''
   model_name: HUAWEI MatePad Pro 5G 10.8 英寸 全网通版
   name: HUAWEI MatePad Pro
-MRX-AL19: *id176
-MRX-AN19: *id176
-MRX-W09: *id176
-MRX-W19: *id176
-MRX-W29: *id176
-MRX-W39: *id176
-MT1-T00: &id177
+MRX-AL19: *id178
+MRX-AN19: *id178
+MRX-W09: *id178
+MRX-W19: *id178
+MRX-W29: *id178
+MRX-W39: *id178
+MT1-T00: &id179
   codename: ''
   model_name: 华为 Ascend Mate 联通版
   name: 华为 Ascend Mate
-MT1-U06: *id177
-MT2-C00: &id178
+MT1-U06: *id179
+MT2-C00: &id180
   codename: ''
   model_name: 华为 Ascend Mate 2 联通 4G 版
   name: 华为 Ascend Mate 2
-MT2-L02: *id178
-MT2-L05: *id178
-MT2-U071: *id178
-MT7-CL00: &id179
+MT2-L02: *id180
+MT2-L05: *id180
+MT2-U071: *id180
+MT7-CL00: &id181
   codename: jazz
   model_name: 华为 Ascend Mate 7 电信版
   name: 华为 Ascend Mate 7
-MT7-L09: &id180
+MT7-L09: &id182
   codename: jazz
   model_name: HUAWEI Ascend Mate 7 Dual SIM
   name: HUAWEI Ascend Mate 7
-MT7-TL00: *id179
-MT7-TL10: *id180
-MT7-UL00: *id179
-MXW-AN00: &id181
+MT7-TL00: *id181
+MT7-TL10: *id182
+MT7-UL00: *id181
+MXW-AN00: &id183
   codename: maxwell
   model_name: 荣耀 30 青春版 5G 移动定制版
   name: 荣耀 30 青春版
-MXW-TN00: *id181
-MYA-AL10: &id182
+MXW-TN00: *id183
+MYA-AL10: &id184
   codename: maya
   model_name: 荣耀畅玩 6 移动定制版
   name: 荣耀畅玩 6
-MYA-TL10: *id182
-NBZ-WBE9: &id183
+MYA-TL10: *id184
+NBZ-WBE9: &id185
   codename: ''
   model_name: HUAWEI MateBook B3-410 i7
   name: HUAWEI MateBook B3-410
-NBZ-WBH9: *id183
-NBZ-WBM9: *id183
-NCE-AL00: &id184
+NBZ-WBH9: *id185
+NBZ-WBM9: *id185
+NCE-AL00: &id186
   codename: ''
   model_name: 华为畅享 6 移动 4G+ 版
   name: 华为畅享 6
-NCE-AL10: *id184
-NCE-TL00: *id184
-NCE-TL10: *id184
-NEM-AL10: &id186
+NCE-AL10: *id186
+NCE-TL00: *id186
+NCE-TL10: *id186
+NEM-AL10: &id188
   codename: nemo
   model_name: 荣耀畅玩 5C 双 4G 版
   name: 荣耀畅玩 5C
-NEM-L21: &id185
+NEM-L21: &id187
   codename: nemo
   model_name: HONOR 5C Dual SIM
   name: HONOR 5C
-NEM-L22: *id185
-NEM-L51: *id185
-NEM-TL00: *id186
-NEM-TL00H: *id186
-NEM-UL00: *id186
+NEM-L22: *id187
+NEM-L51: *id187
+NEM-TL00: *id188
+NEM-TL00H: *id188
+NEM-UL00: *id188
 NEO-AL00:
   codename: neo
   model_name: HUAWEI Mate RS 保时捷设计
@@ -1339,68 +1354,68 @@ NTS-AL00:
   codename: ''
   model_name: 荣耀 Magic 全网通版
   name: 荣耀 Magic
-NXT-AL10: &id187
+NXT-AL10: &id189
   codename: next
   model_name: HUAWEI Mate 8 电信版
   name: HUAWEI Mate 8
-NXT-CL00: *id187
-NXT-DL00: *id187
-NXT-L09: &id188
+NXT-CL00: *id189
+NXT-DL00: *id189
+NXT-L09: &id190
   codename: next
   model_name: HUAWEI Mate 8 Dual SIM
   name: HUAWEI Mate 8
-NXT-L29: *id188
-NXT-TL00: *id187
-NbB-WAE9P: &id189
+NXT-L29: *id190
+NXT-TL00: *id189
+NbB-WAE9P: &id191
   codename: ''
   model_name: HUAWEI MateBook D 14 (2020) R7
   name: HUAWEI MateBook D 14
-NbB-WAH9: *id189
-NbB-WAH9P: *id189
-Nbl-WAE9HN: &id190
+NbB-WAH9: *id191
+NbB-WAH9P: *id191
+Nbl-WAE9HN: &id192
   codename: nobelk
   model_name: 荣耀 MagicBook 14 i7 (16GB+512GB)
   name: 荣耀 MagicBook 14
-Nbl-WAE9HNP: *id190
-Nbl-WAH9HN: *id190
-Nbl-WAH9HNP: *id190
-Nbl-WAP9HNL: *id190
-Nbl-WAP9HNR: *id190
-Nbl-WAQ9HNL: *id190
-Nbl-WAQ9HNR: *id190
-Nbl-WAQ9HNRP: *id190
-Nbl-WAQ9L: &id191
+Nbl-WAE9HNP: *id192
+Nbl-WAH9HN: *id192
+Nbl-WAH9HNP: *id192
+Nbl-WAP9HNL: *id192
+Nbl-WAP9HNR: *id192
+Nbl-WAQ9HNL: *id192
+Nbl-WAQ9HNR: *id192
+Nbl-WAQ9HNRP: *id192
+Nbl-WAQ9L: &id193
   codename: nobelk
   model_name: HUAWEI MateBook D 14 R5 Linux 版
   name: HUAWEI MateBook D 14
-Nbl-WAQ9R: *id191
-Nbl-WAQ9RP: *id191
-NblL-WFP9: *id189
-NblL-WFP9HN: &id192
+Nbl-WAQ9R: *id193
+Nbl-WAQ9RP: *id193
+NblL-WFP9: *id191
+NblL-WFP9HN: &id194
   codename: nobell
   model_name: 荣耀 MagicBook 14 2020 R7
   name: 荣耀 MagicBook 14 2020
-NblL-WFQ9: *id189
-NblL-WFQ9HN: *id192
-OSCA-550: &id194
+NblL-WFQ9: *id191
+NblL-WFQ9HN: *id194
+OSCA-550: &id196
   codename: osca
   model_name: 荣耀智慧屏 PRO 55 英寸 (4GB+64GB)
   name: 荣耀智慧屏 PRO
-OSCA-550A: &id193
+OSCA-550A: &id195
   codename: osca
   model_name: 荣耀智慧屏 55 英寸 (4GB+32GB)
   name: 荣耀智慧屏
-OSCA-550AX: *id193
-OSCA-550X: *id194
+OSCA-550AX: *id195
+OSCA-550X: *id196
 OXF-AN00:
   codename: oxford
   model_name: 荣耀 V30 5G 全网通版
   name: 荣耀 V30
-OXF-AN10: &id195
+OXF-AN10: &id197
   codename: oxford
   model_name: HONOR View30 PRO Dual SIM
   name: HONOR View30 PRO
-OXF-N29: *id195
+OXF-N29: *id197
 OXP-AN00:
   codename: oxford
   model_name: 荣耀 Play 4 Pro 5G 全网通版
@@ -1413,243 +1428,243 @@ P6 S-U06:
   codename: ''
   model_name: 华为 Ascend P6S 联通版
   name: 华为 Ascend P6S
-P6-C00: &id196
+P6-C00: &id198
   codename: ''
   model_name: 华为 Ascend P6 电信版
   name: 华为 Ascend P6
-P6-T00: *id196
-P6-T00V: *id196
+P6-T00: *id198
+P6-T00V: *id198
 P6-U06:
   codename: ''
   model_name: HUAWEI Ascend P6 Single SIM
   name: HUAWEI Ascend P6
-P7-L00: &id197
+P7-L00: &id199
   codename: sophia
   model_name: 华为 Ascend P7 电信版
   name: 华为 Ascend P7
-P7-L05: *id197
-P7-L07: *id197
-P7-L09: *id197
-P7-L10: &id198
+P7-L05: *id199
+P7-L07: *id199
+P7-L09: *id199
+P7-L10: &id200
   codename: sophia
   model_name: HUAWEI Ascend P7
   name: HUAWEI Ascend P7
-P7-L11: *id198
-P7-L12: *id198
+P7-L11: *id200
+P7-L12: *id200
 PAK-AL09:
   codename: ''
   model_name: HUAWEI MateBook E (2019)
   name: HUAWEI MateBook E
-PAR-AL00: &id200
+PAR-AL00: &id202
   codename: paris
   model_name: HUAWEI nova 3 移动 4G+ 版
   name: HUAWEI nova 3
-PAR-L21: &id199
+PAR-L21: &id201
   codename: paris
   model_name: HUAWEI nova 3
   name: HUAWEI nova 3
-PAR-L29: *id199
-PAR-LX1: *id199
-PAR-LX1M: *id199
-PAR-LX9: *id199
-PAR-TL00: *id200
-PCT-AL10: &id201
+PAR-L29: *id201
+PAR-LX1: *id201
+PAR-LX1M: *id201
+PAR-LX9: *id201
+PAR-TL00: *id202
+PCT-AL10: &id203
   codename: princeton
   model_name: HONOR View20 Dual SIM
   name: HONOR View20
-PCT-L29: *id201
+PCT-L29: *id203
 PCT-TL10:
   codename: princeton
   model_name: 荣耀 V20 移动 4G+ 版
   name: 荣耀 V20
-PE-CL00: &id202
+PE-CL00: &id204
   codename: pine
   model_name: 荣耀 6 Plus 电信版
   name: 荣耀 6 Plus
-PE-TL00M: *id202
+PE-TL00M: *id204
 PE-TL10:
   codename: pine
   model_name: HONOR 6 Plus Dual SIM
   name: HONOR 6 Plus
-PE-TL20: *id202
-PE-UL00: *id202
-PIC-AL00: &id204
+PE-TL20: *id204
+PE-UL00: *id204
+PIC-AL00: &id206
   codename: picasso
   model_name: HUAWEI nova 2 移动 4G+ 版
   name: HUAWEI nova 2
-PIC-L09: &id203
+PIC-L09: &id205
   codename: picasso
   model_name: HUAWEI nova 2 Dual SIM
   name: HUAWEI nova 2
-PIC-LX9: *id203
-PIC-TL00: *id204
-PL-W09: &id205
+PIC-LX9: *id205
+PIC-TL00: *id206
+PL-W09: &id207
   codename: ''
   model_name: HUAWEI MateBook D i7
   name: HUAWEI MateBook D
-PL-W19: *id205
-PL-W29: *id205
+PL-W19: *id207
+PL-W29: *id207
 PLAT-760:
   codename: plat
   model_name: 华为智慧屏 X65
   name: 华为智慧屏
-PLE-703L: *id094
-PLE-703LT: *id094
-PLK-AL10: &id206
+PLE-703L: *id095
+PLE-703LT: *id095
+PLK-AL10: &id208
   codename: plank
   model_name: 荣耀 7 电信版
   name: 荣耀 7
-PLK-CL00: *id206
+PLK-CL00: *id208
 PLK-L01:
   codename: plank
   model_name: HONOR 7 Dual SIM
   name: HONOR 7
-PLK-TL00: *id206
-PLK-TL01H: *id206
-PLK-TL11H: *id206
-PLK-UL00: *id206
-POT-AL00: &id207
+PLK-TL00: *id208
+PLK-TL01H: *id208
+PLK-TL11H: *id208
+PLK-UL00: *id208
+POT-AL00: &id209
   codename: potterpro
   model_name: HUAWEI 麦芒 8 全网通版
   name: HUAWEI 麦芒 8
-POT-AL00a: &id209
+POT-AL00a: &id211
   codename: potter
   model_name: 华为畅享 9S 移动 4G+ 版
   name: 华为畅享 9S
-POT-AL10: *id207
-POT-LX1: &id208
+POT-AL10: *id209
+POT-LX1: &id210
   codename: potter
   model_name: HUAWEI P Smart 2019
   name: HUAWEI P Smart 2019
-POT-LX1AF: *id208
-POT-LX1RU: *id208
-POT-LX1T: *id208
+POT-LX1AF: *id210
+POT-LX1RU: *id210
+POT-LX1T: *id210
 POT-LX2J:
   codename: potter
   model_name: HUAWEI nova lite 3 (Japan)
   name: HUAWEI nova lite 3
-POT-LX3: *id208
-POT-TL00a: *id209
-PRA-AL00: &id210
+POT-LX3: *id210
+POT-TL00a: *id211
+PRA-AL00: &id212
   codename: prague
   model_name: 荣耀 8 青春版 移动定制版
   name: 荣耀 8 青春版
-PRA-AL00X: *id210
-PRA-LA1: &id211
+PRA-AL00X: *id212
+PRA-LA1: &id213
   codename: prague
   model_name: HUAWEI P8 lite 2017
   name: HUAWEI P8 lite 2017
-PRA-LX1: *id211
-PRA-LX2: &id212
+PRA-LX1: *id213
+PRA-LX2: &id214
   codename: prague
   model_name: HUAWEI nova lite
   name: HUAWEI nova lite
-PRA-LX3: *id212
-PRA-TL10: *id210
-RIO-AL00: &id213
+PRA-LX3: *id214
+PRA-TL10: *id212
+RIO-AL00: &id215
   codename: rio
   model_name: 华为麦芒 4 电信 4G 版
   name: 华为麦芒 4
-RIO-CL00: *id213
-RIO-TL00: &id214
+RIO-CL00: *id215
+RIO-TL00: &id216
   codename: rio
   model_name: HUAWEI G7 Plus 联通版
   name: HUAWEI G7 Plus
-RIO-UL00: *id214
+RIO-UL00: *id216
 RNE-AL00:
   codename: rhone
   model_name: HUAWEI 麦芒 6 全网通版
   name: HUAWEI 麦芒 6
-RNE-L01: &id215
+RNE-L01: &id217
   codename: rhone
   model_name: HUAWEI Mate 10 Lite Dual SIM
   name: HUAWEI Mate 10 Lite
-RNE-L02: &id216
+RNE-L02: &id218
   codename: rhone
   model_name: HUAWEI nova 2 Dual SIM
   name: HUAWEI nova 2i
-RNE-L03: *id215
-RNE-L21: *id215
-RNE-L22: *id216
-RNE-L23: *id215
+RNE-L03: *id217
+RNE-L21: *id217
+RNE-L22: *id218
+RNE-L23: *id217
 RVL-AL09:
   codename: ravel
   model_name: 荣耀 Note 10 全网通版
   name: 荣耀 Note 10
-S8-301U: &id217
+S8-301U: &id219
   codename: ''
   model_name: 华为 MediaPad M1 LTE 版
   name: 华为 MediaPad M1
-S8-301W: *id217
-S8-303L: *id217
-S8-701u: &id218
+S8-301W: *id219
+S8-303L: *id219
+S8-701u: &id220
   codename: ''
   model_name: 荣耀平板 LTE 版
   name: 荣耀平板
-S8-701w: *id218
-SCL-AL00: &id219
+S8-701w: *id220
+SCL-AL00: &id221
   codename: scale
   model_name: 荣耀 4A 电信版
   name: 荣耀 4A
-SCL-CL00: *id219
-SCL-TL00: *id219
-SCL-TL00H: *id219
-SCM-AL09: &id220
+SCL-CL00: *id221
+SCL-TL00: *id221
+SCL-TL00H: *id221
+SCM-AL09: &id222
   codename: schumann
   model_name: 华为平板 M6 10.8 英寸 全网通版
   name: 华为平板 M6
-SCM-W09: *id220
-SCMR-AL09: &id221
+SCM-W09: *id222
+SCMR-AL09: &id223
   codename: schumannr
   model_name: HUAWEI MatePad 10.8 英寸 全网通版
   name: HUAWEI MatePad
-SCMR-W09: *id221
-SEA-AL00: &id222
+SCMR-W09: *id223
+SEA-AL00: &id224
   codename: seattle
   model_name: HUAWEI nova 5 移动 4G+ 版
   name: HUAWEI nova 5
-SEA-AL10: &id223
+SEA-AL10: &id225
   codename: seattle
   model_name: HUAWEI nova 5 Pro 移动 4G+ 版
   name: HUAWEI nova 5 Pro
-SEA-TL00: *id222
-SEA-TL10: *id223
-SHT-AL09: &id224
+SEA-TL00: *id224
+SEA-TL10: *id225
+SHT-AL09: &id226
   codename: schubert
   model_name: 华为平板 M5 8.4 英寸 全网通版
   name: 华为平板 M5
-SHT-W09: *id224
-SLA-AL00: &id225
+SHT-W09: *id226
+SLA-AL00: &id227
   codename: ''
   model_name: 华为畅享 7 移动 4G+ 版
   name: 华为畅享 7
-SLA-TL10: *id225
+SLA-TL10: *id227
 SNE-AL00:
   codename: sydneym
   model_name: HUAWEI 麦芒 7 全网通版
   name: HUAWEI 麦芒 7
-SNE-LX1: &id226
+SNE-LX1: &id228
   codename: sydneym
   model_name: HUAWEI Mate 20 lite
   name: HUAWEI Mate 20 lite
-SNE-LX2: *id226
-SNE-LX3: *id226
-SPN-AL00: &id227
+SNE-LX2: *id228
+SNE-LX3: *id228
+SPN-AL00: &id229
   codename: saipan
   model_name: HUAWEI nova 5z 移动 4G+ 版
   name: HUAWEI nova 5z
-SPN-TL00: *id227
-STF-AL00: &id228
+SPN-TL00: *id229
+STF-AL00: &id230
   codename: stanford
   model_name: 荣耀 9 移动 4G+ 版
   name: 荣耀 9
-STF-AL10: *id228
+STF-AL10: *id230
 STF-L09:
   codename: stanford
   model_name: HONOR 9 Dual SIM
   name: HONOR 9
-STF-TL10: *id228
-STK-AL00: &id230
+STF-TL10: *id230
+STK-AL00: &id232
   codename: stark
   model_name: 华为畅享 10 Plus 移动 4G+ 版
   name: 华为畅享 10 Plus
@@ -1657,36 +1672,36 @@ STK-L21:
   codename: stark
   model_name: HUAWEI P Smart Pro
   name: HUAWEI P Smart Pro
-STK-L22: &id229
+STK-L22: &id231
   codename: stark
   model_name: HONOR 9X Dual SIM
   name: HONOR 9X
-STK-LX1: *id229
-STK-LX3: *id229
-STK-TL00: *id230
-T1-701u: &id231
+STK-LX1: *id231
+STK-LX3: *id231
+STK-TL00: *id232
+T1-701u: &id233
   codename: ''
   model_name: 荣耀畅玩平板优享版
   name: 荣耀畅玩平板
-T1-701ua: *id231
-T1-821w: *id218
-T1-823L: *id218
-T1-A21w: &id232
+T1-701ua: *id233
+T1-821w: *id220
+T1-823L: *id220
+T1-A21w: &id234
   codename: ''
   model_name: 荣耀畅玩平板 note LTE 版
   name: 荣耀畅玩平板 note
-T1-A23L: *id232
+T1-A23L: *id234
 T8950: *id050
-T9510E: &id241
+T9510E: &id243
   codename: ''
   model_name: 华为 Ascend D1 四核 XL 移动版
   name: 华为 Ascend D1
-TAG-AL00: &id233
+TAG-AL00: &id235
   codename: ''
   model_name: 华为畅享 5S 电信 4G 版
   name: 华为畅享 5S
-TAG-CL00: *id233
-TAG-TL00: *id233
+TAG-CL00: *id235
+TAG-TL00: *id235
 TAH-AN00:
   codename: tahiti
   model_name: HUAWEI Mate X
@@ -1699,33 +1714,33 @@ TAH-N29m:
   codename: tahiti
   model_name: HUAWEI Mate Xs Dual SIM
   name: HUAWEI Mate Xs
-TAS-AL00: &id234
+TAS-AL00: &id236
   codename: taurus
   model_name: HUAWEI Mate 30 5G 移动定制版
   name: HUAWEI Mate 30
-TAS-AN00: *id234
-TAS-L09: &id235
+TAS-AN00: *id236
+TAS-L09: &id237
   codename: taurus
   model_name: HUAWEI Mate 30 Dual SIM
   name: HUAWEI Mate 30
-TAS-L29: *id235
-TAS-TL00: *id234
-TAS-TN00: *id234
-TEL-AN00: &id236
+TAS-L29: *id237
+TAS-TL00: *id236
+TAS-TN00: *id236
+TEL-AN00: &id238
   codename: teller
   model_name: 荣耀 X10 5G 移动定制版
   name: 荣耀 X10
-TEL-AN00a: *id236
-TEL-AN10: *id236
-TEL-TN00: *id236
-TEL-TN10: *id236
-TIT-AL00: &id237
+TEL-AN00a: *id238
+TEL-AN10: *id238
+TEL-TN00: *id238
+TEL-TN10: *id238
+TIT-AL00: &id239
   codename: ''
   model_name: 华为畅享 5 电信 4G 版
   name: 华为畅享 5
-TIT-CL00: *id237
-TIT-CL10: *id237
-TIT-TL00: *id237
+TIT-CL00: *id239
+TIT-CL10: *id239
+TIT-TL00: *id239
 TNN-AN00:
   codename: ''
   model_name: 华为麦芒 9 5G 全网通版
@@ -1734,33 +1749,33 @@ TNNH-AN00:
   codename: ''
   model_name: 荣耀 Play 4 5G 全网通版
   name: 荣耀 Play 4
-TNY-AL00: &id238
+TNY-AL00: &id240
   codename: tony
   model_name: 荣耀 Magic 2 移动 4G+ 版
   name: 荣耀 Magic 2
-TNY-AL10: *id238
-TNY-TL00: *id238
-TRT-AL00: &id239
+TNY-AL10: *id240
+TNY-TL00: *id240
+TRT-AL00: &id241
   codename: toronto
   model_name: 华为畅享 7 Plus 移动 4G+ 版
   name: 华为畅享 7 Plus
-TRT-AL00A: *id239
-TRT-TL10: *id239
-TRT-TL10A: *id239
+TRT-AL00A: *id241
+TRT-TL10: *id241
+TRT-TL10A: *id241
 U8860: *id050
 U8950D: *id050
-U9200: &id240
+U9200: &id242
   codename: ''
   model_name: 华为 Ascend P1 S
   name: 华为 Ascend P1
-U9200E: *id240
-U9200S: *id240
-U9500: *id241
-U9500E: *id241
+U9200E: *id242
+U9200S: *id242
+U9500: *id243
+U9500E: *id243
 U9508: *id050
-U9510: *id241
-U9510E: *id241
-VCE-AL00: &id242
+U9510: *id243
+U9510E: *id243
+VCE-AL00: &id244
   codename: venice
   model_name: HUAWEI nova 4 移动 4G+ 版
   name: HUAWEI nova 4
@@ -1768,7 +1783,7 @@ VCE-L22:
   codename: venice
   model_name: HUAWEI nova 4
   name: HUAWEI nova 4
-VCE-TL00: *id242
+VCE-TL00: *id244
 VEN-L22:
   codename: ''
   model_name: HONOR 8 Smart Dual SIM
@@ -1777,132 +1792,132 @@ VIE-AL10:
   codename: vienna
   model_name: HUAWEI P9 Plus
   name: HUAWEI P9 Plus
-VIE-L09: &id243
+VIE-L09: &id245
   codename: vienna
   model_name: HUAWEI P9 Plus Dual SIM
   name: HUAWEI P9 Plus
-VIE-L29: *id243
-VKY-AL00: &id245
+VIE-L29: *id245
+VKY-AL00: &id247
   codename: vicky
   model_name: HUAWEI P10 Plus 移动 4G+ 版
   name: HUAWEI P10 Plus
-VKY-L09: &id244
+VKY-L09: &id246
   codename: vicky
   model_name: HUAWEI P10 Plus Dual SIM
   name: HUAWEI P10 Plus
-VKY-L29: *id244
-VKY-TL00: *id245
-VLR-W09: &id246
+VKY-L29: *id246
+VKY-TL00: *id247
+VLR-W09: &id248
   codename: ''
   model_name: 荣耀 MagicBook 2019 科技尝鲜版 i7
   name: 荣耀 MagicBook 2019
-VLR-W09L: *id246
-VLR-W19: *id246
-VLR-W19L: *id246
-VLR-W19LP: *id246
-VLR-W29: *id246
-VLR-W29L: *id246
-VLT-W50: &id247
+VLR-W09L: *id248
+VLR-W19: *id248
+VLR-W19L: *id248
+VLR-W19LP: *id248
+VLR-W29: *id248
+VLR-W29L: *id248
+VLT-W50: &id249
   codename: ''
   model_name: 荣耀 MagicBook i7
   name: 荣耀 MagicBook
-VLT-W60: *id247
-VNS-AL00: &id248
+VLT-W60: *id249
+VNS-AL00: &id250
   codename: ''
   model_name: HUAWEI G9 青春版 电信版
   name: HUAWEI G9 青春版
-VNS-CL00: *id248
-VNS-DL00: *id248
-VNS-L21: &id249
+VNS-CL00: *id250
+VNS-DL00: *id250
+VNS-L21: &id251
   codename: ''
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
-VNS-L22: *id249
-VNS-L23: *id249
-VNS-L31: *id249
-VNS-L52: *id249
-VNS-L53: *id249
-VNS-L62: *id249
-VNS-TL00: *id248
-VOG-AL00: &id250
+VNS-L22: *id251
+VNS-L23: *id251
+VNS-L31: *id251
+VNS-L52: *id251
+VNS-L53: *id251
+VNS-L62: *id251
+VNS-TL00: *id250
+VOG-AL00: &id252
   codename: vogue
   model_name: HUAWEI P30 Pro 移动 4G+ 版
   name: HUAWEI P30 Pro
-VOG-AL10: *id250
-VOG-L09: &id251
+VOG-AL10: *id252
+VOG-L09: &id253
   codename: vogue
   model_name: HUAWEI P30 Pro Dual SIM
   name: HUAWEI P30 Pro
-VOG-L29: *id251
-VOG-TL00: *id250
-VRD-AL09: &id252
+VOG-L29: *id253
+VOG-TL00: *id252
+VRD-AL09: &id254
   codename: verdi
   model_name: 华为平板 M6 高能版 8.4 英寸 全网通版
   name: 华为平板 M6
-VRD-AL10: *id252
-VRD-W09: *id252
-VRD-W10: *id252
-VTR-AL00: &id254
+VRD-AL10: *id254
+VRD-W09: *id254
+VRD-W10: *id254
+VTR-AL00: &id256
   codename: victoria
   model_name: HUAWEI P10 移动 4G+ 版
   name: HUAWEI P10
-VTR-L09: &id253
+VTR-L09: &id255
   codename: victoria
   model_name: HUAWEI P10 Dual SIM
   name: HUAWEI P10
-VTR-L29: *id253
-VTR-TL00: *id254
-WAS-AL00: &id256
+VTR-L29: *id255
+VTR-TL00: *id256
+WAS-AL00: &id258
   codename: warsaw
   model_name: HUAWEI nova 青春版 移动 4G+ 版
   name: HUAWEI nova 青春版
-WAS-L03T: &id255
+WAS-L03T: &id257
   codename: warsaw
   model_name: HUAWEI P10 lite
   name: HUAWEI P10 lite
-WAS-LX1: *id255
-WAS-LX1A: *id255
-WAS-LX2: *id255
-WAS-LX2J: *id255
-WAS-LX3: *id255
-WAS-TL10: *id256
-WKG-AN00: &id257
+WAS-LX1: *id257
+WAS-LX1A: *id257
+WAS-LX2: *id257
+WAS-LX2J: *id257
+WAS-LX3: *id257
+WAS-TL10: *id258
+WKG-AN00: &id259
   codename: ''
   model_name: 华为畅享 20 5G 移动定制版
   name: 华为畅享 20
-WKG-TN00: *id257
-WLZ-AL10: &id258
+WKG-TN00: *id259
+WLZ-AL10: &id260
   codename: waltz
   model_name: HUAWEI nova 6 4G 全网通版
   name: HUAWEI nova 6
-WLZ-AN00: *id258
-WRT-W19: &id259
+WLZ-AN00: *id260
+WRT-W19: &id261
   codename: wright
   model_name: HUAWEI MateBook 13 i7 Linux 版
   name: HUAWEI MateBook 13
-WRT-W19L: *id259
-WRT-W29: *id259
-WRT-W29L: *id259
-WRTB-WAH9L: &id260
+WRT-W19L: *id261
+WRT-W29: *id261
+WRT-W29L: *id261
+WRTB-WAH9L: &id262
   codename: wrightb
   model_name: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
   name: HUAWEI MateBook 13
-WRTB-WFE9L: *id260
-WRTB-WFH9L: *id260
-WT-W09: &id261
+WRTB-WFE9L: *id262
+WRTB-WFH9L: *id262
+WT-W09: &id263
   codename: ''
   model_name: HUAWEI MateBook X i7
   name: HUAWEI MateBook X
-WT-W19: *id261
-YAL-AL00: &id262
+WT-W19: *id263
+YAL-AL00: &id264
   codename: yale
   model_name: 荣耀 20 移动 4G+ 版
   name: 荣耀 20
-YAL-AL10: &id263
+YAL-AL10: &id265
   codename: yale
   model_name: 荣耀 20 PRO 移动 4G+ 版
   name: 荣耀 20 PRO
-YAL-AL50: &id264
+YAL-AL50: &id266
   codename: yalese
   model_name: 荣耀 20S 移动 4G+ 版
   name: 荣耀 20S
@@ -1914,6 +1929,6 @@ YAL-L41:
   codename: yale
   model_name: HONOR 20 PRO Dual SIM
   name: HONOR 20 PRO
-YAL-TL00: *id262
-YAL-TL10: *id263
-YAL-TL50: *id264
+YAL-TL00: *id264
+YAL-TL10: *id265
+YAL-TL50: *id266
