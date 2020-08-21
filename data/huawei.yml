@@ -111,6 +111,7 @@ BZD-AL00: &id019
   codename: ''
   model_name: 华为平板 C3 8 英寸 2020 款 全网通版
   name: 华为平板 C3
+BZD-AL10: *id019
 BZD-W00: *id019
 BZK-L00: &id020
   codename: kobe
