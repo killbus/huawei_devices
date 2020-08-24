@@ -33,7 +33,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/
-        git commit -m "Sync: $(date +%d.%m.%Y)"
+        git commit -m "Sync: $(date +%d.%m.%Y)" && echo "::set-output name=committed::1" || echo "Nothing to update"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
