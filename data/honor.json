@@ -2,7 +2,7 @@
  "MT1-T00": {
   "codename": "",
   "name": "华为 Ascend Mate",
-  "model_name": "华为 Ascend Mate 联通版"
+  "model_name": "华为 Ascend Mate 移动版"
  },
  "MT1-U06": {
   "codename": "",
@@ -12,17 +12,17 @@
  "MT2-U071": {
   "codename": "",
   "name": "华为 Ascend Mate 2",
-  "model_name": "华为 Ascend Mate 2 联通 4G 版"
+  "model_name": "华为 Ascend Mate 2 联通 3G 版"
  },
  "MT2-C00": {
   "codename": "",
   "name": "华为 Ascend Mate 2",
-  "model_name": "华为 Ascend Mate 2 联通 4G 版"
+  "model_name": "华为 Ascend Mate 2 电信 3G 版"
  },
  "MT2-L02": {
   "codename": "",
   "name": "华为 Ascend Mate 2",
-  "model_name": "华为 Ascend Mate 2 联通 4G 版"
+  "model_name": "华为 Ascend Mate 2 移动 4G 版"
  },
  "MT2-L05": {
   "codename": "",
@@ -32,7 +32,7 @@
  "MT7-TL00": {
   "codename": "jazz",
   "name": "华为 Ascend Mate 7",
-  "model_name": "华为 Ascend Mate 7 电信版"
+  "model_name": "华为 Ascend Mate 7 移动版"
  },
  "MT7-TL10": {
   "codename": "jazz",
@@ -42,7 +42,7 @@
  "MT7-UL00": {
   "codename": "jazz",
   "name": "华为 Ascend Mate 7",
-  "model_name": "华为 Ascend Mate 7 电信版"
+  "model_name": "华为 Ascend Mate 7 联通版"
  },
  "MT7-CL00": {
   "codename": "jazz",
@@ -52,7 +52,7 @@
  "CRR-TL00": {
   "codename": "carrera",
   "name": "HUAWEI Mate S",
-  "model_name": "HUAWEI Mate S 电信臻逸版"
+  "model_name": "HUAWEI Mate S 移动臻享版"
  },
  "CRR-UL00": {
   "codename": "carrera",
@@ -62,12 +62,12 @@
  "CRR-UL20": {
   "codename": "carrera",
   "name": "HUAWEI Mate S",
-  "model_name": "HUAWEI Mate S 电信臻逸版"
+  "model_name": "HUAWEI Mate S 双 4G 臻逸版"
  },
  "CRR-CL00": {
   "codename": "carrera",
   "name": "HUAWEI Mate S",
-  "model_name": "HUAWEI Mate S 电信臻逸版"
+  "model_name": "HUAWEI Mate S 电信臻享版"
  },
  "CRR-CL20": {
   "codename": "carrera",
@@ -77,17 +77,17 @@
  "NXT-AL10": {
   "codename": "next",
   "name": "HUAWEI Mate 8",
-  "model_name": "HUAWEI Mate 8 电信版"
+  "model_name": "HUAWEI Mate 8 全网通版"
  },
  "NXT-TL00": {
   "codename": "next",
   "name": "HUAWEI Mate 8",
-  "model_name": "HUAWEI Mate 8 电信版"
+  "model_name": "HUAWEI Mate 8 移动版"
  },
  "NXT-DL00": {
   "codename": "next",
   "name": "HUAWEI Mate 8",
-  "model_name": "HUAWEI Mate 8 电信版"
+  "model_name": "HUAWEI Mate 8 双 4G 版"
  },
  "NXT-CL00": {
   "codename": "next",
@@ -97,7 +97,7 @@
  "MHA-AL00": {
   "codename": "manhattan",
   "name": "HUAWEI Mate 9",
-  "model_name": "HUAWEI Mate 9 移动 4G+ 版"
+  "model_name": "HUAWEI Mate 9 全网通版"
  },
  "MHA-TL00": {
   "codename": "manhattan",
@@ -112,7 +112,7 @@
  "ALP-AL00": {
   "codename": "alps",
   "name": "HUAWEI Mate 10",
-  "model_name": "HUAWEI Mate 10 移动 4G+ 版"
+  "model_name": "HUAWEI Mate 10 全网通版"
  },
  "ALP-TL00": {
   "codename": "alps",
@@ -137,7 +137,7 @@
  "HMA-AL00": {
   "codename": "hima",
   "name": "HUAWEI Mate 20",
-  "model_name": "HUAWEI Mate 20 移动 4G+ 版"
+  "model_name": "HUAWEI Mate 20 全网通版"
  },
  "HMA-TL00": {
   "codename": "hima",
@@ -147,12 +147,12 @@
  "LYA-AL00": {
   "codename": "laya",
   "name": "HUAWEI Mate 20 Pro",
-  "model_name": "HUAWEI Mate 20 Pro 移动 4G+ 版"
+  "model_name": "HUAWEI Mate 20 Pro 全网通版"
  },
  "LYA-AL10": {
   "codename": "laya",
   "name": "HUAWEI Mate 20 Pro",
-  "model_name": "HUAWEI Mate 20 Pro 移动 4G+ 版"
+  "model_name": "HUAWEI Mate 20 Pro 全网通版 (8GB+256GB)"
  },
  "LYA-TL00": {
   "codename": "laya",
@@ -162,12 +162,12 @@
  "EVR-AL00": {
   "codename": "ever",
   "name": "HUAWEI Mate 20 X",
-  "model_name": "HUAWEI Mate 20 X 5G"
+  "model_name": "HUAWEI Mate 20 X 全网通版"
  },
  "EVR-TL00": {
   "codename": "ever",
   "name": "HUAWEI Mate 20 X",
-  "model_name": "HUAWEI Mate 20 X 5G"
+  "model_name": "HUAWEI Mate 20 X 移动 4G+ 版"
  },
  "EVR-AN00": {
   "codename": "ever",
@@ -187,17 +187,17 @@
  "TAS-AL00": {
   "codename": "taurus",
   "name": "HUAWEI Mate 30",
-  "model_name": "HUAWEI Mate 30 5G 移动定制版"
+  "model_name": "HUAWEI Mate 30 全网通版"
  },
  "TAS-TL00": {
   "codename": "taurus",
   "name": "HUAWEI Mate 30",
-  "model_name": "HUAWEI Mate 30 5G 移动定制版"
+  "model_name": "HUAWEI Mate 30 移动 4G+ 版"
  },
  "TAS-AN00": {
   "codename": "taurus",
   "name": "HUAWEI Mate 30",
-  "model_name": "HUAWEI Mate 30 5G 移动定制版"
+  "model_name": "HUAWEI Mate 30 5G 全网通版"
  },
  "TAS-TN00": {
   "codename": "taurus",
@@ -207,17 +207,17 @@
  "LIO-AL00": {
   "codename": "lion",
   "name": "HUAWEI Mate 30 Pro",
-  "model_name": "HUAWEI Mate 30 Pro 5G 移动定制版"
+  "model_name": "HUAWEI Mate 30 Pro 全网通版"
  },
  "LIO-TL00": {
   "codename": "lion",
   "name": "HUAWEI Mate 30 Pro",
-  "model_name": "HUAWEI Mate 30 Pro 5G 移动定制版"
+  "model_name": "HUAWEI Mate 30 Pro 移动 4G+ 版"
  },
  "LIO-AN00": {
   "codename": "lion",
   "name": "HUAWEI Mate 30 Pro",
-  "model_name": "HUAWEI Mate 30 Pro 5G 移动定制版"
+  "model_name": "HUAWEI Mate 30 Pro 5G 全网通版"
  },
  "LIO-TN00": {
   "codename": "lion",
@@ -237,12 +237,12 @@
  "U9200": {
   "codename": "",
   "name": "华为 Ascend P1",
-  "model_name": "华为 Ascend P1 S"
+  "model_name": "华为 Ascend P1"
  },
  "U9200E": {
   "codename": "",
   "name": "华为 Ascend P1",
-  "model_name": "华为 Ascend P1 S"
+  "model_name": "华为 Ascend P1 XL"
  },
  "U9200S": {
   "codename": "",
@@ -257,12 +257,12 @@
  "P6-T00": {
   "codename": "",
   "name": "华为 Ascend P6",
-  "model_name": "华为 Ascend P6 电信版"
+  "model_name": "华为 Ascend P6 移动渠道版"
  },
  "P6-T00V": {
   "codename": "",
   "name": "华为 Ascend P6",
-  "model_name": "华为 Ascend P6 电信版"
+  "model_name": "华为 Ascend P6 移动定制版"
  },
  "P6-U06": {
   "codename": "",
@@ -282,17 +282,17 @@
  "P7-L00": {
   "codename": "sophia",
   "name": "华为 Ascend P7",
-  "model_name": "华为 Ascend P7 电信版"
+  "model_name": "华为 Ascend P7 联通版"
  },
  "P7-L05": {
   "codename": "sophia",
   "name": "华为 Ascend P7",
-  "model_name": "华为 Ascend P7 电信版"
+  "model_name": "华为 Ascend P7 移动渠道版"
  },
  "P7-L07": {
   "codename": "sophia",
   "name": "华为 Ascend P7",
-  "model_name": "华为 Ascend P7 电信版"
+  "model_name": "华为 Ascend P7 移动定制版"
  },
  "P7-L09": {
   "codename": "sophia",
@@ -302,7 +302,7 @@
  "GRA-TL00": {
   "codename": "grace",
   "name": "HUAWEI P8",
-  "model_name": "HUAWEI P8 电信高配版"
+  "model_name": "HUAWEI P8 移动标配版"
  },
  "GRA-UL00": {
   "codename": "grace",
@@ -317,7 +317,7 @@
  "GRA-CL00": {
   "codename": "grace",
   "name": "HUAWEI P8",
-  "model_name": "HUAWEI P8 电信高配版"
+  "model_name": "HUAWEI P8 电信标配版"
  },
  "GRA-CL10": {
   "codename": "grace",
@@ -327,12 +327,12 @@
  "ALE-TL00": {
   "codename": "alice",
   "name": "HUAWEI P8 青春版",
-  "model_name": "HUAWEI P8 青春版 电信版"
+  "model_name": "HUAWEI P8 青春版 移动版"
  },
  "ALE-UL00": {
   "codename": "alice",
   "name": "HUAWEI P8 青春版",
-  "model_name": "HUAWEI P8 青春版 电信版"
+  "model_name": "HUAWEI P8 青春版 双 4G 版"
  },
  "ALE-CL00": {
   "codename": "alice",
@@ -352,22 +352,22 @@
  "EVA-AL00": {
   "codename": "eva",
   "name": "HUAWEI P9",
-  "model_name": "HUAWEI P9 电信版"
+  "model_name": "HUAWEI P9 全网通版 (32GB)"
  },
  "EVA-AL10": {
   "codename": "eva",
   "name": "HUAWEI P9",
-  "model_name": "HUAWEI P9 电信版"
+  "model_name": "HUAWEI P9 全网通版 (64GB)"
  },
  "EVA-TL00": {
   "codename": "eva",
   "name": "HUAWEI P9",
-  "model_name": "HUAWEI P9 电信版"
+  "model_name": "HUAWEI P9 移动版"
  },
  "EVA-DL00": {
   "codename": "eva",
   "name": "HUAWEI P9",
-  "model_name": "HUAWEI P9 电信版"
+  "model_name": "HUAWEI P9 双 4G 版"
  },
  "EVA-CL00": {
   "codename": "eva",
@@ -382,7 +382,7 @@
  "VTR-AL00": {
   "codename": "victoria",
   "name": "HUAWEI P10",
-  "model_name": "HUAWEI P10 移动 4G+ 版"
+  "model_name": "HUAWEI P10 全网通版"
  },
  "VTR-TL00": {
   "codename": "victoria",
@@ -392,7 +392,7 @@
  "VKY-AL00": {
   "codename": "vicky",
   "name": "HUAWEI P10 Plus",
-  "model_name": "HUAWEI P10 Plus 移动 4G+ 版"
+  "model_name": "HUAWEI P10 Plus 全网通版"
  },
  "VKY-TL00": {
   "codename": "vicky",
@@ -402,7 +402,7 @@
  "EML-AL00": {
   "codename": "emily",
   "name": "HUAWEI P20",
-  "model_name": "HUAWEI P20 移动 4G+ 版"
+  "model_name": "HUAWEI P20 全网通版"
  },
  "EML-TL00": {
   "codename": "emily",
@@ -412,22 +412,22 @@
  "CLT-AL00": {
   "codename": "charlotte",
   "name": "HUAWEI P20 Pro",
-  "model_name": "HUAWEI P20 Pro 移动 4G+ 版 (6GB+64GB)"
+  "model_name": "HUAWEI P20 Pro 全网通版"
  },
  "CLT-AL01": {
   "codename": "charlotte",
   "name": "HUAWEI P20 Pro",
-  "model_name": "HUAWEI P20 Pro 移动 4G+ 版 (6GB+64GB)"
+  "model_name": "HUAWEI P20 Pro 全网通版 (6GB+64GB)"
  },
  "CLT-AL00l": {
   "codename": "charlotte",
   "name": "HUAWEI P20 Pro",
-  "model_name": "HUAWEI P20 Pro 移动 4G+ 版 (6GB+64GB)"
+  "model_name": "HUAWEI P20 Pro 真皮限量版 全网通版"
  },
  "CLT-TL00": {
   "codename": "charlotte",
   "name": "HUAWEI P20 Pro",
-  "model_name": "HUAWEI P20 Pro 移动 4G+ 版 (6GB+64GB)"
+  "model_name": "HUAWEI P20 Pro 移动 4G+ 版"
  },
  "CLT-TL01": {
   "codename": "charlotte",
@@ -437,7 +437,7 @@
  "ELE-AL00": {
   "codename": "elle",
   "name": "HUAWEI P30",
-  "model_name": "HUAWEI P30 移动 4G+ 版"
+  "model_name": "HUAWEI P30 全网通版"
  },
  "ELE-TL00": {
   "codename": "elle",
@@ -447,12 +447,12 @@
  "VOG-AL00": {
   "codename": "vogue",
   "name": "HUAWEI P30 Pro",
-  "model_name": "HUAWEI P30 Pro 移动 4G+ 版"
+  "model_name": "HUAWEI P30 Pro 全网通版 (8GB+128GB)"
  },
  "VOG-AL10": {
   "codename": "vogue",
   "name": "HUAWEI P30 Pro",
-  "model_name": "HUAWEI P30 Pro 移动 4G+ 版"
+  "model_name": "HUAWEI P30 Pro 全网通版"
  },
  "VOG-TL00": {
   "codename": "vogue",
@@ -462,7 +462,7 @@
  "ANA-AN00": {
   "codename": "anna",
   "name": "HUAWEI P40",
-  "model_name": "HUAWEI P40 5G 移动定制版"
+  "model_name": "HUAWEI P40 5G 全网通版"
  },
  "ANA-TN00": {
   "codename": "anna",
@@ -472,7 +472,7 @@
  "ELS-AN00": {
   "codename": "elsa",
   "name": "HUAWEI P40 Pro",
-  "model_name": "HUAWEI P40 Pro 5G 移动定制版"
+  "model_name": "HUAWEI P40 Pro 5G 全网通版"
  },
  "ELS-TN00": {
   "codename": "elsa",
@@ -482,7 +482,7 @@
  "ELS-AN10": {
   "codename": "elsa",
   "name": "HUAWEI P40 Pro+",
-  "model_name": "HUAWEI P40 Pro+ 5G 移动定制版"
+  "model_name": "HUAWEI P40 Pro+ 5G 全网通版"
  },
  "ELS-TN10": {
   "codename": "elsa",
@@ -492,17 +492,17 @@
  "CAZ-AL00": {
   "codename": "cannes",
   "name": "HUAWEI nova",
-  "model_name": "HUAWEI nova 移动定制高配版"
+  "model_name": "HUAWEI nova 全网通标配版"
  },
  "CAZ-AL10": {
   "codename": "cannes",
   "name": "HUAWEI nova",
-  "model_name": "HUAWEI nova 移动定制高配版"
+  "model_name": "HUAWEI nova 全网通高配版"
  },
  "CAZ-TL10": {
   "codename": "cannes",
   "name": "HUAWEI nova",
-  "model_name": "HUAWEI nova 移动定制高配版"
+  "model_name": "HUAWEI nova 移动定制标配版"
  },
  "CAZ-TL20": {
   "codename": "cannes",
@@ -512,7 +512,7 @@
  "WAS-AL00": {
   "codename": "warsaw",
   "name": "HUAWEI nova 青春版",
-  "model_name": "HUAWEI nova 青春版 移动 4G+ 版"
+  "model_name": "HUAWEI nova 青春版 全网通版"
  },
  "WAS-TL10": {
   "codename": "warsaw",
@@ -522,7 +522,7 @@
  "PIC-AL00": {
   "codename": "picasso",
   "name": "HUAWEI nova 2",
-  "model_name": "HUAWEI nova 2 移动 4G+ 版"
+  "model_name": "HUAWEI nova 2 全网通版"
  },
  "PIC-TL00": {
   "codename": "picasso",
@@ -532,7 +532,7 @@
  "BAC-AL00": {
   "codename": "barca",
   "name": "HUAWEI nova 2 Plus",
-  "model_name": "HUAWEI nova 2 Plus 移动 4G+ 版"
+  "model_name": "HUAWEI nova 2 Plus 全网通版"
  },
  "BAC-TL00": {
   "codename": "barca",
@@ -542,7 +542,7 @@
  "HWI-AL00": {
   "codename": "hawaii",
   "name": "HUAWEI nova 2s",
-  "model_name": "HUAWEI nova 2s 移动 4G+ 版"
+  "model_name": "HUAWEI nova 2s 全网通版"
  },
  "HWI-TL00": {
   "codename": "hawaii",
@@ -552,7 +552,7 @@
  "ANE-AL00": {
   "codename": "anne",
   "name": "HUAWEI nova 3e",
-  "model_name": "HUAWEI nova 3e 移动 4G+ 版"
+  "model_name": "HUAWEI nova 3e 全网通版"
  },
  "ANE-TL00": {
   "codename": "anne",
@@ -562,7 +562,7 @@
  "PAR-AL00": {
   "codename": "paris",
   "name": "HUAWEI nova 3",
-  "model_name": "HUAWEI nova 3 移动 4G+ 版"
+  "model_name": "HUAWEI nova 3 全网通版"
  },
  "PAR-TL00": {
   "codename": "paris",
@@ -572,7 +572,7 @@
  "INE-AL00": {
   "codename": "sydneyi",
   "name": "HUAWEI nova 3i",
-  "model_name": "HUAWEI nova 3i 移动 4G+ 版"
+  "model_name": "HUAWEI nova 3i 全网通版"
  },
  "INE-TL00": {
   "codename": "sydneyi",
@@ -582,7 +582,7 @@
  "VCE-AL00": {
   "codename": "venice",
   "name": "HUAWEI nova 4",
-  "model_name": "HUAWEI nova 4 移动 4G+ 版"
+  "model_name": "HUAWEI nova 4 全网通版"
  },
  "VCE-TL00": {
   "codename": "venice",
@@ -592,7 +592,7 @@
  "MAR-AL00": {
   "codename": "marie",
   "name": "HUAWEI nova 4e",
-  "model_name": "HUAWEI nova 4e 移动 4G+ 版"
+  "model_name": "HUAWEI nova 4e 全网通版"
  },
  "MAR-TL00": {
   "codename": "marie",
@@ -602,7 +602,7 @@
  "SEA-AL00": {
   "codename": "seattle",
   "name": "HUAWEI nova 5",
-  "model_name": "HUAWEI nova 5 移动 4G+ 版"
+  "model_name": "HUAWEI nova 5 全网通版"
  },
  "SEA-TL00": {
   "codename": "seattle",
@@ -612,7 +612,7 @@
  "SEA-AL10": {
   "codename": "seattle",
   "name": "HUAWEI nova 5 Pro",
-  "model_name": "HUAWEI nova 5 Pro 移动 4G+ 版"
+  "model_name": "HUAWEI nova 5 Pro 全网通版"
  },
  "SEA-TL10": {
   "codename": "seattle",
@@ -622,12 +622,12 @@
  "GLK-AL00": {
   "codename": "",
   "name": "HUAWEI nova 5i",
-  "model_name": "HUAWEI nova 5i 联通定制版"
+  "model_name": "HUAWEI nova 5i 全网通版"
  },
  "GLK-TL00": {
   "codename": "",
   "name": "HUAWEI nova 5i",
-  "model_name": "HUAWEI nova 5i 联通定制版"
+  "model_name": "HUAWEI nova 5i 移动 4G+ 版"
  },
  "GLK-LX1U": {
   "codename": "",
@@ -637,7 +637,7 @@
  "SPN-AL00": {
   "codename": "saipan",
   "name": "HUAWEI nova 5z",
-  "model_name": "HUAWEI nova 5z 移动 4G+ 版"
+  "model_name": "HUAWEI nova 5z 全网通版"
  },
  "SPN-TL00": {
   "codename": "saipan",
@@ -647,7 +647,7 @@
  "WLZ-AN00": {
   "codename": "waltz",
   "name": "HUAWEI nova 6",
-  "model_name": "HUAWEI nova 6 4G 全网通版"
+  "model_name": "HUAWEI nova 6 5G 全网通版"
  },
  "WLZ-AL10": {
   "codename": "waltz",
@@ -657,7 +657,7 @@
  "JNY-AL10": {
   "codename": "jenny",
   "name": "HUAWEI nova 6 SE",
-  "model_name": "HUAWEI nova 6 SE 移动全网通版"
+  "model_name": "HUAWEI nova 6 SE 全网通版"
  },
  "JNY-TL10": {
   "codename": "jenny",
@@ -667,12 +667,12 @@
  "JEF-AN00": {
   "codename": "",
   "name": "HUAWEI nova 7",
-  "model_name": "HUAWEI nova 7 5G 移动全网通版"
+  "model_name": "HUAWEI nova 7 5G 全网通版"
  },
  "JEF-AN20": {
   "codename": "",
   "name": "HUAWEI nova 7",
-  "model_name": "HUAWEI nova 7 5G 移动全网通版"
+  "model_name": "HUAWEI nova 7 5G 全网通版"
  },
  "JEF-TN00": {
   "codename": "",
@@ -687,12 +687,12 @@
  "JER-AN10": {
   "codename": "",
   "name": "HUAWEI nova 7 Pro",
-  "model_name": "HUAWEI nova 7 Pro 5G 移动全网通版"
+  "model_name": "HUAWEI nova 7 Pro 5G 全网通版"
  },
  "JER-AN20": {
   "codename": "",
   "name": "HUAWEI nova 7 Pro",
-  "model_name": "HUAWEI nova 7 Pro 5G 移动全网通版"
+  "model_name": "HUAWEI nova 7 Pro 5G 全网通版"
  },
  "JER-TN10": {
   "codename": "",
@@ -707,12 +707,12 @@
  "CDY-AN00": {
   "codename": "cindy",
   "name": "HUAWEI nova 7 SE",
-  "model_name": "HUAWEI nova 7 SE 5G 移动全网通版"
+  "model_name": "HUAWEI nova 7 SE 5G 全网通版"
  },
  "CDY-AN20": {
   "codename": "cindy",
   "name": "HUAWEI nova 7 SE",
-  "model_name": "HUAWEI nova 7 SE 5G 移动全网通版"
+  "model_name": "HUAWEI nova 7 SE 5G 全网通版"
  },
  "CDY-TN00": {
   "codename": "cindy",
@@ -727,12 +727,12 @@
  "G6-T00": {
   "codename": "",
   "name": "华为 Ascend G6",
-  "model_name": "华为 Ascend G6 电信版"
+  "model_name": "华为 Ascend G6 移动版"
  },
  "G6-U00": {
   "codename": "",
   "name": "华为 Ascend G6",
-  "model_name": "华为 Ascend G6 电信版"
+  "model_name": "华为 Ascend G6 联通版"
  },
  "G6-C00": {
   "codename": "",
@@ -742,7 +742,7 @@
  "G7-TL00": {
   "codename": "",
   "name": "华为 Ascend G7",
-  "model_name": "华为 Ascend G7 联通版"
+  "model_name": "华为 Ascend G7 移动版"
  },
  "G7-UL00": {
   "codename": "",
@@ -752,7 +752,7 @@
  "RIO-TL00": {
   "codename": "rio",
   "name": "HUAWEI G7 Plus",
-  "model_name": "HUAWEI G7 Plus 联通版"
+  "model_name": "HUAWEI G7 Plus 移动版"
  },
  "RIO-UL00": {
   "codename": "rio",
@@ -762,17 +762,17 @@
  "VNS-AL00": {
   "codename": "",
   "name": "HUAWEI G9 青春版",
-  "model_name": "HUAWEI G9 青春版 电信版"
+  "model_name": "HUAWEI G9 青春版 全网通版"
  },
  "VNS-TL00": {
   "codename": "",
   "name": "HUAWEI G9 青春版",
-  "model_name": "HUAWEI G9 青春版 电信版"
+  "model_name": "HUAWEI G9 青春版 移动版"
  },
  "VNS-DL00": {
   "codename": "",
   "name": "HUAWEI G9 青春版",
-  "model_name": "HUAWEI G9 青春版 电信版"
+  "model_name": "HUAWEI G9 青春版 双 4G 版"
  },
  "VNS-CL00": {
   "codename": "",
@@ -782,12 +782,12 @@
  "MLA-TL00": {
   "codename": "",
   "name": "HUAWEI G9 Plus",
-  "model_name": "HUAWEI G9 Plus 双 4G 版"
+  "model_name": "HUAWEI G9 Plus 移动 4G 版"
  },
  "MLA-TL10": {
   "codename": "",
   "name": "HUAWEI G9 Plus",
-  "model_name": "HUAWEI G9 Plus 双 4G 版"
+  "model_name": "HUAWEI G9 Plus 移动全网通版"
  },
  "MLA-UL00": {
   "codename": "",
@@ -817,7 +817,7 @@
  "RIO-AL00": {
   "codename": "rio",
   "name": "华为麦芒 4",
-  "model_name": "华为麦芒 4 电信 4G 版"
+  "model_name": "华为麦芒 4 全网通版"
  },
  "RIO-CL00": {
   "codename": "rio",
@@ -827,7 +827,7 @@
  "MLA-AL00": {
   "codename": "",
   "name": "HUAWEI 麦芒 5",
-  "model_name": "HUAWEI 麦芒 5 全网通高配版"
+  "model_name": "HUAWEI 麦芒 5 全网通标配版"
  },
  "MLA-AL10": {
   "codename": "",
@@ -862,12 +862,12 @@
  "TIT-AL00": {
   "codename": "",
   "name": "华为畅享 5",
-  "model_name": "华为畅享 5 电信 4G 版"
+  "model_name": "华为畅享 5 全网通版"
  },
  "TIT-TL00": {
   "codename": "",
   "name": "华为畅享 5",
-  "model_name": "华为畅享 5 电信 4G 版"
+  "model_name": "华为畅享 5 移动 4G 版"
  },
  "TIT-CL00": {
   "codename": "",
@@ -882,12 +882,12 @@
  "TAG-AL00": {
   "codename": "",
   "name": "华为畅享 5S",
-  "model_name": "华为畅享 5S 电信 4G 版"
+  "model_name": "华为畅享 5S 全网通版"
  },
  "TAG-TL00": {
   "codename": "",
   "name": "华为畅享 5S",
-  "model_name": "华为畅享 5S 电信 4G 版"
+  "model_name": "华为畅享 5S 移动 4G 版"
  },
  "TAG-CL00": {
   "codename": "",
@@ -897,12 +897,12 @@
  "NCE-AL00": {
   "codename": "",
   "name": "华为畅享 6",
-  "model_name": "华为畅享 6 移动 4G+ 版"
+  "model_name": "华为畅享 6 全网通版"
  },
  "NCE-AL10": {
   "codename": "",
   "name": "华为畅享 6",
-  "model_name": "华为畅享 6 移动 4G+ 版"
+  "model_name": "华为畅享 6 全网通版"
  },
  "NCE-TL00": {
   "codename": "",
@@ -917,7 +917,7 @@
  "DIG-AL00": {
   "codename": "",
   "name": "华为畅享 6S",
-  "model_name": "华为畅享 6S 移动 4G+ 版"
+  "model_name": "华为畅享 6S 全网通版"
  },
  "DIG-TL10": {
   "codename": "",
@@ -927,12 +927,12 @@
  "TRT-AL00": {
   "codename": "toronto",
   "name": "华为畅享 7 Plus",
-  "model_name": "华为畅享 7 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 7 Plus 全网通版"
  },
  "TRT-AL00A": {
   "codename": "toronto",
   "name": "华为畅享 7 Plus",
-  "model_name": "华为畅享 7 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 7 Plus 全网通版"
  },
  "TRT-TL10": {
   "codename": "toronto",
@@ -947,7 +947,7 @@
  "SLA-AL00": {
   "codename": "",
   "name": "华为畅享 7",
-  "model_name": "华为畅享 7 移动 4G+ 版"
+  "model_name": "华为畅享 7 全网通版"
  },
  "SLA-TL10": {
   "codename": "",
@@ -957,17 +957,17 @@
  "FIG-AL00": {
   "codename": "figo",
   "name": "华为畅享 7S",
-  "model_name": "华为畅享 7S 移动 4G+ 高配版"
+  "model_name": "华为畅享 7S 全网通标配版"
  },
  "FIG-AL10": {
   "codename": "figo",
   "name": "华为畅享 7S",
-  "model_name": "华为畅享 7S 移动 4G+ 高配版"
+  "model_name": "华为畅享 7S 全网通高配版"
  },
  "FIG-TL00": {
   "codename": "figo",
   "name": "华为畅享 7S",
-  "model_name": "华为畅享 7S 移动 4G+ 高配版"
+  "model_name": "华为畅享 7S 移动 4G+ 标配版"
  },
  "FIG-TL10": {
   "codename": "figo",
@@ -977,17 +977,17 @@
  "FLA-AL00": {
   "codename": "florida",
   "name": "华为畅享 8 Plus",
-  "model_name": "华为畅享 8 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 8 Plus 全网通版"
  },
  "FLA-AL10": {
   "codename": "florida",
   "name": "华为畅享 8 Plus",
-  "model_name": "华为畅享 8 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 8 Plus 全网通版"
  },
  "FLA-AL20": {
   "codename": "florida",
   "name": "华为畅享 8 Plus",
-  "model_name": "华为畅享 8 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 8 Plus 全网通版"
  },
  "FLA-TL00": {
   "codename": "florida",
@@ -1002,27 +1002,27 @@
  "LDN-AL00": {
   "codename": "london",
   "name": "华为畅享 8",
-  "model_name": "华为畅享 8 移动 4G+ 高配版"
+  "model_name": "华为畅享 8 全网通标配版"
  },
  "LDN-AL10": {
   "codename": "london",
   "name": "华为畅享 8",
-  "model_name": "华为畅享 8 移动 4G+ 高配版"
+  "model_name": "华为畅享 8 全网通 NFC 版"
  },
  "LDN-AL20": {
   "codename": "london",
   "name": "华为畅享 8",
-  "model_name": "华为畅享 8 移动 4G+ 高配版"
+  "model_name": "华为畅享 8 全网通高配版"
  },
  "LDN-TL00": {
   "codename": "london",
   "name": "华为畅享 8",
-  "model_name": "华为畅享 8 移动 4G+ 高配版"
+  "model_name": "华为畅享 8 移动 4G+ 标配版"
  },
  "LDN-TL10": {
   "codename": "london",
   "name": "华为畅享 8",
-  "model_name": "华为畅享 8 移动 4G+ 高配版"
+  "model_name": "华为畅享 8 移动 4G+ NFC 版"
  },
  "LDN-TL20": {
   "codename": "london",
@@ -1032,7 +1032,7 @@
  "ATU-AL10": {
   "codename": "atomu",
   "name": "华为畅享 8e",
-  "model_name": "华为畅享 8e 移动 4G+ 版"
+  "model_name": "华为畅享 8e 全网通版"
  },
  "ATU-TL10": {
   "codename": "atomu",
@@ -1042,7 +1042,7 @@
  "DRA-AL00": {
   "codename": "dura",
   "name": "华为畅享 8e 青春",
-  "model_name": "华为畅享 8e 青春 移动 4G+ 版"
+  "model_name": "华为畅享 8e 青春 全网通版"
  },
  "DRA-TL00": {
   "codename": "dura",
@@ -1052,17 +1052,17 @@
  "JKM-AL00": {
   "codename": "jackman",
   "name": "华为畅享 9 Plus",
-  "model_name": "华为畅享 9 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 9 Plus 全网通版"
  },
  "JKM-AL00a": {
   "codename": "jackman",
   "name": "华为畅享 9 Plus",
-  "model_name": "华为畅享 9 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 9 Plus 全网通版 (4GB+64GB)"
  },
  "JKM-AL00b": {
   "codename": "jackman",
   "name": "华为畅享 9 Plus",
-  "model_name": "华为畅享 9 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 9 Plus 全网通版 (麒麟 710F)"
  },
  "JKM-TL00": {
   "codename": "jackman",
@@ -1072,7 +1072,7 @@
  "ARS-AL00": {
   "codename": "ares",
   "name": "华为畅享 Max",
-  "model_name": "华为畅享 Max 移动 4G+ 版"
+  "model_name": "华为畅享 Max 全网通版"
  },
  "ARS-TL00": {
   "codename": "ares",
@@ -1082,22 +1082,22 @@
  "DUB-AL00": {
   "codename": "dubai",
   "name": "华为畅享 9",
-  "model_name": "华为畅享 9 移动 4G+ 顶配版"
+  "model_name": "华为畅享 9 全网通标配/高配版"
  },
  "DUB-AL20": {
   "codename": "dubai",
   "name": "华为畅享 9",
-  "model_name": "华为畅享 9 移动 4G+ 顶配版"
+  "model_name": "华为畅享 9 全网通标配/高配版"
  },
  "DUB-AL00a": {
   "codename": "dubai",
   "name": "华为畅享 9",
-  "model_name": "华为畅享 9 移动 4G+ 顶配版"
+  "model_name": "华为畅享 9 全网通顶配版"
  },
  "DUB-TL00": {
   "codename": "dubai",
   "name": "华为畅享 9",
-  "model_name": "华为畅享 9 移动 4G+ 顶配版"
+  "model_name": "华为畅享 9 移动 4G+ 标配/高配版"
  },
  "DUB-TL00a": {
   "codename": "dubai",
@@ -1107,7 +1107,7 @@
  "POT-AL00a": {
   "codename": "potter",
   "name": "华为畅享 9S",
-  "model_name": "华为畅享 9S 移动 4G+ 版"
+  "model_name": "华为畅享 9S 全网通版"
  },
  "POT-TL00a": {
   "codename": "potter",
@@ -1117,7 +1117,7 @@
  "MRD-AL00": {
   "codename": "madrid",
   "name": "华为畅享 9e",
-  "model_name": "华为畅享 9e 移动 4G+ 版"
+  "model_name": "华为畅享 9e 全网通版"
  },
  "MRD-TL00": {
   "codename": "madrid",
@@ -1127,7 +1127,7 @@
  "STK-AL00": {
   "codename": "stark",
   "name": "华为畅享 10 Plus",
-  "model_name": "华为畅享 10 Plus 移动 4G+ 版"
+  "model_name": "华为畅享 10 Plus 全网通版"
  },
  "STK-TL00": {
   "codename": "stark",
@@ -1137,12 +1137,12 @@
  "ART-AL00x": {
   "codename": "arthur",
   "name": "华为畅享 10",
-  "model_name": "华为畅享 10 移动 4G+ 版"
+  "model_name": "华为畅享 10 全网通版"
  },
  "ART-AL00m": {
   "codename": "arthur",
   "name": "华为畅享 10",
-  "model_name": "华为畅享 10 移动 4G+ 版"
+  "model_name": "华为畅享 10 全网通版"
  },
  "ART-TL00x": {
   "codename": "arthur",
@@ -1152,7 +1152,7 @@
  "AQM-AL00": {
   "codename": "aquaman",
   "name": "华为畅享 10S",
-  "model_name": "华为畅享 10S 移动 4G+ 版"
+  "model_name": "华为畅享 10S 全网通版"
  },
  "AQM-TL00": {
   "codename": "aquaman",
@@ -1162,12 +1162,12 @@
  "MED-AL00": {
   "codename": "merida",
   "name": "华为畅享 10e",
-  "model_name": "华为畅享 10e 移动 4G+ 版"
+  "model_name": "华为畅享 10e 全网通版"
  },
  "MED-AL20": {
   "codename": "merida",
   "name": "华为畅享 10e",
-  "model_name": "华为畅享 10e 移动 4G+ 版"
+  "model_name": "华为畅享 10e 全网通版"
  },
  "MED-TL00": {
   "codename": "merida",
@@ -1182,7 +1182,7 @@
  "DVC-AN20": {
   "codename": "davinci",
   "name": "华为畅享 20 Pro",
-  "model_name": "华为畅享 20 Pro 5G 移动定制版"
+  "model_name": "华为畅享 20 Pro 5G 全网通版"
  },
  "DVC-TN20": {
   "codename": "davinci",
@@ -1192,7 +1192,7 @@
  "WKG-AN00": {
   "codename": "",
   "name": "华为畅享 20",
-  "model_name": "华为畅享 20 5G 移动定制版"
+  "model_name": "华为畅享 20 5G 全网通版"
  },
  "WKG-TN00": {
   "codename": "",
@@ -1202,12 +1202,12 @@
  "S8-301W": {
   "codename": "",
   "name": "华为 MediaPad M1",
-  "model_name": "华为 MediaPad M1 LTE 版"
+  "model_name": "华为 MediaPad M1 Wi-Fi 版"
  },
  "S8-301U": {
   "codename": "",
   "name": "华为 MediaPad M1",
-  "model_name": "华为 MediaPad M1 LTE 版"
+  "model_name": "华为 MediaPad M1 3G 版"
  },
  "S8-303L": {
   "codename": "",
@@ -1217,7 +1217,7 @@
  "M2-801W": {
   "codename": "mozart",
   "name": "华为揽阅 M2 8.0",
-  "model_name": "华为揽阅 M2 8.0 LTE 版"
+  "model_name": "华为揽阅 M2 8.0 Wi-Fi 版"
  },
  "M2-803L": {
   "codename": "mozart",
@@ -1227,7 +1227,7 @@
  "M2-A01W": {
   "codename": "",
   "name": "华为揽阅 M2 10.0",
-  "model_name": "华为揽阅 M2 10.0 LTE 版"
+  "model_name": "华为揽阅 M2 10.0 Wi-Fi 版"
  },
  "M2-A01L": {
   "codename": "",
@@ -1237,17 +1237,17 @@
  "PLE-703L": {
   "codename": "",
   "name": "华为揽阅 M2 青春版",
-  "model_name": "华为揽阅 M2 青春版 10.1 英寸 LTE 版"
+  "model_name": "华为揽阅 M2 青春版 7.0 英寸 全网通版"
  },
  "PLE-703LT": {
   "codename": "",
   "name": "华为揽阅 M2 青春版",
-  "model_name": "华为揽阅 M2 青春版 10.1 英寸 LTE 版"
+  "model_name": "华为揽阅 M2 青春版 7.0 英寸 双 4G 版"
  },
  "FDR-A01w": {
   "codename": "",
   "name": "华为揽阅 M2 青春版",
-  "model_name": "华为揽阅 M2 青春版 10.1 英寸 LTE 版"
+  "model_name": "华为揽阅 M2 青春版 10.1 英寸 Wi-Fi 版"
  },
  "FDR-A03L": {
   "codename": "",
@@ -1257,7 +1257,7 @@
  "BTV-W09": {
   "codename": "beethoven",
   "name": "华为平板 M3",
-  "model_name": "华为平板 M3 LTE 版"
+  "model_name": "华为平板 M3 Wi-Fi 版"
  },
  "BTV-DL09": {
   "codename": "beethoven",
@@ -1267,7 +1267,7 @@
  "CPN-W09": {
   "codename": "chopin",
   "name": "华为平板 M3 青春版",
-  "model_name": "华为平板 M3 青春版 8.0 英寸 全网通版"
+  "model_name": "华为平板 M3 青春版 8.0 英寸 Wi-Fi 版"
  },
  "CPN-AL00": {
   "codename": "chopin",
@@ -1277,7 +1277,7 @@
  "BAH-W09": {
   "codename": "bach",
   "name": "华为平板 M3 青春版",
-  "model_name": "华为平板 M3 青春版 10.1 英寸 全网通版"
+  "model_name": "华为平板 M3 青春版 10.1 英寸 Wi-Fi 版"
  },
  "BAH-AL00": {
   "codename": "bach",
@@ -1287,7 +1287,7 @@
  "SHT-W09": {
   "codename": "schubert",
   "name": "华为平板 M5",
-  "model_name": "华为平板 M5 8.4 英寸 全网通版"
+  "model_name": "华为平板 M5 8.4 英寸 Wi-Fi 版"
  },
  "SHT-AL09": {
   "codename": "schubert",
@@ -1297,17 +1297,17 @@
  "CMR-W09": {
   "codename": "cameron",
   "name": "华为平板 M5",
-  "model_name": "华为平板 M5 Pro 全网通版"
+  "model_name": "华为平板 M5 10.8 英寸 Wi-Fi 版"
  },
  "CMR-AL09": {
   "codename": "cameron",
   "name": "华为平板 M5",
-  "model_name": "华为平板 M5 Pro 全网通版"
+  "model_name": "华为平板 M5 10.8 英寸 全网通版"
  },
  "CMR-W19": {
   "codename": "cameron",
   "name": "华为平板 M5",
-  "model_name": "华为平板 M5 Pro 全网通版"
+  "model_name": "华为平板 M5 Pro Wi-Fi 版"
  },
  "CMR-AL19": {
   "codename": "cameron",
@@ -1317,7 +1317,7 @@
  "BAH2-W09": {
   "codename": "bach2",
   "name": "华为平板 M5 青春版",
-  "model_name": "华为平板 M5 青春版 10.1 英寸 全网通版"
+  "model_name": "华为平板 M5 青春版 10.1 英寸 Wi-Fi 版"
  },
  "BAH2-AL10": {
   "codename": "bach2",
@@ -1327,7 +1327,7 @@
  "JDN2-W09": {
   "codename": "jordan2",
   "name": "华为平板 M5 青春版",
-  "model_name": "华为平板 M5 青春版 8 英寸 全网通版"
+  "model_name": "华为平板 M5 青春版 8 英寸 Wi-Fi 版"
  },
  "JDN2-AL00": {
   "codename": "jordan2",
@@ -1342,17 +1342,17 @@
  "VRD-W09": {
   "codename": "verdi",
   "name": "华为平板 M6",
-  "model_name": "华为平板 M6 高能版 8.4 英寸 全网通版"
+  "model_name": "华为平板 M6 8.4 英寸 Wi-Fi 版"
  },
  "VRD-AL09": {
   "codename": "verdi",
   "name": "华为平板 M6",
-  "model_name": "华为平板 M6 高能版 8.4 英寸 全网通版"
+  "model_name": "华为平板 M6 8.4 英寸 全网通版"
  },
  "VRD-W10": {
   "codename": "verdi",
   "name": "华为平板 M6",
-  "model_name": "华为平板 M6 高能版 8.4 英寸 全网通版"
+  "model_name": "华为平板 M6 高能版 8.4 英寸 Wi-Fi 版"
  },
  "VRD-AL10": {
   "codename": "verdi",
@@ -1362,7 +1362,7 @@
  "SCM-W09": {
   "codename": "schumann",
   "name": "华为平板 M6",
-  "model_name": "华为平板 M6 10.8 英寸 全网通版"
+  "model_name": "华为平板 M6 10.8 英寸 Wi-Fi 版"
  },
  "SCM-AL09": {
   "codename": "schumann",
@@ -1372,32 +1372,32 @@
  "MRX-W09": {
   "codename": "",
   "name": "HUAWEI MatePad Pro",
-  "model_name": "HUAWEI MatePad Pro 5G 10.8 英寸 全网通版"
+  "model_name": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)"
  },
  "MRX-W29": {
   "codename": "",
   "name": "HUAWEI MatePad Pro",
-  "model_name": "HUAWEI MatePad Pro 5G 10.8 英寸 全网通版"
+  "model_name": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)"
  },
  "MRX-AL09": {
   "codename": "",
   "name": "HUAWEI MatePad Pro",
-  "model_name": "HUAWEI MatePad Pro 5G 10.8 英寸 全网通版"
+  "model_name": "HUAWEI MatePad Pro 10.8 英寸 全网通版 (6GB+128GB/8GB+256GB)"
  },
  "MRX-W19": {
   "codename": "",
   "name": "HUAWEI MatePad Pro",
-  "model_name": "HUAWEI MatePad Pro 5G 10.8 英寸 全网通版"
+  "model_name": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)"
  },
  "MRX-W39": {
   "codename": "",
   "name": "HUAWEI MatePad Pro",
-  "model_name": "HUAWEI MatePad Pro 5G 10.8 英寸 全网通版"
+  "model_name": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)"
  },
  "MRX-AL19": {
   "codename": "",
   "name": "HUAWEI MatePad Pro",
-  "model_name": "HUAWEI MatePad Pro 5G 10.8 英寸 全网通版"
+  "model_name": "HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512GB)"
  },
  "MRX-AN19": {
   "codename": "",
@@ -1407,7 +1407,7 @@
  "BAH3-W09": {
   "codename": "bach3",
   "name": "HUAWEI MatePad",
-  "model_name": "HUAWEI MatePad 10.4 英寸 全网通版"
+  "model_name": "HUAWEI MatePad 10.4 英寸 Wi-Fi 版"
  },
  "BAH3-AL00": {
   "codename": "bach3",
@@ -1417,7 +1417,7 @@
  "SCMR-W09": {
   "codename": "schumannr",
   "name": "HUAWEI MatePad",
-  "model_name": "HUAWEI MatePad 10.8 英寸 全网通版"
+  "model_name": "HUAWEI MatePad 10.8 英寸 Wi-Fi 版"
  },
  "SCMR-AL09": {
   "codename": "schumannr",
@@ -1427,7 +1427,7 @@
  "AGS2-W09": {
   "codename": "agassi2",
   "name": "华为畅享平板",
-  "model_name": "华为畅享平板 10.1 英寸 全网通版"
+  "model_name": "华为畅享平板 10.1 英寸 Wi-Fi 版"
  },
  "AGS2-AL00": {
   "codename": "agassi2",
@@ -1437,12 +1437,12 @@
  "AGS3-W00D": {
   "codename": "agassi3",
   "name": "华为畅享平板 2",
-  "model_name": "华为畅享平板 2 10.1 英寸 全网通版"
+  "model_name": "华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+64GB)"
  },
  "AGS3-W00E": {
   "codename": "agassi3",
   "name": "华为畅享平板 2",
-  "model_name": "华为畅享平板 2 10.1 英寸 全网通版"
+  "model_name": "华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+128GB)"
  },
  "AGS3-AL00": {
   "codename": "agassi3",
@@ -1452,7 +1452,7 @@
  "BZK-W00": {
   "codename": "kobe",
   "name": "华为平板 C3",
-  "model_name": "华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 LTE 版"
+  "model_name": "华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版"
  },
  "BZK-L00": {
   "codename": "kobe",
@@ -1462,7 +1462,7 @@
  "BZA-W00": {
   "codename": "agassi",
   "name": "华为平板 C3",
-  "model_name": "华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 LTE 版"
+  "model_name": "华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版"
  },
  "BZA-L00": {
   "codename": "agassi",
@@ -1472,7 +1472,7 @@
  "BZD-W00": {
   "codename": "",
   "name": "华为平板 C3",
-  "model_name": "华为平板 C3 8 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C3 8 英寸 2020 款 Wi-Fi 版"
  },
  "BZD-AL00": {
   "codename": "",
@@ -1487,42 +1487,42 @@
  "MON-W19": {
   "codename": "",
   "name": "华为平板 C5",
-  "model_name": "华为平板 C5 10.4 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C5 8 英寸 Wi-Fi 版"
  },
  "MON-AL19": {
   "codename": "",
   "name": "华为平板 C5",
-  "model_name": "华为平板 C5 10.4 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C5 8 英寸 全网通版"
  },
  "BZT-W09": {
   "codename": "",
   "name": "华为平板 C5",
-  "model_name": "华为平板 C5 10.4 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C5 10.1 英寸 Wi-Fi 版"
  },
  "BZT-AL00": {
   "codename": "",
   "name": "华为平板 C5",
-  "model_name": "华为平板 C5 10.4 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C5 10.1 英寸 全网通标配版"
  },
  "BZT-AL10": {
   "codename": "",
   "name": "华为平板 C5",
-  "model_name": "华为平板 C5 10.4 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C5 10.1 英寸 全网通高配版"
  },
  "BZW-AL00": {
   "codename": "",
   "name": "华为平板 C5",
-  "model_name": "华为平板 C5 10.4 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C5 8 英寸 2020 款 全网通版 (4GB+32GB)"
  },
  "BZW-AL10": {
   "codename": "",
   "name": "华为平板 C5",
-  "model_name": "华为平板 C5 10.4 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C5 8 英寸 2020 款 全网通版 (4GB+64GB)"
  },
  "BZT3-W09": {
   "codename": "",
   "name": "华为平板 C5",
-  "model_name": "华为平板 C5 10.4 英寸 2020 款 全网通版"
+  "model_name": "华为平板 C5 10.4 英寸 2020 款 Wi-Fi 版"
  },
  "BZT3-AL00": {
   "codename": "",
@@ -1532,12 +1532,12 @@
  "HZ-W09": {
   "codename": "",
   "name": "HUAWEI MateBook",
-  "model_name": "HUAWEI MateBook m7"
+  "model_name": "HUAWEI MateBook m3"
  },
  "HZ-W19": {
   "codename": "",
   "name": "HUAWEI MateBook",
-  "model_name": "HUAWEI MateBook m7"
+  "model_name": "HUAWEI MateBook m5"
  },
  "HZ-W29": {
   "codename": "",
@@ -1547,7 +1547,7 @@
  "WT-W09": {
   "codename": "",
   "name": "HUAWEI MateBook X",
-  "model_name": "HUAWEI MateBook X i7"
+  "model_name": "HUAWEI MateBook X i5"
  },
  "WT-W19": {
   "codename": "",
@@ -1557,12 +1557,12 @@
  "EUL-W19": {
   "codename": "",
   "name": "HUAWEI MateBook X",
-  "model_name": "HUAWEI MateBook X i7 (16GB+512GB)"
+  "model_name": "HUAWEI MateBook X i5 (8GB+512GB)"
  },
  "EUL-W19P": {
   "codename": "",
   "name": "HUAWEI MateBook X",
-  "model_name": "HUAWEI MateBook X i7 (16GB+512GB)"
+  "model_name": "HUAWEI MateBook X i5 (16GB+512GB)"
  },
  "EUL-W29P": {
   "codename": "",
@@ -1572,7 +1572,7 @@
  "MACH-W19": {
   "codename": "",
   "name": "HUAWEI MateBook X Pro",
-  "model_name": "HUAWEI MateBook X Pro i7"
+  "model_name": "HUAWEI MateBook X Pro i5"
  },
  "MACH-W29": {
   "codename": "",
@@ -1582,17 +1582,17 @@
  "MACHR-W19": {
   "codename": "",
   "name": "HUAWEI MateBook X Pro",
-  "model_name": "HUAWEI MateBook X Pro (2019) i7 Linux 版"
+  "model_name": "HUAWEI MateBook X Pro (2019) i5"
  },
  "MACHR-W19L": {
   "codename": "",
   "name": "HUAWEI MateBook X Pro",
-  "model_name": "HUAWEI MateBook X Pro (2019) i7 Linux 版"
+  "model_name": "HUAWEI MateBook X Pro (2019) i5 Linux 版"
  },
  "MACHR-W29": {
   "codename": "",
   "name": "HUAWEI MateBook X Pro",
-  "model_name": "HUAWEI MateBook X Pro (2019) i7 Linux 版"
+  "model_name": "HUAWEI MateBook X Pro (2019) i7"
  },
  "MACHR-W29BL": {
   "codename": "",
@@ -1602,7 +1602,7 @@
  "MACHC-WAH9LP": {
   "codename": "",
   "name": "HUAWEI MateBook X Pro",
-  "model_name": "HUAWEI MateBook X Pro (2020) i7"
+  "model_name": "HUAWEI MateBook X Pro (2020) i5"
  },
  "MACHC-WAE9LP": {
   "codename": "",
@@ -1612,12 +1612,12 @@
  "PL-W09": {
   "codename": "",
   "name": "HUAWEI MateBook D",
-  "model_name": "HUAWEI MateBook D i7"
+  "model_name": "HUAWEI MateBook D i5 集显"
  },
  "PL-W19": {
   "codename": "",
   "name": "HUAWEI MateBook D",
-  "model_name": "HUAWEI MateBook D i7"
+  "model_name": "HUAWEI MateBook D i5 独显"
  },
  "PL-W29": {
   "codename": "",
@@ -1632,27 +1632,27 @@
  "MRC-W10BR": {
   "codename": "",
   "name": "HUAWEI MateBook D",
-  "model_name": "HUAWEI MateBook D (2018) i3 集显"
+  "model_name": "HUAWEI MateBook D (2018) i5 集显"
  },
  "MRC-W50": {
   "codename": "",
   "name": "HUAWEI MateBook D",
-  "model_name": "HUAWEI MateBook D (2018) i3 集显"
+  "model_name": "HUAWEI MateBook D (2018) i5 独显"
  },
  "MRC-W50R": {
   "codename": "",
   "name": "HUAWEI MateBook D",
-  "model_name": "HUAWEI MateBook D (2018) i3 集显"
+  "model_name": "HUAWEI MateBook D (2018) i5 独显 (8GB+512GB)"
  },
  "MRC-W60": {
   "codename": "",
   "name": "HUAWEI MateBook D",
-  "model_name": "HUAWEI MateBook D (2018) i3 集显"
+  "model_name": "HUAWEI MateBook D (2018) i7 独显"
  },
  "MRC-W60R": {
   "codename": "",
   "name": "HUAWEI MateBook D",
-  "model_name": "HUAWEI MateBook D (2018) i3 集显"
+  "model_name": "HUAWEI MateBook D (2018) i7 独显 (8GB+512GB)"
  },
  "MRC-W70": {
   "codename": "",
@@ -1662,12 +1662,12 @@
  "Nbl-WAQ9R": {
   "codename": "nobelk",
   "name": "HUAWEI MateBook D 14",
-  "model_name": "HUAWEI MateBook D 14 R5 Linux 版"
+  "model_name": "HUAWEI MateBook D 14 R5"
  },
  "Nbl-WAQ9RP": {
   "codename": "nobelk",
   "name": "HUAWEI MateBook D 14",
-  "model_name": "HUAWEI MateBook D 14 R5 Linux 版"
+  "model_name": "HUAWEI MateBook D 14 R5 (16GB+512GB)"
  },
  "Nbl-WAQ9L": {
   "codename": "nobelk",
@@ -1677,22 +1677,22 @@
  "NbB-WAH9": {
   "codename": "",
   "name": "HUAWEI MateBook D 14",
-  "model_name": "HUAWEI MateBook D 14 (2020) R7"
+  "model_name": "HUAWEI MateBook D 14 i5 (8GB+512GB)"
  },
  "NbB-WAH9P": {
   "codename": "",
   "name": "HUAWEI MateBook D 14",
-  "model_name": "HUAWEI MateBook D 14 (2020) R7"
+  "model_name": "HUAWEI MateBook D 14 i5 (16GB+512GB)"
  },
  "NbB-WAE9P": {
   "codename": "",
   "name": "HUAWEI MateBook D 14",
-  "model_name": "HUAWEI MateBook D 14 (2020) R7"
+  "model_name": "HUAWEI MateBook D 14 i7 (16GB+512GB)"
  },
  "NblL-WFQ9": {
   "codename": "",
   "name": "HUAWEI MateBook D 14",
-  "model_name": "HUAWEI MateBook D 14 (2020) R7"
+  "model_name": "HUAWEI MateBook D 14 (2020) R5"
  },
  "NblL-WFP9": {
   "codename": "",
@@ -1702,37 +1702,37 @@
  "Boh-WAQ9R": {
   "codename": "",
   "name": "HUAWEI MateBook D 15",
-  "model_name": "HUAWEI MateBook D 15 (2020) R7"
+  "model_name": "HUAWEI MateBook D 15 R5 (8GB+512GB)"
  },
  "Boh-WAQ9RP": {
   "codename": "",
   "name": "HUAWEI MateBook D 15",
-  "model_name": "HUAWEI MateBook D 15 (2020) R7"
+  "model_name": "HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)"
  },
  "Boh-WAQ9L": {
   "codename": "",
   "name": "HUAWEI MateBook D 15",
-  "model_name": "HUAWEI MateBook D 15 (2020) R7"
+  "model_name": "HUAWEI MateBook D 15 R5 Linux 版"
  },
  "BoB-WAH9": {
   "codename": "",
   "name": "HUAWEI MateBook D 15",
-  "model_name": "HUAWEI MateBook D 15 (2020) R7"
+  "model_name": "HUAWEI MateBook D 15 i5 (8GB+512GB)"
  },
  "BoB-WAH9P": {
   "codename": "",
   "name": "HUAWEI MateBook D 15",
-  "model_name": "HUAWEI MateBook D 15 (2020) R7"
+  "model_name": "HUAWEI MateBook D 15 i5 (16GB+512GB)"
  },
  "BoB-WAE9P": {
   "codename": "",
   "name": "HUAWEI MateBook D 15",
-  "model_name": "HUAWEI MateBook D 15 (2020) R7"
+  "model_name": "HUAWEI MateBook D 15 i7 (16GB+512GB)"
  },
  "BohL-WFQ9": {
   "codename": "",
   "name": "HUAWEI MateBook D 15",
-  "model_name": "HUAWEI MateBook D 15 (2020) R7"
+  "model_name": "HUAWEI MateBook D 15 (2020) R5"
  },
  "BohL-WFP9": {
   "codename": "",
@@ -1742,7 +1742,7 @@
  "BL-W09": {
   "codename": "",
   "name": "HUAWEI MateBook E",
-  "model_name": "HUAWEI MateBook E i5"
+  "model_name": "HUAWEI MateBook E i3"
  },
  "BL-W19": {
   "codename": "",
@@ -1757,17 +1757,17 @@
  "WRT-W19": {
   "codename": "wright",
   "name": "HUAWEI MateBook 13",
-  "model_name": "HUAWEI MateBook 13 i7 Linux 版"
+  "model_name": "HUAWEI MateBook 13 i5"
  },
  "WRT-W19L": {
   "codename": "wright",
   "name": "HUAWEI MateBook 13",
-  "model_name": "HUAWEI MateBook 13 i7 Linux 版"
+  "model_name": "HUAWEI MateBook 13 i5 Linux 版"
  },
  "WRT-W29": {
   "codename": "wright",
   "name": "HUAWEI MateBook 13",
-  "model_name": "HUAWEI MateBook 13 i7 Linux 版"
+  "model_name": "HUAWEI MateBook 13 i7"
  },
  "WRT-W29L": {
   "codename": "wright",
@@ -1777,7 +1777,7 @@
  "HN-W19R": {
   "codename": "",
   "name": "HUAWEI MateBook 13 锐龙版",
-  "model_name": "HUAWEI MateBook 13 锐龙 Linux 版"
+  "model_name": "HUAWEI MateBook 13 锐龙版"
  },
  "HN-W19L": {
   "codename": "",
@@ -1787,12 +1787,12 @@
  "WRTB-WAH9L": {
   "codename": "wrightb",
   "name": "HUAWEI MateBook 13",
-  "model_name": "HUAWEI MateBook 13 (2020) i7 (16GB+512GB)"
+  "model_name": "HUAWEI MateBook 13 (2020) i5 (8GB+512GB)"
  },
  "WRTB-WFH9L": {
   "codename": "wrightb",
   "name": "HUAWEI MateBook 13",
-  "model_name": "HUAWEI MateBook 13 (2020) i7 (16GB+512GB)"
+  "model_name": "HUAWEI MateBook 13 (2020) i5 (16GB+512GB)"
  },
  "WRTB-WFE9L": {
   "codename": "wrightb",
@@ -1802,7 +1802,7 @@
  "HNL-WFQ9": {
   "codename": "",
   "name": "HUAWEI MateBook 13",
-  "model_name": "HUAWEI MateBook 13 (2020) R7"
+  "model_name": "HUAWEI MateBook 13 (2020) R5"
  },
  "HNL-WFP9": {
   "codename": "",
@@ -1812,12 +1812,12 @@
  "KLV-W19": {
   "codename": "kelvin",
   "name": "HUAWEI MateBook 14",
-  "model_name": "HUAWEI MateBook 14 i7"
+  "model_name": "HUAWEI MateBook 14 i5"
  },
  "KLV-W19DL": {
   "codename": "kelvin",
   "name": "HUAWEI MateBook 14",
-  "model_name": "HUAWEI MateBook 14 i7"
+  "model_name": "HUAWEI MateBook 14 i5 Linux 版"
  },
  "KLV-W29": {
   "codename": "kelvin",
@@ -1827,12 +1827,12 @@
  "KLVC-WAH9L": {
   "codename": "kelvinc",
   "name": "HUAWEI MateBook 14",
-  "model_name": "HUAWEI MateBook 14 (2020) i7 (16GB+512GB)"
+  "model_name": "HUAWEI MateBook 14 (2020) i5 (8GB+512GB)"
  },
  "KLVC-WFH9L": {
   "codename": "kelvinc",
   "name": "HUAWEI MateBook 14",
-  "model_name": "HUAWEI MateBook 14 (2020) i7 (16GB+512GB)"
+  "model_name": "HUAWEI MateBook 14 (2020) i5 (16GB+512GB)"
  },
  "KLVC-WFE9L": {
   "codename": "kelvinc",
@@ -1847,12 +1847,12 @@
  "NBZ-WBH9": {
   "codename": "",
   "name": "HUAWEI MateBook B3-410",
-  "model_name": "HUAWEI MateBook B3-410 i7"
+  "model_name": "HUAWEI MateBook B3-410 i5 (8GB+256GB)"
  },
  "NBZ-WBM9": {
   "codename": "",
   "name": "HUAWEI MateBook B3-410",
-  "model_name": "HUAWEI MateBook B3-410 i7"
+  "model_name": "HUAWEI MateBook B3-410 i5 (8GB+512GB)"
  },
  "NBZ-WBE9": {
   "codename": "",
@@ -1862,7 +1862,7 @@
  "BBZ-WBH9": {
   "codename": "",
   "name": "HUAWEI MateBook B3-510",
-  "model_name": "HUAWEI MateBook B3-510 i7"
+  "model_name": "HUAWEI MateBook B3-510 i5"
  },
  "BBZ-WBE9": {
   "codename": "",
@@ -1877,22 +1877,22 @@
  "HEGE-550": {
   "codename": "hege",
   "name": "华为智慧屏",
-  "model_name": "华为智慧屏 V75"
+  "model_name": "华为智慧屏 V55i-A (4GB+64GB)"
  },
  "HEGE-550B": {
   "codename": "hege",
   "name": "华为智慧屏",
-  "model_name": "华为智慧屏 V75"
+  "model_name": "华为智慧屏 V55i-B (4GB+32GB)"
  },
  "HEGE-560": {
   "codename": "hege",
   "name": "华为智慧屏",
-  "model_name": "华为智慧屏 V75"
+  "model_name": "华为智慧屏 V65"
  },
  "HEGE-560B": {
   "codename": "hege",
   "name": "华为智慧屏",
-  "model_name": "华为智慧屏 V75"
+  "model_name": "华为智慧屏 V65i"
  },
  "HEGE-570": {
   "codename": "hege",
@@ -1907,32 +1907,32 @@
  "U8860": {
   "codename": "",
   "name": "荣耀",
-  "model_name": "荣耀 3 outdoor"
+  "model_name": "Honor 联通版"
  },
  "C8860E": {
   "codename": "",
   "name": "荣耀",
-  "model_name": "荣耀 3 outdoor"
+  "model_name": "Honor 电信版"
  },
  "T8950": {
   "codename": "",
   "name": "荣耀",
-  "model_name": "荣耀 3 outdoor"
+  "model_name": "Honor+ 移动版"
  },
  "U8950D": {
   "codename": "",
   "name": "荣耀",
-  "model_name": "荣耀 3 outdoor"
+  "model_name": "Honor+ 联通版"
  },
  "C8950D": {
   "codename": "",
   "name": "荣耀",
-  "model_name": "荣耀 3 outdoor"
+  "model_name": "Honor+ 电信版"
  },
  "U9508": {
   "codename": "",
   "name": "荣耀",
-  "model_name": "荣耀 3 outdoor"
+  "model_name": "荣耀四核爱享版"
  },
  "HN3-U01": {
   "codename": "",
@@ -1942,22 +1942,22 @@
  "U9500": {
   "codename": "",
   "name": "华为 Ascend D1",
-  "model_name": "华为 Ascend D1 四核 XL 移动版"
+  "model_name": "华为 Ascend D1"
  },
  "U9500E": {
   "codename": "",
   "name": "华为 Ascend D1",
-  "model_name": "华为 Ascend D1 四核 XL 移动版"
+  "model_name": "华为 Ascend D1 XL"
  },
  "U9510": {
   "codename": "",
   "name": "华为 Ascend D1",
-  "model_name": "华为 Ascend D1 四核 XL 移动版"
+  "model_name": "华为 Ascend D1 四核"
  },
  "U9510E": {
   "codename": "",
   "name": "华为 Ascend D1",
-  "model_name": "华为 Ascend D1 四核 XL 移动版"
+  "model_name": "华为 Ascend D1 四核 XL"
  },
  "T9510E": {
   "codename": "",
@@ -1967,17 +1967,17 @@
  "D2-5000": {
   "codename": "",
   "name": "华为 Ascend D2",
-  "model_name": "华为 Ascend D2 电信版"
+  "model_name": "华为 Ascend D2 移动 3G 版"
  },
  "D2-6070": {
   "codename": "",
   "name": "华为 Ascend D2",
-  "model_name": "华为 Ascend D2 电信版"
+  "model_name": "华为 Ascend D2 移动 4G 版"
  },
  "D2-0082": {
   "codename": "",
   "name": "华为 Ascend D2",
-  "model_name": "华为 Ascend D2 电信版"
+  "model_name": "华为 Ascend D2 联通版"
  },
  "D2-2010": {
   "codename": "",
@@ -1987,17 +1987,17 @@
  "MT7-L09": {
   "codename": "jazz",
   "name": "HUAWEI Ascend Mate 7",
-  "model_name": "HUAWEI Ascend Mate 7 Dual SIM"
+  "model_name": "HUAWEI Ascend Mate 7 Single SIM"
  },
  "CRR-L09": {
   "codename": "carrera",
   "name": "HUAWEI Mate S",
-  "model_name": "HUAWEI Mate S Dual SIM"
+  "model_name": "HUAWEI Mate S Single SIM"
  },
  "NXT-L09": {
   "codename": "next",
   "name": "HUAWEI Mate 8",
-  "model_name": "HUAWEI Mate 8 Dual SIM"
+  "model_name": "HUAWEI Mate 8 Single SIM"
  },
  "NXT-L29": {
   "codename": "next",
@@ -2007,7 +2007,7 @@
  "MHA-L09": {
   "codename": "manhattan",
   "name": "HUAWEI Mate 9",
-  "model_name": "HUAWEI Mate 9 Dual SIM"
+  "model_name": "HUAWEI Mate 9 Single SIM"
  },
  "MHA-L29": {
   "codename": "manhattan",
@@ -2022,7 +2022,7 @@
  "ALP-L09": {
   "codename": "alps",
   "name": "HUAWEI Mate 10",
-  "model_name": "HUAWEI Mate 10 Dual SIM"
+  "model_name": "HUAWEI Mate 10 Single SIM"
  },
  "ALP-L29": {
   "codename": "alps",
@@ -2032,12 +2032,12 @@
  "BLA-L09": {
   "codename": "blanc",
   "name": "HUAWEI Mate 10 Pro",
-  "model_name": "HUAWEI Mate 10 Pro Dual SIM"
+  "model_name": "HUAWEI Mate 10 Pro Single SIM"
  },
  "BLA-A09": {
   "codename": "blanc",
   "name": "PORSCHE DESIGN HUAWEI Mate 10",
-  "model_name": "PORSCHE DESIGN HUAWEI Mate 10 Dual SIM"
+  "model_name": "PORSCHE DESIGN HUAWEI Mate 10 (United States)"
  },
  "BLA-L29": {
   "codename": "blanc",
@@ -2047,12 +2047,12 @@
  "RNE-L01": {
   "codename": "rhone",
   "name": "HUAWEI Mate 10 Lite",
-  "model_name": "HUAWEI Mate 10 Lite Dual SIM"
+  "model_name": "HUAWEI Mate 10 Lite Single SIM"
  },
  "RNE-L03": {
   "codename": "rhone",
   "name": "HUAWEI Mate 10 Lite",
-  "model_name": "HUAWEI Mate 10 Lite Dual SIM"
+  "model_name": "HUAWEI Mate 10 Lite Single SIM"
  },
  "RNE-L21": {
   "codename": "rhone",
@@ -2077,7 +2077,7 @@
  "HMA-L09": {
   "codename": "hima",
   "name": "HUAWEI Mate 20",
-  "model_name": "HUAWEI Mate 20 Dual SIM"
+  "model_name": "HUAWEI Mate 20 Single SIM"
  },
  "HMA-L29": {
   "codename": "hima",
@@ -2087,12 +2087,12 @@
  "LYA-L09": {
   "codename": "laya",
   "name": "HUAWEI Mate 20 Pro",
-  "model_name": "HUAWEI Mate 20 Dual SIM"
+  "model_name": "HUAWEI Mate 20 Single SIM"
  },
  "LYA-L0C": {
   "codename": "laya",
   "name": "HUAWEI Mate 20 Pro",
-  "model_name": "HUAWEI Mate 20 Dual SIM"
+  "model_name": "HUAWEI Mate 20 Single SIM"
  },
  "LYA-L29": {
   "codename": "laya",
@@ -2102,7 +2102,7 @@
  "EVR-L29": {
   "codename": "ever",
   "name": "HUAWEI Mate 20 X",
-  "model_name": "HUAWEI Mate 20 X 5G Dual SIM"
+  "model_name": "HUAWEI Mate 20 X Dual SIM"
  },
  "EVR-N29": {
   "codename": "ever",
@@ -2127,7 +2127,7 @@
  "TAS-L09": {
   "codename": "taurus",
   "name": "HUAWEI Mate 30",
-  "model_name": "HUAWEI Mate 30 Dual SIM"
+  "model_name": "HUAWEI Mate 30 Single SIM"
  },
  "TAS-L29": {
   "codename": "taurus",
@@ -2137,12 +2137,12 @@
  "LIO-L09": {
   "codename": "lion",
   "name": "HUAWEI Mate 30 Pro",
-  "model_name": "HUAWEI Mate 30 Pro 5G Dual SIM"
+  "model_name": "HUAWEI Mate 30 Pro Single SIM"
  },
  "LIO-L29": {
   "codename": "lion",
   "name": "HUAWEI Mate 30 Pro",
-  "model_name": "HUAWEI Mate 30 Pro 5G Dual SIM"
+  "model_name": "HUAWEI Mate 30 Pro Dual SIM"
  },
  "LIO-N29": {
   "codename": "lion",
@@ -2172,7 +2172,7 @@
  "GRA-L09": {
   "codename": "grace",
   "name": "HUAWEI P8",
-  "model_name": "HUAWEI P8 Dual SIM"
+  "model_name": "HUAWEI P8 Single SIM"
  },
  "ALE-L02": {
   "codename": "alice",
@@ -2207,7 +2207,7 @@
  "EVA-L09": {
   "codename": "eva",
   "name": "HUAWEI P9",
-  "model_name": "HUAWEI P9 Dual SIM"
+  "model_name": "HUAWEI P9 Single SIM"
  },
  "EVA-L19": {
   "codename": "eva",
@@ -2222,7 +2222,7 @@
  "VIE-L09": {
   "codename": "vienna",
   "name": "HUAWEI P9 Plus",
-  "model_name": "HUAWEI P9 Plus Dual SIM"
+  "model_name": "HUAWEI P9 Plus Single SIM"
  },
  "VIE-L29": {
   "codename": "vienna",
@@ -2267,7 +2267,7 @@
  "VTR-L09": {
   "codename": "victoria",
   "name": "HUAWEI P10",
-  "model_name": "HUAWEI P10 Dual SIM"
+  "model_name": "HUAWEI P10 Single SIM"
  },
  "VTR-L29": {
   "codename": "victoria",
@@ -2277,7 +2277,7 @@
  "VKY-L09": {
   "codename": "vicky",
   "name": "HUAWEI P10 Plus",
-  "model_name": "HUAWEI P10 Plus Dual SIM"
+  "model_name": "HUAWEI P10 Plus Single SIM"
  },
  "VKY-L29": {
   "codename": "vicky",
@@ -2317,7 +2317,7 @@
  "EML-L09": {
   "codename": "emily",
   "name": "HUAWEI P20",
-  "model_name": "HUAWEI P20 Dual SIM"
+  "model_name": "HUAWEI P20 Single SIM"
  },
  "EML-L29": {
   "codename": "emily",
@@ -2327,12 +2327,12 @@
  "CLT-L04": {
   "codename": "charlotte",
   "name": "HUAWEI P20 Pro",
-  "model_name": "HUAWEI P20 Pro Dual SIM"
+  "model_name": "HUAWEI P20 Pro Single SIM"
  },
  "CLT-L09": {
   "codename": "charlotte",
   "name": "HUAWEI P20 Pro",
-  "model_name": "HUAWEI P20 Pro Dual SIM"
+  "model_name": "HUAWEI P20 Pro Single SIM"
  },
  "CLT-L29": {
   "codename": "charlotte",
@@ -2362,7 +2362,7 @@
  "ELE-L09": {
   "codename": "elle",
   "name": "HUAWEI P30",
-  "model_name": "HUAWEI P30 Dual SIM"
+  "model_name": "HUAWEI P30 Single SIM"
  },
  "ELE-L29": {
   "codename": "elle",
@@ -2372,7 +2372,7 @@
  "VOG-L09": {
   "codename": "vogue",
   "name": "HUAWEI P30 Pro",
-  "model_name": "HUAWEI P30 Pro Dual SIM"
+  "model_name": "HUAWEI P30 Pro Single SIM"
  },
  "VOG-L29": {
   "codename": "vogue",
@@ -2447,7 +2447,7 @@
  "ELS-N04": {
   "codename": "elsa",
   "name": "HUAWEI P40 Pro",
-  "model_name": "HUAWEI P40 Pro Dual SIM"
+  "model_name": "HUAWEI P40 Pro Single SIM"
  },
  "ELS-NX9": {
   "codename": "elsa",
@@ -2602,7 +2602,7 @@
  "PIC-L09": {
   "codename": "picasso",
   "name": "HUAWEI nova 2",
-  "model_name": "HUAWEI nova 2 Dual SIM"
+  "model_name": "HUAWEI nova 2 Single SIM"
  },
  "PIC-LX9": {
   "codename": "picasso",
@@ -2612,12 +2612,12 @@
  "BAC-L01": {
   "codename": "barca",
   "name": "HUAWEI nova 2 Plus",
-  "model_name": "HUAWEI nova 2 Plus Dual SIM"
+  "model_name": "HUAWEI nova 2 Plus Single SIM"
  },
  "BAC-L03": {
   "codename": "barca",
   "name": "HUAWEI nova 2 Plus",
-  "model_name": "HUAWEI nova 2 Plus Dual SIM"
+  "model_name": "HUAWEI nova 2 Plus Single SIM"
  },
  "BAC-L21": {
   "codename": "barca",
@@ -2637,7 +2637,7 @@
  "RNE-L02": {
   "codename": "rhone",
   "name": "HUAWEI nova 2i",
-  "model_name": "HUAWEI nova 2 Dual SIM"
+  "model_name": "HUAWEI nova 2 Single SIM"
  },
  "RNE-L22": {
   "codename": "rhone",
@@ -2702,7 +2702,7 @@
  "YAL-L21": {
   "codename": "yale",
   "name": "HUAWEI nova 5T",
-  "model_name": "HUAWEI nova 5T Pro"
+  "model_name": "HUAWEI nova 5T"
  },
  "YAL-L41": {
   "codename": "yale",
@@ -2712,27 +2712,27 @@
  "H60-L01": {
   "codename": "mogolia",
   "name": "荣耀 6",
-  "model_name": "荣耀 6 至尊版"
+  "model_name": "荣耀 6 移动版"
  },
  "H60-L02": {
   "codename": "mogolia",
   "name": "荣耀 6",
-  "model_name": "荣耀 6 至尊版"
+  "model_name": "荣耀 6 联通版"
  },
  "H60-L03": {
   "codename": "mogolia",
   "name": "荣耀 6",
-  "model_name": "荣耀 6 至尊版"
+  "model_name": "荣耀 6 移动定制版"
  },
  "H60-L11": {
   "codename": "mogolia",
   "name": "荣耀 6",
-  "model_name": "荣耀 6 至尊版"
+  "model_name": "荣耀 6 移动高配版"
  },
  "H60-L12": {
   "codename": "mogolia",
   "name": "荣耀 6",
-  "model_name": "荣耀 6 至尊版"
+  "model_name": "荣耀 6 联通高配版"
  },
  "H60-L21": {
   "codename": "mogolia",
@@ -2742,22 +2742,22 @@
  "PE-TL00M": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
-  "model_name": "荣耀 6 Plus 电信版"
+  "model_name": "荣耀 6 Plus 移动定制版"
  },
  "PE-TL10": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
-  "model_name": "荣耀 6 Plus 电信版"
+  "model_name": "荣耀 6 Plus 双 4G 高配版"
  },
  "PE-TL20": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
-  "model_name": "荣耀 6 Plus 电信版"
+  "model_name": "荣耀 6 Plus 移动渠道版"
  },
  "PE-UL00": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
-  "model_name": "荣耀 6 Plus 电信版"
+  "model_name": "荣耀 6 Plus 联通版"
  },
  "PE-CL00": {
   "codename": "pine",
@@ -2767,27 +2767,27 @@
  "PLK-AL10": {
   "codename": "plank",
   "name": "荣耀 7",
-  "model_name": "荣耀 7 电信版"
+  "model_name": "荣耀 7 全网通高配版"
  },
  "PLK-TL01H": {
   "codename": "plank",
   "name": "荣耀 7",
-  "model_name": "荣耀 7 电信版"
+  "model_name": "荣耀 7 移动渠道版"
  },
  "PLK-TL00": {
   "codename": "plank",
   "name": "荣耀 7",
-  "model_name": "荣耀 7 电信版"
+  "model_name": "荣耀 7 移动定制版"
  },
  "PLK-TL11H": {
   "codename": "plank",
   "name": "荣耀 7",
-  "model_name": "荣耀 7 电信版"
+  "model_name": "荣耀 7 移动增强版"
  },
  "PLK-UL00": {
   "codename": "plank",
   "name": "荣耀 7",
-  "model_name": "荣耀 7 电信版"
+  "model_name": "荣耀 7 双 4G 版"
  },
  "PLK-CL00": {
   "codename": "plank",
@@ -2797,22 +2797,22 @@
  "ATH-AL00": {
   "codename": "",
   "name": "荣耀 7i",
-  "model_name": "荣耀 7i 电信版"
+  "model_name": "荣耀 7i 全网通版"
  },
  "ATH-TL00H": {
   "codename": "",
   "name": "荣耀 7i",
-  "model_name": "荣耀 7i 电信版"
+  "model_name": "荣耀 7i 移动渠道版"
  },
  "ATH-TL00": {
   "codename": "",
   "name": "荣耀 7i",
-  "model_name": "荣耀 7i 电信版"
+  "model_name": "荣耀 7i 移动定制版"
  },
  "ATH-UL00": {
   "codename": "",
   "name": "荣耀 7i",
-  "model_name": "荣耀 7i 电信版"
+  "model_name": "荣耀 7i 双 4G 版"
  },
  "ATH-CL00": {
   "codename": "",
@@ -2822,17 +2822,17 @@
  "FRD-AL00": {
   "codename": "faraday",
   "name": "荣耀 8",
-  "model_name": "荣耀 8 移动/联通版"
+  "model_name": "荣耀 8 全网通版 (3/4GB+32GB)"
  },
  "FRD-AL10": {
   "codename": "faraday",
   "name": "荣耀 8",
-  "model_name": "荣耀 8 移动/联通版"
+  "model_name": "荣耀 8 全网通版 (4GB+64GB)"
  },
  "FRD-TL00": {
   "codename": "faraday",
   "name": "荣耀 8",
-  "model_name": "荣耀 8 移动/联通版"
+  "model_name": "荣耀 8 移动版"
  },
  "FRD-DL00": {
   "codename": "faraday",
@@ -2842,12 +2842,12 @@
  "PRA-AL00": {
   "codename": "prague",
   "name": "荣耀 8 青春版",
-  "model_name": "荣耀 8 青春版 移动定制版"
+  "model_name": "荣耀 8 青春版 全网通标配版"
  },
  "PRA-AL00X": {
   "codename": "prague",
   "name": "荣耀 8 青春版",
-  "model_name": "荣耀 8 青春版 移动定制版"
+  "model_name": "荣耀 8 青春版 全网通高配/顶配版"
  },
  "PRA-TL10": {
   "codename": "prague",
@@ -2857,12 +2857,12 @@
  "STF-AL00": {
   "codename": "stanford",
   "name": "荣耀 9",
-  "model_name": "荣耀 9 移动 4G+ 版"
+  "model_name": "荣耀 9 全网通标配版"
  },
  "STF-AL10": {
   "codename": "stanford",
   "name": "荣耀 9",
-  "model_name": "荣耀 9 移动 4G+ 版"
+  "model_name": "荣耀 9 全网通高配/尊享版"
  },
  "STF-TL10": {
   "codename": "stanford",
@@ -2872,12 +2872,12 @@
  "LLD-AL00": {
   "codename": "leland",
   "name": "荣耀 9 青春版",
-  "model_name": "荣耀 9 青春版 移动 4G+ 版"
+  "model_name": "荣耀 9 青春版 全网通版"
  },
  "LLD-AL10": {
   "codename": "leland",
   "name": "荣耀 9 青春版",
-  "model_name": "荣耀 9 青春版 移动 4G+ 版"
+  "model_name": "荣耀 9 青春版 全网通版"
  },
  "LLD-TL10": {
   "codename": "leland",
@@ -2887,7 +2887,7 @@
  "LLD-AL20": {
   "codename": "lelandp",
   "name": "荣耀 9i",
-  "model_name": "荣耀 9i 全网通版"
+  "model_name": "荣耀 9i 全网通版 (4GB+64GB)"
  },
  "LLD-AL30": {
   "codename": "lelandp",
@@ -2897,17 +2897,17 @@
  "COL-AL00": {
   "codename": "columbia",
   "name": "荣耀 10",
-  "model_name": "荣耀 10 移动 4G+ 高配版"
+  "model_name": "荣耀 10 全网通标配版"
  },
  "COL-AL10": {
   "codename": "columbia",
   "name": "荣耀 10",
-  "model_name": "荣耀 10 移动 4G+ 高配版"
+  "model_name": "荣耀 10 全网通高配版"
  },
  "COL-TL00": {
   "codename": "columbia",
   "name": "荣耀 10",
-  "model_name": "荣耀 10 移动 4G+ 高配版"
+  "model_name": "荣耀 10 移动 4G+ 标配版"
  },
  "COL-TL10": {
   "codename": "columbia",
@@ -2917,12 +2917,12 @@
  "HRY-AL00": {
   "codename": "harry",
   "name": "荣耀 10 青春版",
-  "model_name": "荣耀 10 青春版 移动 4G+ 版"
+  "model_name": "荣耀 10 青春版 全网通版"
  },
  "HRY-AL00a": {
   "codename": "harry",
   "name": "荣耀 10 青春版",
-  "model_name": "荣耀 10 青春版 移动 4G+ 版"
+  "model_name": "荣耀 10 青春版 全网通版 (麒麟 710F)"
  },
  "HRY-TL00": {
   "codename": "harry",
@@ -2932,12 +2932,12 @@
  "HRY-AL00T": {
   "codename": "harrypro",
   "name": "荣耀 20i",
-  "model_name": "荣耀 20i 移动 4G+ 版"
+  "model_name": "荣耀 20i 全网通版"
  },
  "HRY-AL00Ta": {
   "codename": "harrypro",
   "name": "荣耀 20i",
-  "model_name": "荣耀 20i 移动 4G+ 版"
+  "model_name": "荣耀 20i 全网通版 (麒麟 710F)"
  },
  "HRY-TL00T": {
   "codename": "harrypro",
@@ -2947,7 +2947,7 @@
  "YAL-AL00": {
   "codename": "yale",
   "name": "荣耀 20",
-  "model_name": "荣耀 20 移动 4G+ 版"
+  "model_name": "荣耀 20 全网通版"
  },
  "YAL-TL00": {
   "codename": "yale",
@@ -2957,7 +2957,7 @@
  "YAL-AL10": {
   "codename": "yale",
   "name": "荣耀 20 PRO",
-  "model_name": "荣耀 20 PRO 移动 4G+ 版"
+  "model_name": "荣耀 20 PRO 全网通版"
  },
  "YAL-TL10": {
   "codename": "yale",
@@ -2967,7 +2967,7 @@
  "YAL-AL50": {
   "codename": "yalese",
   "name": "荣耀 20S",
-  "model_name": "荣耀 20S 移动 4G+ 版"
+  "model_name": "荣耀 20S 全网通版"
  },
  "YAL-TL50": {
   "codename": "yalese",
@@ -2977,7 +2977,7 @@
  "LRA-AL00": {
   "codename": "laura",
   "name": "荣耀 20 青春版",
-  "model_name": "荣耀 20 青春版 移动 4G+ 版"
+  "model_name": "荣耀 20 青春版 全网通版"
  },
  "LRA-TL00": {
   "codename": "laura",
@@ -2987,12 +2987,12 @@
  "BMH-AN10": {
   "codename": "birmingham",
   "name": "荣耀 30",
-  "model_name": "荣耀 30 5G 移动定制版"
+  "model_name": "荣耀 30 5G 全网通版"
  },
  "BMH-AN20": {
   "codename": "birmingham",
   "name": "荣耀 30",
-  "model_name": "荣耀 30 5G 移动定制版"
+  "model_name": "荣耀 30 5G 全网通版"
  },
  "BMH-TN10": {
   "codename": "birmingham",
@@ -3007,7 +3007,7 @@
  "EBG-AN00": {
   "codename": "edinburgh",
   "name": "荣耀 30 Pro",
-  "model_name": "荣耀 30 Pro 5G 移动定制版"
+  "model_name": "荣耀 30 Pro 5G 全网通版"
  },
  "EBG-TN00": {
   "codename": "edinburgh",
@@ -3022,12 +3022,12 @@
  "CDY-AN90": {
   "codename": "cindy",
   "name": "荣耀 30S",
-  "model_name": "荣耀 30S 5G 移动定制版"
+  "model_name": "荣耀 30S 5G 全网通版"
  },
  "CDY-AN95": {
   "codename": "cindy",
   "name": "荣耀 30S",
-  "model_name": "荣耀 30S 5G 移动定制版"
+  "model_name": "荣耀 30S 5G 全网通版"
  },
  "CDY-TN90": {
   "codename": "cindy",
@@ -3042,7 +3042,7 @@
  "MXW-AN00": {
   "codename": "maxwell",
   "name": "荣耀 30 青春版",
-  "model_name": "荣耀 30 青春版 5G 移动定制版"
+  "model_name": "荣耀 30 青春版 5G 全网通版"
  },
  "MXW-TN00": {
   "codename": "maxwell",
@@ -3052,17 +3052,17 @@
  "KNT-AL10": {
   "codename": "knight",
   "name": "荣耀 V8",
-  "model_name": "荣耀 V8 移动/联通版"
+  "model_name": "荣耀 V8 全网通版"
  },
  "KNT-AL20": {
   "codename": "knight",
   "name": "荣耀 V8",
-  "model_name": "荣耀 V8 移动/联通版"
+  "model_name": "荣耀 V8 全网通版 (麒麟 955, 2K 显示屏)"
  },
  "KNT-TL10": {
   "codename": "knight",
   "name": "荣耀 V8",
-  "model_name": "荣耀 V8 移动/联通版"
+  "model_name": "荣耀 V8 移动版"
  },
  "KNT-UL10": {
   "codename": "knight",
@@ -3072,7 +3072,7 @@
  "DUK-AL20": {
   "codename": "duke",
   "name": "荣耀 V9",
-  "model_name": "荣耀 V9 移动定制版"
+  "model_name": "荣耀 V9 全网通版"
  },
  "DUK-TL30": {
   "codename": "duke",
@@ -3082,17 +3082,17 @@
  "BKL-AL00": {
   "codename": "berkeley",
   "name": "荣耀 V10",
-  "model_name": "荣耀 V10 移动 4G+ 版"
+  "model_name": "荣耀 V10 全网通标配版"
  },
  "BKL-AL10": {
   "codename": "berkeley",
   "name": "荣耀 V10",
-  "model_name": "荣耀 V10 移动 4G+ 版"
+  "model_name": "荣耀 V10 全网通高配版"
  },
  "BKL-AL20": {
   "codename": "berkeley",
   "name": "荣耀 V10",
-  "model_name": "荣耀 V10 移动 4G+ 版"
+  "model_name": "荣耀 V10 全网通尊享版"
  },
  "BKL-TL10": {
   "codename": "berkeley",
@@ -3102,7 +3102,7 @@
  "PCT-AL10": {
   "codename": "princeton",
   "name": "荣耀 V20",
-  "model_name": "荣耀 V20 移动 4G+ 版"
+  "model_name": "荣耀 V20 全网通版"
  },
  "PCT-TL10": {
   "codename": "princeton",
@@ -3127,12 +3127,12 @@
  "TNY-AL00": {
   "codename": "tony",
   "name": "荣耀 Magic 2",
-  "model_name": "荣耀 Magic 2 移动 4G+ 版"
+  "model_name": "荣耀 Magic 2 全网通版"
  },
  "TNY-AL10": {
   "codename": "tony",
   "name": "荣耀 Magic 2",
-  "model_name": "荣耀 Magic 2 移动 4G+ 版"
+  "model_name": "荣耀 Magic 2 3D 感光版"
  },
  "TNY-TL00": {
   "codename": "tony",
@@ -3142,12 +3142,12 @@
  "G750-T00": {
   "codename": "",
   "name": "荣耀 3X",
-  "model_name": "荣耀 3X Pro"
+  "model_name": "荣耀 3X 双 3G 版"
  },
  "G750-U00": {
   "codename": "",
   "name": "荣耀 3X",
-  "model_name": "荣耀 3X Pro"
+  "model_name": "荣耀 3X 联通版"
  },
  "G750-T20": {
   "codename": "",
@@ -3162,7 +3162,7 @@
  "Che1-CL20": {
   "codename": "cherry",
   "name": "荣耀畅玩 4X",
-  "model_name": "荣耀畅玩 4X 电信版"
+  "model_name": "荣耀畅玩 4X 全网通版"
  },
  "Che1-CL10": {
   "codename": "cherry",
@@ -3172,27 +3172,27 @@
  "Che2-TL00": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
-  "model_name": "荣耀畅玩 4X 联通版"
+  "model_name": "荣耀畅玩 4X 移动渠道版 (2014)"
  },
  "Che2-TL00H": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
-  "model_name": "荣耀畅玩 4X 联通版"
+  "model_name": "荣耀畅玩 4X 移动渠道版 (2014)"
  },
  "Che2-TL00M": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
-  "model_name": "荣耀畅玩 4X 联通版"
+  "model_name": "荣耀畅玩 4X 移动定制版 (2014)"
  },
  "CHE-TL00H": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
-  "model_name": "荣耀畅玩 4X 联通版"
+  "model_name": "荣耀畅玩 4X 移动渠道版 (2015)"
  },
  "CHE-TL00": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
-  "model_name": "荣耀畅玩 4X 联通版"
+  "model_name": "荣耀畅玩 4X 移动定制版 (2015)"
  },
  "Che2-UL00": {
   "codename": "cherryplus",
@@ -3202,22 +3202,22 @@
  "KIW-AL10": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
-  "model_name": "荣耀畅玩 5X 电信版"
+  "model_name": "荣耀畅玩 5X 全网通版"
  },
  "KIW-TL00H": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
-  "model_name": "荣耀畅玩 5X 电信版"
+  "model_name": "荣耀畅玩 5X 移动公开版"
  },
  "KIW-TL00": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
-  "model_name": "荣耀畅玩 5X 电信版"
+  "model_name": "荣耀畅玩 5X 移动定制版"
  },
  "KIW-UL00": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
-  "model_name": "荣耀畅玩 5X 电信版"
+  "model_name": "荣耀畅玩 5X 双 4G 版"
  },
  "KIW-CL00": {
   "codename": "kiwi",
@@ -3227,22 +3227,22 @@
  "BLN-AL10": {
   "codename": "berlin",
   "name": "荣耀畅玩 6X",
-  "model_name": "荣耀畅玩 6X 移动定制版"
+  "model_name": "荣耀畅玩 6X 全网通版"
  },
  "BLN-AL20": {
   "codename": "berlin",
   "name": "荣耀畅玩 6X",
-  "model_name": "荣耀畅玩 6X 移动定制版"
+  "model_name": "荣耀畅玩 6X 全网通版"
  },
  "BLN-AL30": {
   "codename": "berlin",
   "name": "荣耀畅玩 6X",
-  "model_name": "荣耀畅玩 6X 移动定制版"
+  "model_name": "荣耀畅玩 6X 全网通版 (电信 800M)"
  },
  "BLN-AL40": {
   "codename": "berlin",
   "name": "荣耀畅玩 6X",
-  "model_name": "荣耀畅玩 6X 移动定制版"
+  "model_name": "荣耀畅玩 6X 全网通版 (电信 800M)"
  },
  "BLN-TL00": {
   "codename": "berlin",
@@ -3257,12 +3257,12 @@
  "BND-AL00": {
   "codename": "bond",
   "name": "荣耀畅玩 7X",
-  "model_name": "荣耀畅玩 7X 移动 4G+ 版"
+  "model_name": "荣耀畅玩 7X 全网通版 (4GB+64GB)"
  },
  "BND-AL10": {
   "codename": "bond",
   "name": "荣耀畅玩 7X",
-  "model_name": "荣耀畅玩 7X 移动 4G+ 版"
+  "model_name": "荣耀畅玩 7X 全网通版"
  },
  "BND-TL10": {
   "codename": "bond",
@@ -3272,12 +3272,12 @@
  "JSN-AL00": {
   "codename": "johnson",
   "name": "荣耀 8X",
-  "model_name": "荣耀 8X 移动 4G+ 版"
+  "model_name": "荣耀 8X 全网通版"
  },
  "JSN-AL00a": {
   "codename": "johnson",
   "name": "荣耀 8X",
-  "model_name": "荣耀 8X 移动 4G+ 版"
+  "model_name": "荣耀 8X 全网通版 (麒麟 710F)"
  },
  "JSM-TL00": {
   "codename": "johnson",
@@ -3287,12 +3287,12 @@
  "ARE-AL00": {
   "codename": "ares",
   "name": "荣耀 8X Max",
-  "model_name": "荣耀 8X Max 移动 4G+ 版 (骁龙 636)"
+  "model_name": "荣耀 8X Max 全网通版 (骁龙 636)"
  },
  "ARE-AL10": {
   "codename": "ares",
   "name": "荣耀 8X Max",
-  "model_name": "荣耀 8X Max 移动 4G+ 版 (骁龙 636)"
+  "model_name": "荣耀 8X Max 全网通版 (骁龙 660)"
  },
  "ARE-TL00": {
   "codename": "ares",
@@ -3302,12 +3302,12 @@
  "HLK-AL00": {
   "codename": "hulk",
   "name": "荣耀 9X",
-  "model_name": "荣耀 9X 移动 4G+ 版"
+  "model_name": "荣耀 9X 全网通版"
  },
  "HLK-AL00a": {
   "codename": "hulk",
   "name": "荣耀 9X",
-  "model_name": "荣耀 9X 移动 4G+ 版"
+  "model_name": "荣耀 9X 全网通版"
  },
  "HLK-TL00": {
   "codename": "hulk",
@@ -3322,17 +3322,17 @@
  "TEL-AN00": {
   "codename": "teller",
   "name": "荣耀 X10",
-  "model_name": "荣耀 X10 5G 移动定制版"
+  "model_name": "荣耀 X10 5G 全网通版 (6GB+64GB)"
  },
  "TEL-AN00a": {
   "codename": "teller",
   "name": "荣耀 X10",
-  "model_name": "荣耀 X10 5G 移动定制版"
+  "model_name": "荣耀 X10 5G 全网通版"
  },
  "TEL-AN10": {
   "codename": "teller",
   "name": "荣耀 X10",
-  "model_name": "荣耀 X10 5G 移动定制版"
+  "model_name": "荣耀 X10 5G 全网通版"
  },
  "TEL-TN00": {
   "codename": "teller",
@@ -3352,17 +3352,17 @@
  "JMM-AL00": {
   "codename": "jimmy",
   "name": "荣耀 V9 Play",
-  "model_name": "荣耀 V9 Play 移动定制高配版"
+  "model_name": "荣耀 V9 Play 全网通标配版"
  },
  "JMM-AL10": {
   "codename": "jimmy",
   "name": "荣耀 V9 Play",
-  "model_name": "荣耀 V9 Play 移动定制高配版"
+  "model_name": "荣耀 V9 Play 全网通高配版"
  },
  "JMM-TL00": {
   "codename": "jimmy",
   "name": "荣耀 V9 Play",
-  "model_name": "荣耀 V9 Play 移动定制高配版"
+  "model_name": "荣耀 V9 Play 移动定制标配版"
  },
  "JMM-TL10": {
   "codename": "jimmy",
@@ -3372,12 +3372,12 @@
  "COR-AL00": {
   "codename": "cornell",
   "name": "荣耀 Play",
-  "model_name": "荣耀 Play 移动 4G+ 高配版"
+  "model_name": "荣耀 Play 全网通标配版"
  },
  "COR-AL10": {
   "codename": "cornell",
   "name": "荣耀 Play",
-  "model_name": "荣耀 Play 移动 4G+ 高配版"
+  "model_name": "荣耀 Play 全网通高配版"
  },
  "COR-TL10": {
   "codename": "cornell",
@@ -3387,12 +3387,12 @@
  "ASK-AL00x": {
   "codename": "asoka",
   "name": "荣耀 Play 3",
-  "model_name": "荣耀 Play 3 移动 4G+ 版 (麒麟 710F)"
+  "model_name": "荣耀 Play 3 全网通版 (麒麟 710F)"
  },
  "ASK-AL20": {
   "codename": "asoka",
   "name": "荣耀 Play 3",
-  "model_name": "荣耀 Play 3 移动 4G+ 版 (麒麟 710F)"
+  "model_name": "荣耀 Play 3 全网通版 (麒麟 710A)"
  },
  "ASK-TL00x": {
   "codename": "asoka",
@@ -3427,7 +3427,7 @@
  "EDI-AL10": {
   "codename": "edison",
   "name": "荣耀 Note 8",
-  "model_name": "荣耀 Note 8 移动/联通版"
+  "model_name": "荣耀 Note 8 全网通版"
  },
  "EDI-DL00": {
   "codename": "edison",
@@ -3442,32 +3442,32 @@
  "H30-T00": {
   "codename": "",
   "name": "荣耀 3C",
-  "model_name": "荣耀 3C 电信版"
+  "model_name": "荣耀 3C 移动 3G 版 (4GB)"
  },
  "H30-T10": {
   "codename": "",
   "name": "荣耀 3C",
-  "model_name": "荣耀 3C 电信版"
+  "model_name": "荣耀 3C 移动 3G 版 (8GB)"
  },
  "H30-U10": {
   "codename": "",
   "name": "荣耀 3C",
-  "model_name": "荣耀 3C 电信版"
+  "model_name": "荣耀 3C 联通 3G 版"
  },
  "H30-L01": {
   "codename": "",
   "name": "荣耀 3C",
-  "model_name": "荣耀 3C 电信版"
+  "model_name": "荣耀 3C 移动 4G 版"
  },
  "H30-L01M": {
   "codename": "",
   "name": "荣耀 3C",
-  "model_name": "荣耀 3C 电信版"
+  "model_name": "荣耀 3C 移动 4G 定制版"
  },
  "H30-L02": {
   "codename": "",
   "name": "荣耀 3C",
-  "model_name": "荣耀 3C 电信版"
+  "model_name": "荣耀 3C 联通 4G 版"
  },
  "H30-C00": {
   "codename": "",
@@ -3477,7 +3477,7 @@
  "Hol-T00": {
   "codename": "holly",
   "name": "荣耀 3C 畅玩版",
-  "model_name": "荣耀 3C 畅玩版 联通版"
+  "model_name": "荣耀 3C 畅玩版 移动版"
  },
  "Hol-U10": {
   "codename": "holly",
@@ -3487,17 +3487,17 @@
  "CHM-TL00H": {
   "codename": "cherrymini",
   "name": "荣耀畅玩 4C",
-  "model_name": "荣耀畅玩 4C 电信版"
+  "model_name": "荣耀畅玩 4C 移动渠道版"
  },
  "CHM-TL00": {
   "codename": "cherrymini",
   "name": "荣耀畅玩 4C",
-  "model_name": "荣耀畅玩 4C 电信版"
+  "model_name": "荣耀畅玩 4C 移动定制版"
  },
  "CHM-UL00": {
   "codename": "cherrymini",
   "name": "荣耀畅玩 4C",
-  "model_name": "荣耀畅玩 4C 电信版"
+  "model_name": "荣耀畅玩 4C 双 4G 版"
  },
  "CHM-CL00": {
   "codename": "cherrymini",
@@ -3507,17 +3507,17 @@
  "NEM-AL10": {
   "codename": "nemo",
   "name": "荣耀畅玩 5C",
-  "model_name": "荣耀畅玩 5C 双 4G 版"
+  "model_name": "荣耀畅玩 5C 全网通版"
  },
  "NEM-TL00H": {
   "codename": "nemo",
   "name": "荣耀畅玩 5C",
-  "model_name": "荣耀畅玩 5C 双 4G 版"
+  "model_name": "荣耀畅玩 5C 移动公开版"
  },
  "NEM-TL00": {
   "codename": "nemo",
   "name": "荣耀畅玩 5C",
-  "model_name": "荣耀畅玩 5C 双 4G 版"
+  "model_name": "荣耀畅玩 5C 移动定制版"
  },
  "NEM-UL00": {
   "codename": "nemo",
@@ -3527,17 +3527,17 @@
  "LND-AL30": {
   "codename": "london",
   "name": "荣耀畅玩 7C",
-  "model_name": "荣耀畅玩 7C 移动 4G+ 高配版"
+  "model_name": "荣耀畅玩 7C 全网通标配版"
  },
  "LND-AL40": {
   "codename": "london",
   "name": "荣耀畅玩 7C",
-  "model_name": "荣耀畅玩 7C 移动 4G+ 高配版"
+  "model_name": "荣耀畅玩 7C 全网通高配版"
  },
  "LND-TL30": {
   "codename": "london",
   "name": "荣耀畅玩 7C",
-  "model_name": "荣耀畅玩 7C 移动 4G+ 高配版"
+  "model_name": "荣耀畅玩 7C 移动 4G+ 标配版"
  },
  "LND-TL40": {
   "codename": "london",
@@ -3547,12 +3547,12 @@
  "BKK-AL00": {
   "codename": "bangkok",
   "name": "荣耀畅玩 8C",
-  "model_name": "荣耀畅玩 8C 移动 4G+ 版"
+  "model_name": "荣耀畅玩 8C 全网通版 (4GB+64GB)"
  },
  "BKK-AL10": {
   "codename": "bangkok",
   "name": "荣耀畅玩 8C",
-  "model_name": "荣耀畅玩 8C 移动 4G+ 版"
+  "model_name": "荣耀畅玩 8C 全网通版"
  },
  "BKK-TL00": {
   "codename": "bangkok",
@@ -3562,17 +3562,17 @@
  "SCL-AL00": {
   "codename": "scale",
   "name": "荣耀 4A",
-  "model_name": "荣耀 4A 电信版"
+  "model_name": "荣耀 4A 全网通版"
  },
  "SCL-TL00H": {
   "codename": "scale",
   "name": "荣耀 4A",
-  "model_name": "荣耀 4A 电信版"
+  "model_name": "荣耀 4A 移动渠道版"
  },
  "SCL-TL00": {
   "codename": "scale",
   "name": "荣耀 4A",
-  "model_name": "荣耀 4A 电信版"
+  "model_name": "荣耀 4A 移动定制版"
  },
  "SCL-CL00": {
   "codename": "scale",
@@ -3582,22 +3582,22 @@
  "CAM-AL00": {
   "codename": "",
   "name": "荣耀畅玩 5A",
-  "model_name": "荣耀畅玩 5A 电信版"
+  "model_name": "荣耀畅玩 5A 全网通版"
  },
  "CAM-TL00H": {
   "codename": "",
   "name": "荣耀畅玩 5A",
-  "model_name": "荣耀畅玩 5A 电信版"
+  "model_name": "荣耀畅玩 5A 移动渠道版"
  },
  "CAM-TL00": {
   "codename": "",
   "name": "荣耀畅玩 5A",
-  "model_name": "荣耀畅玩 5A 电信版"
+  "model_name": "荣耀畅玩 5A 移动增强版"
  },
  "CAM-UL00": {
   "codename": "",
   "name": "荣耀畅玩 5A",
-  "model_name": "荣耀畅玩 5A 电信版"
+  "model_name": "荣耀畅玩 5A 双 4G 版"
  },
  "CAM-CL00": {
   "codename": "",
@@ -3607,7 +3607,7 @@
  "DLI-AL10": {
   "codename": "delhi",
   "name": "荣耀畅玩 6A",
-  "model_name": "荣耀畅玩 6A 移动定制版"
+  "model_name": "荣耀畅玩 6A 全网通版"
  },
  "DLI-TL20": {
   "codename": "delhi",
@@ -3617,17 +3617,17 @@
  "AUM-AL00": {
   "codename": "atomu",
   "name": "荣耀畅玩 7A",
-  "model_name": "荣耀畅玩 7A 移动 4G+ 高配版"
+  "model_name": "荣耀畅玩 7A 全网通标配版"
  },
  "AUM-AL20": {
   "codename": "atomu",
   "name": "荣耀畅玩 7A",
-  "model_name": "荣耀畅玩 7A 移动 4G+ 高配版"
+  "model_name": "荣耀畅玩 7A 全网通高配版"
  },
  "AUM-TL00": {
   "codename": "atomu",
   "name": "荣耀畅玩 7A",
-  "model_name": "荣耀畅玩 7A 移动 4G+ 高配版"
+  "model_name": "荣耀畅玩 7A 移动 4G+ 标配版"
  },
  "AUM-TL20": {
   "codename": "atomu",
@@ -3637,7 +3637,7 @@
  "JAT-AL00": {
   "codename": "jakarta",
   "name": "荣耀畅玩 8A",
-  "model_name": "荣耀畅玩 8A 移动 4G+ 版"
+  "model_name": "荣耀畅玩 8A 全网通版"
  },
  "JAT-TL00": {
   "codename": "jakarta",
@@ -3647,12 +3647,12 @@
  "MOA-AL00": {
   "codename": "moana",
   "name": "荣耀畅玩 9A",
-  "model_name": "荣耀畅玩 9A 移动 4G+ 版"
+  "model_name": "荣耀畅玩 9A 全网通版"
  },
  "MOA-AL20": {
   "codename": "moana",
   "name": "荣耀畅玩 9A",
-  "model_name": "荣耀畅玩 9A 移动 4G+ 版"
+  "model_name": "荣耀畅玩 9A 全网通版"
  },
  "MOA-TL00": {
   "codename": "moana",
@@ -3662,17 +3662,17 @@
  "G621-TL00M": {
   "codename": "",
   "name": "荣耀畅玩 4",
-  "model_name": "荣耀畅玩 4 电信版"
+  "model_name": "荣耀畅玩 4 移动渠道版"
  },
  "G621-TL00": {
   "codename": "",
   "name": "荣耀畅玩 4",
-  "model_name": "荣耀畅玩 4 电信版"
+  "model_name": "荣耀畅玩 4 移动定制版"
  },
  "G620S-UL00": {
   "codename": "",
   "name": "荣耀畅玩 4",
-  "model_name": "荣耀畅玩 4 电信版"
+  "model_name": "荣耀畅玩 4 联通版"
  },
  "C8817D": {
   "codename": "",
@@ -3682,7 +3682,7 @@
  "CUN-AL00": {
   "codename": "",
   "name": "荣耀畅玩 5",
-  "model_name": "荣耀畅玩 5 移动定制版"
+  "model_name": "荣耀畅玩 5 全网通版"
  },
  "CUN-TL00": {
   "codename": "",
@@ -3692,7 +3692,7 @@
  "MYA-AL10": {
   "codename": "maya",
   "name": "荣耀畅玩 6",
-  "model_name": "荣耀畅玩 6 移动定制版"
+  "model_name": "荣耀畅玩 6 全网通版"
  },
  "MYA-TL10": {
   "codename": "maya",
@@ -3702,7 +3702,7 @@
  "DUA-AL00": {
   "codename": "dura",
   "name": "荣耀畅玩 7",
-  "model_name": "荣耀畅玩 7 移动 4G+ 版"
+  "model_name": "荣耀畅玩 7 全网通版"
  },
  "DUA-TL00": {
   "codename": "dura",
@@ -3712,7 +3712,7 @@
  "KSA-AL00": {
   "codename": "katyusha",
   "name": "荣耀畅玩 8",
-  "model_name": "荣耀畅玩 8 移动 4G+ 版"
+  "model_name": "荣耀畅玩 8 全网通版"
  },
  "KSA-TL00": {
   "codename": "katyusha",
@@ -3722,17 +3722,17 @@
  "S8-701w": {
   "codename": "",
   "name": "荣耀平板",
-  "model_name": "荣耀平板 LTE 版"
+  "model_name": "荣耀平板 Wi-Fi 版"
  },
  "S8-701u": {
   "codename": "",
   "name": "荣耀平板",
-  "model_name": "荣耀平板 LTE 版"
+  "model_name": "荣耀平板 3G 版"
  },
  "T1-821w": {
   "codename": "",
   "name": "荣耀平板",
-  "model_name": "荣耀平板 LTE 版"
+  "model_name": "荣耀平板优享版"
  },
  "T1-823L": {
   "codename": "",
@@ -3742,7 +3742,7 @@
  "JDN-W09": {
   "codename": "jordan",
   "name": "荣耀平板 2",
-  "model_name": "荣耀平板 2 全网通版"
+  "model_name": "荣耀平板 2 Wi-Fi 版"
  },
  "JDN-AL00": {
   "codename": "jordan",
@@ -3752,7 +3752,7 @@
  "AGS2-W09HN": {
   "codename": "agassi2",
   "name": "荣耀平板 5",
-  "model_name": "荣耀平板 5 10.1 英寸 全网通版"
+  "model_name": "荣耀平板 5 10.1 英寸 Wi-Fi 版"
  },
  "AGS2-AL00HN": {
   "codename": "agassi2",
@@ -3762,7 +3762,7 @@
  "JDN2-W09HN": {
   "codename": "jordan2",
   "name": "荣耀平板 5",
-  "model_name": "荣耀平板 5 8 英寸 全网通版"
+  "model_name": "荣耀平板 5 8 英寸 Wi-Fi 版"
  },
  "JDN2-AL00HN": {
   "codename": "jordan2",
@@ -3777,7 +3777,7 @@
  "KRJ-W09": {
   "codename": "",
   "name": "荣耀平板 V6",
-  "model_name": "荣耀平板 V6 10.4 英寸 5G 版"
+  "model_name": "荣耀平板 V6 10.4 英寸 Wi-Fi 版"
  },
  "KRJ-AN00": {
   "codename": "",
@@ -3787,7 +3787,7 @@
  "AGS3-W09HN": {
   "codename": "agassi3",
   "name": "荣耀平板 6",
-  "model_name": "荣耀平板 6 10.1 英寸 全网通版"
+  "model_name": "荣耀平板 6 10.1 英寸 Wi-Fi 版"
  },
  "AGS3-AL09HN": {
   "codename": "agassi3",
@@ -3797,7 +3797,7 @@
  "AGR-W09HN": {
   "codename": "",
   "name": "荣耀平板 X6",
-  "model_name": "荣耀平板 X6 9.7 英寸 全网通版"
+  "model_name": "荣耀平板 X6 9.7 英寸 Wi-Fi 版"
  },
  "AGR-AL09HN": {
   "codename": "",
@@ -3807,7 +3807,7 @@
  "HDN-W09": {
   "codename": "haydn",
   "name": "荣耀 Waterplay",
-  "model_name": "荣耀 Waterplay 10.1 英寸 LTE 版"
+  "model_name": "荣耀 Waterplay 10.1 英寸 Wi-Fi 版"
  },
  "HDN-L09": {
   "codename": "haydn",
@@ -3817,7 +3817,7 @@
  "HDL-W09": {
   "codename": "handel",
   "name": "荣耀 Waterplay",
-  "model_name": "荣耀 Waterplay 8 英寸 全网通版"
+  "model_name": "荣耀 Waterplay 8 英寸 Wi-Fi 版"
  },
  "HDL-AL09": {
   "codename": "handel",
@@ -3827,12 +3827,12 @@
  "7D-501u": {
   "codename": "",
   "name": "荣耀 X1",
-  "model_name": "荣耀 X1 移动 4G 版"
+  "model_name": "荣耀 X1 3G 版"
  },
  "7D-503L": {
   "codename": "",
   "name": "荣耀 X1",
-  "model_name": "荣耀 X1 移动 4G 版"
+  "model_name": "荣耀 X1 4G 版"
  },
  "7D-503LT": {
   "codename": "",
@@ -3842,7 +3842,7 @@
  "GEM-703L": {
   "codename": "",
   "name": "荣耀 X2",
-  "model_name": "荣耀 X2 移动版"
+  "model_name": "荣耀 X2"
  },
  "GEM-703LT": {
   "codename": "",
@@ -3852,7 +3852,7 @@
  "T1-701u": {
   "codename": "",
   "name": "荣耀畅玩平板",
-  "model_name": "荣耀畅玩平板优享版"
+  "model_name": "荣耀畅玩平板"
  },
  "T1-701ua": {
   "codename": "",
@@ -3867,7 +3867,7 @@
  "T1-A21w": {
   "codename": "",
   "name": "荣耀畅玩平板 note",
-  "model_name": "荣耀畅玩平板 note LTE 版"
+  "model_name": "荣耀畅玩平板 note"
  },
  "T1-A23L": {
   "codename": "",
@@ -3877,7 +3877,7 @@
  "KOB-W09": {
   "codename": "kobe",
   "name": "荣耀畅玩平板 2",
-  "model_name": "荣耀畅玩平板 2 8 英寸 LTE 版"
+  "model_name": "荣耀畅玩平板 2 8 英寸 Wi-Fi 版"
  },
  "KOB-L09": {
   "codename": "kobe",
@@ -3887,7 +3887,7 @@
  "AGS-W09": {
   "codename": "agassi",
   "name": "荣耀畅玩平板 2",
-  "model_name": "荣耀畅玩平板 2 9.6 英寸 LTE 版"
+  "model_name": "荣耀畅玩平板 2 9.6 英寸 Wi-Fi 版"
  },
  "AGS-L09": {
   "codename": "agassi",
@@ -3902,7 +3902,7 @@
  "VLT-W50": {
   "codename": "",
   "name": "荣耀 MagicBook",
-  "model_name": "荣耀 MagicBook i7"
+  "model_name": "荣耀 MagicBook i5"
  },
  "VLT-W60": {
   "codename": "",
@@ -3917,32 +3917,32 @@
  "VLR-W09": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i7"
+  "model_name": "荣耀 MagicBook 2019 i3"
  },
  "VLR-W19": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i7"
+  "model_name": "荣耀 MagicBook 2019 i5"
  },
  "VLR-W29": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i7"
+  "model_name": "荣耀 MagicBook 2019 i7"
  },
  "VLR-W09L": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i7"
+  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i3"
  },
  "VLR-W19L": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i7"
+  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i5"
  },
  "VLR-W19LP": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i7"
+  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i5 (16GB+512GB)"
  },
  "VLR-W29L": {
   "codename": "",
@@ -3952,17 +3952,17 @@
  "KPR-W19": {
   "codename": "",
   "name": "荣耀 MagicBook 2019 锐龙版",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook 2019 锐龙版 R5"
  },
  "KPR-W29": {
   "codename": "",
   "name": "荣耀 MagicBook 2019 锐龙版",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook 2019 锐龙版 R7"
  },
  "KPRC-W10L": {
   "codename": "",
   "name": "荣耀 MagicBook 2019 锐龙版",
-  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook 2019 科技尝鲜版 R5"
  },
  "KPRC-W20L": {
   "codename": "",
@@ -3972,42 +3972,42 @@
  "Nbl-WAQ9HNR": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook 14 & 14 SE R5"
  },
  "Nbl-WAQ9HNRP": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook 14 R5 (16GB+512GB)"
  },
  "Nbl-WAP9HNR": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook 14 R7"
  },
  "Nbl-WAQ9HNL": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook 14 科技尝鲜版 R5"
  },
  "Nbl-WAP9HNL": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook 14 科技尝鲜版 R7"
  },
  "Nbl-WAH9HN": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook 14 i5"
  },
  "Nbl-WAH9HNP": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook 14 i5 (16GB+512GB)"
  },
  "Nbl-WAE9HN": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook 14 i7"
  },
  "Nbl-WAE9HNP": {
   "codename": "nobelk",
@@ -4017,7 +4017,7 @@
  "NblL-WFQ9HN": {
   "codename": "nobell",
   "name": "荣耀 MagicBook 14 2020",
-  "model_name": "荣耀 MagicBook 14 2020 R7"
+  "model_name": "荣耀 MagicBook 14 2020 R5"
  },
  "NblL-WFP9HN": {
   "codename": "nobell",
@@ -4027,37 +4027,37 @@
  "Boh-WAQ9HNR": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i7"
+  "model_name": "荣耀 MagicBook 15 R5"
  },
  "Boh-WAQ9HNRP": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i7"
+  "model_name": "荣耀 MagicBook 15 R5 (16GB+512GB)"
  },
  "Boh-WAP9HNR": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i7"
+  "model_name": "荣耀 MagicBook 15 R7"
  },
  "Boh-WAQ9HNL": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i7"
+  "model_name": "荣耀 MagicBook 15 科技尝鲜版 R5"
  },
  "Boh-WAP9HNL": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i7"
+  "model_name": "荣耀 MagicBook 15 科技尝鲜版 R7"
  },
  "Boh-WAH9HN": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i7"
+  "model_name": "荣耀 MagicBook 15 i5"
  },
  "Boh-WAH9HNP": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i7"
+  "model_name": "荣耀 MagicBook 15 i5 (16GB+512GB)"
  },
  "Boh-WAE9HN": {
   "codename": "",
@@ -4067,12 +4067,12 @@
  "BohL-WDQ9HN": {
   "codename": "",
   "name": "荣耀 MagicBook 15 2020",
-  "model_name": "荣耀 MagicBook 15 2020 R7"
+  "model_name": "荣耀 MagicBook 15 2020 R5 (8GB+256GB)"
  },
  "BohL-WFQ9HN": {
   "codename": "",
   "name": "荣耀 MagicBook 15 2020",
-  "model_name": "荣耀 MagicBook 15 2020 R7"
+  "model_name": "荣耀 MagicBook 15 2020 R5 (16GB+512GB)"
  },
  "BohL-WFP9HN": {
   "codename": "",
@@ -4082,47 +4082,47 @@
  "HBL-W19": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro i5"
  },
  "HBL-W29": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro i7"
  },
  "HBL-W19L": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 i5"
  },
  "HBL-W29L": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 i7"
  },
  "HLY-W19R": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro R5"
  },
  "HLY-W19RP": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro R5 (16GB+512GB)"
  },
  "HLY-W29R": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro R7"
  },
  "HLY-W19RL": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R5"
  },
  "HLY-W19RLP": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
-  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
+  "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R5 (16GB+512GB)"
  },
  "HLY-W29RL": {
   "codename": "",
@@ -4132,17 +4132,17 @@
  "HBB-WAH9PHNL": {
   "codename": "",
   "name": "荣耀 MagicBook Pro 2020",
-  "model_name": "荣耀 MagicBook Pro 2020 R7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook Pro 2020 i5 (16GB+512GB)"
  },
  "HBB-WAE9PHNL": {
   "codename": "",
   "name": "荣耀 MagicBook Pro 2020",
-  "model_name": "荣耀 MagicBook Pro 2020 R7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook Pro 2020 i7 (16GB+512GB)"
  },
  "HLYL-WFQ9": {
   "codename": "",
   "name": "荣耀 MagicBook Pro 2020",
-  "model_name": "荣耀 MagicBook Pro 2020 R7 (16GB+512GB)"
+  "model_name": "荣耀 MagicBook Pro 2020 R5 (16GB+512GB)"
  },
  "HLYL-WFP9": {
   "codename": "",
@@ -4152,7 +4152,7 @@
  "OSCA-550A": {
   "codename": "osca",
   "name": "荣耀智慧屏",
-  "model_name": "荣耀智慧屏 55 英寸 (4GB+32GB)"
+  "model_name": "荣耀智慧屏 55 英寸 (2GB+16GB)"
  },
  "OSCA-550AX": {
   "codename": "osca",
@@ -4162,7 +4162,7 @@
  "OSCA-550": {
   "codename": "osca",
   "name": "荣耀智慧屏 PRO",
-  "model_name": "荣耀智慧屏 PRO 55 英寸 (4GB+64GB)"
+  "model_name": "荣耀智慧屏 PRO 55 英寸 (2GB+32GB)"
  },
  "OSCA-550X": {
   "codename": "osca",
@@ -4172,17 +4172,17 @@
  "LOK-330": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 65 英寸"
+  "model_name": "荣耀智慧屏 X1 50 英寸"
  },
  "LOK-350": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 65 英寸"
+  "model_name": "荣耀智慧屏 X1 55 英寸"
  },
  "LOK-350C": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 65 英寸"
+  "model_name": "荣耀智慧屏 X1 55 英寸"
  },
  "LOK-360": {
   "codename": "",
