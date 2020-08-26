@@ -45,9 +45,10 @@ def dumper(brand='huawei'):
             for model in map(str.strip, i.split(':')[0].strip().split(',')):
                 model = re.sub(r'HUAWEI ?', '', model, re.IGNORECASE)
                 model_name = i.split(':')[1].strip()
-                info.update({"model_name": model_name})
+                model_info = dict(info) # do a copy
+                model_info.update({"model_name": model_name})
                 
-                DEVICES.update({model: info})
+                DEVICES.update({model: model_info})
 
     # print(DEVICES)
     with open(f'{DATA_DIR / brand}.json', 'w') as output:
