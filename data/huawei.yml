@@ -554,6 +554,14 @@ FLA-TL10:
   codename: florida
   model_name: 华为畅享 8 Plus 移动 4G+ 版
   name: 华为畅享 8 Plus
+FRL-AN00a:
+  codename: franklin
+  model_name: 华为畅享 20 Plus 5G 全网通版
+  name: 华为畅享 20 Plus
+FRL-TN00:
+  codename: franklin
+  model_name: 华为畅享 20 Plus 5G 移动定制版
+  name: 华为畅享 20 Plus
 G6-C00:
   codename: ''
   model_name: 华为 Ascend G6 电信版
