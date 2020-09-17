@@ -426,6 +426,14 @@ FRD-TL00:
   codename: faraday
   model_name: 荣耀 8 移动版
   name: 荣耀 8
+FRD-WFD9:
+  codename: ''
+  model_name: 荣耀猎人游戏本 V700 i7
+  name: 荣耀猎人游戏本 V700
+FRD-WFG9:
+  codename: ''
+  model_name: 荣耀猎人游戏本 V700 i5
+  name: 荣耀猎人游戏本 V700
 G620S-UL00:
   codename: ''
   model_name: 荣耀畅玩 4 联通版
@@ -1111,7 +1119,7 @@ TEL-TN10:
   model_name: 荣耀 X10 5G 移动定制版
   name: 荣耀 X10
 TNNH-AN00:
-  codename: ''
+  codename: tianshanh
   model_name: 荣耀 Play 4 5G 全网通版
   name: 荣耀 Play 4
 TNY-AL00:

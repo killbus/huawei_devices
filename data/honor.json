@@ -705,7 +705,7 @@
   "model_name": "荣耀 Play 4T Pro 全网通版"
  },
  "TNNH-AN00": {
-  "codename": "",
+  "codename": "tianshanh",
   "name": "荣耀 Play 4",
   "model_name": "荣耀 Play 4 5G 全网通版"
  },
@@ -1438,6 +1438,16 @@
   "codename": "",
   "name": "荣耀 MagicBook Pro 2020",
   "model_name": "荣耀 MagicBook Pro 2020 R7 (16GB+512GB)"
+ },
+ "FRD-WFG9": {
+  "codename": "",
+  "name": "荣耀猎人游戏本 V700",
+  "model_name": "荣耀猎人游戏本 V700 i5"
+ },
+ "FRD-WFD9": {
+  "codename": "",
+  "name": "荣耀猎人游戏本 V700",
+  "model_name": "荣耀猎人游戏本 V700 i7"
  },
  "OSCA-550A": {
   "codename": "osca",
