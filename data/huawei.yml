@@ -790,6 +790,10 @@ KLVC-WFH9L:
   codename: kelvinc
   model_name: HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
   name: HUAWEI MateBook 14
+KLVL-WFE9:
+  codename: kelvinl
+  model_name: HUAWEI MateBook 14 (2020) R7
+  name: HUAWEI MateBook 14
 KLVL-WFH9:
   codename: kelvinl
   model_name: HUAWEI MateBook 14 (2020) R5
