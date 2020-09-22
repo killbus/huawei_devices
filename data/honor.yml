@@ -828,19 +828,27 @@ LOK-330:
   name: 荣耀智慧屏 X1
 LOK-350:
   codename: ''
-  model_name: 荣耀智慧屏 X1 55 英寸
+  model_name: 荣耀智慧屏 X1 55 英寸 (2GB+16GB)
   name: 荣耀智慧屏 X1
 LOK-350C:
   codename: ''
-  model_name: 荣耀智慧屏 X1 55 英寸
+  model_name: 荣耀智慧屏 X1 55 英寸 (2GB+16GB)
+  name: 荣耀智慧屏 X1
+LOK-350S:
+  codename: ''
+  model_name: 荣耀智慧屏 X1 55 英寸 (4GB+32GB)
   name: 荣耀智慧屏 X1
 LOK-360:
   codename: ''
-  model_name: 荣耀智慧屏 X1 65 英寸
+  model_name: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
   name: 荣耀智慧屏 X1
 LOK-360C:
   codename: ''
-  model_name: 荣耀智慧屏 X1 65 英寸
+  model_name: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
+  name: 荣耀智慧屏 X1
+LOK-360S:
+  codename: ''
+  model_name: 荣耀智慧屏 X1 65 英寸 (4GB+32GB)
   name: 荣耀智慧屏 X1
 LRA-AL00:
   codename: laura

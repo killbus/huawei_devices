@@ -1477,21 +1477,31 @@
  "LOK-350": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 55 英寸"
+  "model_name": "荣耀智慧屏 X1 55 英寸 (2GB+16GB)"
  },
  "LOK-350C": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 55 英寸"
+  "model_name": "荣耀智慧屏 X1 55 英寸 (2GB+16GB)"
+ },
+ "LOK-350S": {
+  "codename": "",
+  "name": "荣耀智慧屏 X1",
+  "model_name": "荣耀智慧屏 X1 55 英寸 (4GB+32GB)"
  },
  "LOK-360": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 65 英寸"
+  "model_name": "荣耀智慧屏 X1 65 英寸 (2GB+16GB)"
  },
  "LOK-360C": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 65 英寸"
+  "model_name": "荣耀智慧屏 X1 65 英寸 (2GB+16GB)"
+ },
+ "LOK-360S": {
+  "codename": "",
+  "name": "荣耀智慧屏 X1",
+  "model_name": "荣耀智慧屏 X1 65 英寸 (4GB+32GB)"
  }
 }
