@@ -724,6 +724,11 @@
   "name": "HUAWEI nova 7 SE",
   "model_name": "HUAWEI nova 7 SE 5G 移动全网通版"
  },
+ "CND-AN00": {
+  "codename": "cindy",
+  "name": "HUAWEI nova 7 SE 活力版",
+  "model_name": "HUAWEI Nova 7 SE 活力版 5G 全网通版"
+ },
  "G6-T00": {
   "codename": "",
   "name": "华为 Ascend G6",
