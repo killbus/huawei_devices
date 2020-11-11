@@ -1,360 +1,188 @@
-AKA-L29:
-  codename: ''
+'`AKA-L29`':
+  codename: asoka
   model_name: HONOR 9C Dual SIM
   name: HONOR 9C
-ATH-UL01:
+'`ATH-UL01` `ATH-UL06` `ATH-UL11` `ATH-UL16`':
   codename: ''
   model_name: ShotX
   name: ShotX
-ATH-UL06:
-  codename: ''
-  model_name: ShotX
-  name: ShotX
-ATH-UL11:
-  codename: ''
-  model_name: ShotX
-  name: ShotX
-ATH-UL16:
-  codename: ''
-  model_name: ShotX
-  name: ShotX
-AUM-AL20:
+'`AUM-L29` `AUM-L33` `AUM-L41` `AUM-AL20`':
   codename: atomu
   model_name: HONOR 7A Dual SIM
   name: HONOR 7A
-AUM-L29:
-  codename: atomu
-  model_name: HONOR 7A Dual SIM
-  name: HONOR 7A
-AUM-L33:
-  codename: atomu
-  model_name: HONOR 7A Dual SIM
-  name: HONOR 7A
-AUM-L41:
-  codename: atomu
-  model_name: HONOR 7A Dual SIM
-  name: HONOR 7A
-BKK-L21:
+'`BKK-L21` `BKK-L22` `BKK-LX2`':
   codename: bangkok
   model_name: HONOR 8C Dual SIM
   name: HONOR 8C
-BKK-L22:
-  codename: bangkok
-  model_name: HONOR 8C Dual SIM
-  name: HONOR 8C
-BKK-LX2:
-  codename: bangkok
-  model_name: HONOR 8C Dual SIM
-  name: HONOR 8C
-BKL-L04:
+'`BKL-L04`':
   codename: berkeley
   model_name: HONOR View10 Dual SIM (United States)
   name: HONOR View10
-BKL-L09:
+'`BKL-L09`':
   codename: berkeley
   model_name: HONOR View10 Dual SIM
   name: HONOR View10
-BLN-L21:
+'`BLN-L21` `BLN-L22`':
   codename: berlin
   model_name: HONOR 6X Dual SIM
   name: HONOR 6X
-BLN-L22:
-  codename: berlin
-  model_name: HONOR 6X Dual SIM
-  name: HONOR 6X
-BLN-L24:
+'`BLN-L24`':
   codename: berlin
   model_name: HONOR 6X Dual SIM (United States)
   name: HONOR 6X
-BND-AL10:
+'`BND-L21` `BND-L31` `BND-AL10`':
   codename: bond
   model_name: HONOR 7X Dual SIM
   name: HONOR 7X
-BND-L21:
-  codename: bond
-  model_name: HONOR 7X Dual SIM
-  name: HONOR 7X
-BND-L24:
+'`BND-L24`':
   codename: bond
   model_name: HONOR 7X Dual SIM (United States)
   name: HONOR 7X
-BND-L31:
-  codename: bond
-  model_name: HONOR 7X Dual SIM
-  name: HONOR 7X
-CHM-U01:
+'`CHM-U01`':
   codename: cherrymini
   model_name: HONOR 4C Dual SIM
   name: HONOR 4C
-COL-AL10:
+'`COL-L29` `COL-L29D` `COL-AL10`':
   codename: columbia
   model_name: HONOR 10 Dual SIM
   name: HONOR 10
-COL-L29:
-  codename: columbia
-  model_name: HONOR 10 Dual SIM
-  name: HONOR 10
-COL-L29D:
-  codename: columbia
-  model_name: HONOR 10 Dual SIM
-  name: HONOR 10
-COR-AL00:
+'`COR-L29` `COR-AL00`':
   codename: cornell
   model_name: HONOR Play Dual SIM
   name: HONOR Play
-COR-L29:
-  codename: cornell
-  model_name: HONOR Play Dual SIM
-  name: HONOR Play
-Che1-L04:
+'`Che1-L04`':
   codename: cherry
   model_name: HONOR 4X (India)
   name: HONOR 4X
-Che2-L03:
+'`Che2-L03`':
   codename: cherryplus
   model_name: HONOR 4X Single SIM
   name: HONOR 4X
-Che2-L11:
+'`Che2-L11` `Che2-L12` `Che2-L23`':
   codename: cherryplus
   model_name: HONOR 4X Dual SIM
   name: HONOR 4X
-Che2-L12:
-  codename: cherryplus
-  model_name: HONOR 4X Dual SIM
-  name: HONOR 4X
-Che2-L23:
-  codename: cherryplus
-  model_name: HONOR 4X Dual SIM
-  name: HONOR 4X
-DIG-L22HN:
+'`DIG-L22HN`':
   codename: ''
   model_name: HONOR 6C Dual SIM
   name: HONOR 6C
-DLI-L22:
+'`DLI-L22` `DLI-L42` `DLI-TL20`':
   codename: delhi
   model_name: HONOR 6A Dual SIM
   name: HONOR 6A
-DLI-L42:
-  codename: delhi
-  model_name: HONOR 6A Dual SIM
-  name: HONOR 6A
-DLI-TL20:
-  codename: delhi
-  model_name: HONOR 6A Dual SIM
-  name: HONOR 6A
-DRA-AL00IA:
+'`DRA-LX5` `DRA-AL00IA` `DUA-L22` `DUA-LX3`':
   codename: dura
   model_name: HONOR 7S Dual SIM
   name: HONOR 7S
-DRA-LX5:
-  codename: dura
-  model_name: HONOR 7S Dual SIM
-  name: HONOR 7S
-DUA-L22:
-  codename: dura
-  model_name: HONOR 7S Dual SIM
-  name: HONOR 7S
-DUA-LX3:
-  codename: dura
-  model_name: HONOR 7S Dual SIM
-  name: HONOR 7S
-DUK-L09:
+'`DUK-L09`':
   codename: duke
   model_name: HONOR 8 Pro Dual SIM
   name: HONOR 8 Pro
-FRD-L02:
+'`FRD-L02` `FRD-L04`':
   codename: faraday
   model_name: HONOR 8 Single SIM
   name: HONOR 8
-FRD-L04:
-  codename: faraday
-  model_name: HONOR 8 Single SIM
-  name: HONOR 8
-FRD-L09:
+'`FRD-L09` `FRD-L19`':
   codename: faraday
   model_name: HONOR 8 Dual SIM
   name: HONOR 8
-FRD-L19:
-  codename: faraday
-  model_name: HONOR 8 Dual SIM
-  name: HONOR 8
-H60-L04:
+'`H60-L04`':
   codename: mogolia
   model_name: HONOR 6 Single SIM
   name: HONOR 6
-HLK-L41:
+'`HLK-L41` `HLK-L42`':
   codename: hulk
   model_name: HONOR 9X PRO Dual SIM
   name: HONOR 9X PRO
-HLK-L42:
-  codename: hulk
-  model_name: HONOR 9X PRO Dual SIM
-  name: HONOR 9X PRO
-HRY-AL00:
-  codename: harry
-  model_name: HONOR 10 Lite Dual SIM
-  name: HONOR 10 Lite
-HRY-AL00Ta:
-  codename: harry
+'`HRY-AL00Ta`':
+  codename: harrypro
   model_name: HONOR 20i Dual SIM
   name: HONOR 20i
-HRY-AL00a:
+'`HRY-LX1` `HRY-LX1MEB` `HRY-LX2` `HRY-AL00` `HRY-AL00a`':
   codename: harry
   model_name: HONOR 10 Lite Dual SIM
   name: HONOR 10 Lite
-HRY-LX1:
-  codename: harry
-  model_name: HONOR 10 Lite Dual SIM
-  name: HONOR 10 Lite
-HRY-LX1MEB:
-  codename: harry
-  model_name: HONOR 10 Lite Dual SIM
-  name: HONOR 10 Lite
-HRY-LX2:
-  codename: harry
-  model_name: HONOR 10 Lite Dual SIM
-  name: HONOR 10 Lite
-JAT-L29:
+'`JAT-L29` `JAT-L41` `JAT-LX1` `JAT-LX3`':
   codename: jakarta
   model_name: HONOR 8A Dual SIM
   name: HONOR 8A
-JAT-L41:
-  codename: jakarta
-  model_name: HONOR 8A Dual SIM
-  name: HONOR 8A
-JAT-LX1:
-  codename: jakarta
-  model_name: HONOR 8A Dual SIM
-  name: HONOR 8A
-JAT-LX3:
-  codename: jakarta
-  model_name: HONOR 8A Dual SIM
-  name: HONOR 8A
-JMM-L22:
+'`JMM-L22`':
   codename: jimmy
   model_name: HONOR 6C Pro Dual SIM
   name: HONOR 6C Pro
-JSN-L21:
+'`JSN-L21` `JSN-L22` `JSN-L23`':
   codename: johnson
   model_name: HONOR 9X Lite Dual SIM
   name: HONOR 9X Lite
-JSN-L22:
-  codename: johnson
-  model_name: HONOR 9X Lite Dual SIM
-  name: HONOR 9X Lite
-JSN-L23:
-  codename: johnson
-  model_name: HONOR 9X Lite Dual SIM
-  name: HONOR 9X Lite
-JSN-L42:
+'`JSN-L21` `JSN-L22` `JSN-L23` `JSN-L42`':
   codename: johnson
   model_name: HONOR 8X Dual SIM
   name: HONOR 8X
-KIW-L21:
+'`KIW-L21`':
   codename: kiwi
   model_name: HONOR 5X Dual SIM
   name: HONOR 5X
-KIW-L24:
+'`KIW-L24`':
   codename: kiwi
   model_name: HONOR 5X Dual SIM (United States)
   name: HONOR 5X
-KSA-LX2:
+'`KSA-LX2` `KSA-LX3` `KSA-LX9`':
   codename: katyusha
   model_name: HONOR 8S Dual SIM
   name: HONOR 8S
-KSA-LX3:
-  codename: katyusha
-  model_name: HONOR 8S Dual SIM
-  name: HONOR 8S
-KSA-LX9:
-  codename: katyusha
-  model_name: HONOR 8S Dual SIM
-  name: HONOR 8S
-LLD-AL10:
-  codename: leland
-  model_name: HONOR 9 Lite Dual SIM
-  name: HONOR 9 Lite
-LLD-AL20:
+'`LLD-AL20`':
   codename: lelandp
   model_name: HONOR 9N Dual SIM
   name: HONOR 9N
-LLD-L31:
+'`LLD-L31` `LLD-AL10`':
   codename: leland
   model_name: HONOR 9 Lite Dual SIM
   name: HONOR 9 Lite
-LND-AL30:
+'`LND-L29` `LND-AL30`':
   codename: london
   model_name: HONOR 7C Dual SIM
   name: HONOR 7C
-LND-L29:
-  codename: london
-  model_name: HONOR 7C Dual SIM
-  name: HONOR 7C
-MOA-LX9N:
+'`MOA-LX9N`':
   codename: moana
   model_name: HONOR 9A Dual SIM
   name: HONOR 9A
-NEM-L21:
+'`NEM-L21` `NEM-L22` `NEM-L51`':
   codename: nemo
   model_name: HONOR 5C Dual SIM
   name: HONOR 5C
-NEM-L22:
-  codename: nemo
-  model_name: HONOR 5C Dual SIM
-  name: HONOR 5C
-NEM-L51:
-  codename: nemo
-  model_name: HONOR 5C Dual SIM
-  name: HONOR 5C
-OXF-AN10:
+'`OXF-N29` `OXF-AN10`':
   codename: oxford
   model_name: HONOR View30 PRO Dual SIM
   name: HONOR View30 PRO
-OXF-N29:
-  codename: oxford
-  model_name: HONOR View30 PRO Dual SIM
-  name: HONOR View30 PRO
-PCT-AL10:
+'`PCT-L29` `PCT-AL10`':
   codename: princeton
   model_name: HONOR View20 Dual SIM
   name: HONOR View20
-PCT-L29:
-  codename: princeton
-  model_name: HONOR View20 Dual SIM
-  name: HONOR View20
-PE-TL10:
+'`PE-TL10`':
   codename: pine
   model_name: HONOR 6 Plus Dual SIM
   name: HONOR 6 Plus
-PLK-L01:
+'`PLK-L01`':
   codename: plank
   model_name: HONOR 7 Dual SIM
   name: HONOR 7
-STF-L09:
+'`STF-L09`':
   codename: stanford
   model_name: HONOR 9 Dual SIM
   name: HONOR 9
-STK-L22:
+'`STK-L22` `STK-LX1` `STK-LX3`':
   codename: stark
   model_name: HONOR 9X Dual SIM
   name: HONOR 9X
-STK-LX1:
-  codename: stark
-  model_name: HONOR 9X Dual SIM
-  name: HONOR 9X
-STK-LX3:
-  codename: stark
-  model_name: HONOR 9X Dual SIM
-  name: HONOR 9X
-VEN-L22:
+'`VEN-L22`':
   codename: ''
   model_name: HONOR 8 Smart Dual SIM
   name: HONOR 8 Smart
-YAL-L21:
+'`YAL-L21`':
   codename: yale
   model_name: HONOR 20 Dual SIM
   name: HONOR 20
-YAL-L41:
+'`YAL-L41`':
   codename: yale
   model_name: HONOR 20 PRO Dual SIM
   name: HONOR 20 PRO

@@ -1,1204 +1,1168 @@
-7D-501u:
+'`7D-501u`':
   codename: ''
   model_name: 荣耀 X1 3G 版
   name: 荣耀 X1
-7D-503L:
-  codename: ''
-  model_name: 荣耀 X1 4G 版
-  name: 荣耀 X1
-7D-503LT:
+'`7D-503LT`':
   codename: ''
   model_name: 荣耀 X1 移动 4G 版
   name: 荣耀 X1
-AGR-AL09HN:
+'`7D-503L`':
   codename: ''
+  model_name: 荣耀 X1 4G 版
+  name: 荣耀 X1
+'`AGR-AL09HN`':
+  codename: agassir
   model_name: 荣耀平板 X6 9.7 英寸 全网通版
   name: 荣耀平板 X6
-AGR-W09HN:
-  codename: ''
+'`AGR-W09HN`':
+  codename: agassir
   model_name: 荣耀平板 X6 9.7 英寸 Wi-Fi 版
   name: 荣耀平板 X6
-AGS-L09:
+'`AGS-L09`':
   codename: agassi
   model_name: 荣耀畅玩平板 2 9.6 英寸 LTE 版
   name: 荣耀畅玩平板 2
-AGS-W09:
+'`AGS-W09`':
   codename: agassi
   model_name: 荣耀畅玩平板 2 9.6 英寸 Wi-Fi 版
   name: 荣耀畅玩平板 2
-AGS2-AL00HN:
+'`AGS2-AL00HN`':
   codename: agassi2
   model_name: 荣耀平板 5 10.1 英寸 全网通版
   name: 荣耀平板 5
-AGS2-W09HN:
+'`AGS2-W09HN`':
   codename: agassi2
   model_name: 荣耀平板 5 10.1 英寸 Wi-Fi 版
   name: 荣耀平板 5
-AGS3-AL09HN:
+'`AGS3-AL09HN`':
   codename: agassi3
   model_name: 荣耀平板 6 10.1 英寸 全网通版
   name: 荣耀平板 6
-AGS3-W09HN:
+'`AGS3-W09HN`':
   codename: agassi3
   model_name: 荣耀平板 6 10.1 英寸 Wi-Fi 版
   name: 荣耀平板 6
-AKA-AL10:
-  codename: ''
+'`AKA-AL10`':
+  codename: asoka
   model_name: 荣耀 Play 4T 全网通版
   name: 荣耀 Play 4T
-AQM-AL10:
+'`AQM-AL10`':
   codename: aquaman
   model_name: 荣耀 Play 4T Pro 全网通版
   name: 荣耀 Play 4T Pro
-ARE-AL00:
+'`ARE-AL00`':
   codename: ares
   model_name: 荣耀 8X Max 全网通版 (骁龙 636)
   name: 荣耀 8X Max
-ARE-AL10:
+'`ARE-AL10`':
   codename: ares
   model_name: 荣耀 8X Max 全网通版 (骁龙 660)
   name: 荣耀 8X Max
-ARE-TL00:
+'`ARE-TL00`':
   codename: ares
   model_name: 荣耀 8X Max 移动 4G+ 版 (骁龙 636)
   name: 荣耀 8X Max
-ASK-AL00x:
+'`ASK-AL00x`':
   codename: asoka
   model_name: 荣耀 Play 3 全网通版 (麒麟 710F)
   name: 荣耀 Play 3
-ASK-AL20:
+'`ASK-AL20`':
   codename: asoka
   model_name: 荣耀 Play 3 全网通版 (麒麟 710A)
   name: 荣耀 Play 3
-ASK-TL00x:
+'`ASK-TL00x`':
   codename: asoka
   model_name: 荣耀 Play 3 移动 4G+ 版 (麒麟 710F)
   name: 荣耀 Play 3
-ATH-AL00:
+'`ATH-AL00`':
   codename: ''
   model_name: 荣耀 7i 全网通版
   name: 荣耀 7i
-ATH-CL00:
+'`ATH-CL00`':
   codename: ''
   model_name: 荣耀 7i 电信版
   name: 荣耀 7i
-ATH-TL00:
-  codename: ''
-  model_name: 荣耀 7i 移动定制版
-  name: 荣耀 7i
-ATH-TL00H:
+'`ATH-TL00H`':
   codename: ''
   model_name: 荣耀 7i 移动渠道版
   name: 荣耀 7i
-ATH-UL00:
+'`ATH-TL00`':
+  codename: ''
+  model_name: 荣耀 7i 移动定制版
+  name: 荣耀 7i
+'`ATH-UL00`':
   codename: ''
   model_name: 荣耀 7i 双 4G 版
   name: 荣耀 7i
-AUM-AL00:
+'`AUM-AL00`':
   codename: atomu
   model_name: 荣耀畅玩 7A 全网通标配版
   name: 荣耀畅玩 7A
-AUM-AL20:
+'`AUM-AL20`':
   codename: atomu
   model_name: 荣耀畅玩 7A 全网通高配版
   name: 荣耀畅玩 7A
-AUM-TL00:
+'`AUM-TL00`':
   codename: atomu
   model_name: 荣耀畅玩 7A 移动 4G+ 标配版
   name: 荣耀畅玩 7A
-AUM-TL20:
+'`AUM-TL20`':
   codename: atomu
   model_name: 荣耀畅玩 7A 移动 4G+ 高配版
   name: 荣耀畅玩 7A
-BG2-W09:
+'`BG2-W09`':
   codename: baggio2
   model_name: 荣耀畅玩平板 2 7 英寸 Wi-Fi 版
   name: 荣耀畅玩平板 2
-BGO-DL09:
+'`BGO-DL09`':
   codename: baggio
   model_name: 荣耀畅玩平板 LTE 版
   name: 荣耀畅玩平板
-BKK-AL00:
+'`BKK-AL00`':
   codename: bangkok
   model_name: 荣耀畅玩 8C 全网通版 (4GB+64GB)
   name: 荣耀畅玩 8C
-BKK-AL10:
+'`BKK-AL10`':
   codename: bangkok
   model_name: 荣耀畅玩 8C 全网通版
   name: 荣耀畅玩 8C
-BKK-TL00:
+'`BKK-TL00`':
   codename: bangkok
   model_name: 荣耀畅玩 8C 移动 4G+ 版
   name: 荣耀畅玩 8C
-BKL-AL00:
+'`BKL-AL00`':
   codename: berkeley
   model_name: 荣耀 V10 全网通标配版
   name: 荣耀 V10
-BKL-AL10:
+'`BKL-AL10`':
   codename: berkeley
   model_name: 荣耀 V10 全网通高配版
   name: 荣耀 V10
-BKL-AL20:
+'`BKL-AL20`':
   codename: berkeley
   model_name: 荣耀 V10 全网通尊享版
   name: 荣耀 V10
-BKL-TL10:
+'`BKL-TL10`':
   codename: berkeley
   model_name: 荣耀 V10 移动 4G+ 版
   name: 荣耀 V10
-BLN-AL10:
+'`BLN-AL10` `BLN-AL20`':
   codename: berlin
   model_name: 荣耀畅玩 6X 全网通版
   name: 荣耀畅玩 6X
-BLN-AL20:
-  codename: berlin
-  model_name: 荣耀畅玩 6X 全网通版
-  name: 荣耀畅玩 6X
-BLN-AL30:
+'`BLN-AL30` `BLN-AL40`':
   codename: berlin
   model_name: 荣耀畅玩 6X 全网通版 (电信 800M)
   name: 荣耀畅玩 6X
-BLN-AL40:
-  codename: berlin
-  model_name: 荣耀畅玩 6X 全网通版 (电信 800M)
-  name: 荣耀畅玩 6X
-BLN-TL00:
+'`BLN-TL00` `BLN-TL10`':
   codename: berlin
   model_name: 荣耀畅玩 6X 移动定制版
   name: 荣耀畅玩 6X
-BLN-TL10:
-  codename: berlin
-  model_name: 荣耀畅玩 6X 移动定制版
-  name: 荣耀畅玩 6X
-BMH-AN10:
+'`BMH-AN10` `BMH-AN20`':
   codename: birmingham
   model_name: 荣耀 30 5G 全网通版
   name: 荣耀 30
-BMH-AN20:
-  codename: birmingham
-  model_name: 荣耀 30 5G 全网通版
-  name: 荣耀 30
-BMH-TN10:
+'`BMH-TN10` `BMH-TN20`':
   codename: birmingham
   model_name: 荣耀 30 5G 移动定制版
   name: 荣耀 30
-BMH-TN20:
-  codename: birmingham
-  model_name: 荣耀 30 5G 移动定制版
-  name: 荣耀 30
-BND-AL00:
+'`BND-AL00`':
   codename: bond
   model_name: 荣耀畅玩 7X 全网通版 (4GB+64GB)
   name: 荣耀畅玩 7X
-BND-AL10:
+'`BND-AL10`':
   codename: bond
   model_name: 荣耀畅玩 7X 全网通版
   name: 荣耀畅玩 7X
-BND-TL10:
+'`BND-TL10`':
   codename: bond
   model_name: 荣耀畅玩 7X 移动 4G+ 版
   name: 荣耀畅玩 7X
-Boh-WAE9HN:
+'`Boh-WAE9HN`':
   codename: ''
   model_name: 荣耀 MagicBook 15 i7
   name: 荣耀 MagicBook 15
-Boh-WAH9HN:
-  codename: ''
-  model_name: 荣耀 MagicBook 15 i5
-  name: 荣耀 MagicBook 15
-Boh-WAH9HNP:
+'`Boh-WAH9HNP`':
   codename: ''
   model_name: 荣耀 MagicBook 15 i5 (16GB+512GB)
   name: 荣耀 MagicBook 15
-Boh-WAP9HNL:
+'`Boh-WAH9HN`':
+  codename: ''
+  model_name: 荣耀 MagicBook 15 i5
+  name: 荣耀 MagicBook 15
+'`Boh-WAP9HNL`':
   codename: ''
   model_name: 荣耀 MagicBook 15 科技尝鲜版 R7
   name: 荣耀 MagicBook 15
-Boh-WAP9HNR:
+'`Boh-WAP9HNR`':
   codename: ''
   model_name: 荣耀 MagicBook 15 R7
   name: 荣耀 MagicBook 15
-Boh-WAQ9HNL:
+'`Boh-WAQ9HNL`':
   codename: ''
   model_name: 荣耀 MagicBook 15 科技尝鲜版 R5
   name: 荣耀 MagicBook 15
-Boh-WAQ9HNR:
-  codename: ''
-  model_name: 荣耀 MagicBook 15 R5
-  name: 荣耀 MagicBook 15
-Boh-WAQ9HNRP:
+'`Boh-WAQ9HNRP`':
   codename: ''
   model_name: 荣耀 MagicBook 15 R5 (16GB+512GB)
   name: 荣耀 MagicBook 15
-BohL-WDQ9HN:
+'`Boh-WAQ9HNR`':
+  codename: ''
+  model_name: 荣耀 MagicBook 15 R5
+  name: 荣耀 MagicBook 15
+'`BohL-WDQ9HN`':
   codename: ''
   model_name: 荣耀 MagicBook 15 2020 R5 (8GB+256GB)
   name: 荣耀 MagicBook 15 2020
-BohL-WFP9HN:
+'`BohL-WFP9HN`':
   codename: ''
   model_name: 荣耀 MagicBook 15 2020 R7
   name: 荣耀 MagicBook 15 2020
-BohL-WFQ9HN:
+'`BohL-WFQ9HN`':
   codename: ''
   model_name: 荣耀 MagicBook 15 2020 R5 (16GB+512GB)
   name: 荣耀 MagicBook 15 2020
-C8817D:
+'`C8817D`':
   codename: ''
   model_name: 荣耀畅玩 4 电信版
   name: 荣耀畅玩 4
-CAM-AL00:
+'`C8860E`':
+  codename: ''
+  model_name: Honor 电信版
+  name: 华为荣耀手机
+'`C8950D`':
+  codename: ''
+  model_name: Honor+ 电信版
+  name: 华为荣耀手机
+'`CAM-AL00`':
   codename: ''
   model_name: 荣耀畅玩 5A 全网通版
   name: 荣耀畅玩 5A
-CAM-CL00:
+'`CAM-CL00`':
   codename: ''
   model_name: 荣耀畅玩 5A 电信版
   name: 荣耀畅玩 5A
-CAM-TL00:
-  codename: ''
-  model_name: 荣耀畅玩 5A 移动增强版
-  name: 荣耀畅玩 5A
-CAM-TL00H:
+'`CAM-TL00H`':
   codename: ''
   model_name: 荣耀畅玩 5A 移动渠道版
   name: 荣耀畅玩 5A
-CAM-UL00:
+'`CAM-TL00`':
+  codename: ''
+  model_name: 荣耀畅玩 5A 移动增强版
+  name: 荣耀畅玩 5A
+'`CAM-UL00`':
   codename: ''
   model_name: 荣耀畅玩 5A 双 4G 版
   name: 荣耀畅玩 5A
-CDY-AN90:
+'`CDY-AN90` `CDY-AN95`':
   codename: cindy
   model_name: 荣耀 30S 5G 全网通版
   name: 荣耀 30S
-CDY-AN95:
-  codename: cindy
-  model_name: 荣耀 30S 5G 全网通版
-  name: 荣耀 30S
-CDY-TN90:
+'`CDY-TN90` `CDY-TN95`':
   codename: cindy
   model_name: 荣耀 30S 5G 移动定制版
   name: 荣耀 30S
-CDY-TN95:
-  codename: cindy
-  model_name: 荣耀 30S 5G 移动定制版
-  name: 荣耀 30S
-CHE-TL00:
-  codename: cherryplus
-  model_name: 荣耀畅玩 4X 移动定制版 (2015)
-  name: 荣耀畅玩 4X
-CHE-TL00H:
+'`CHE-TL00H`':
   codename: cherryplus
   model_name: 荣耀畅玩 4X 移动渠道版 (2015)
   name: 荣耀畅玩 4X
-CHM-CL00:
+'`CHE-TL00`':
+  codename: cherryplus
+  model_name: 荣耀畅玩 4X 移动定制版 (2015)
+  name: 荣耀畅玩 4X
+'`CHM-CL00`':
   codename: cherrymini
   model_name: 荣耀畅玩 4C 电信版
   name: 荣耀畅玩 4C
-CHM-TL00:
-  codename: cherrymini
-  model_name: 荣耀畅玩 4C 移动定制版
-  name: 荣耀畅玩 4C
-CHM-TL00H:
+'`CHM-TL00H`':
   codename: cherrymini
   model_name: 荣耀畅玩 4C 移动渠道版
   name: 荣耀畅玩 4C
-CHM-UL00:
+'`CHM-TL00`':
+  codename: cherrymini
+  model_name: 荣耀畅玩 4C 移动定制版
+  name: 荣耀畅玩 4C
+'`CHM-UL00`':
   codename: cherrymini
   model_name: 荣耀畅玩 4C 双 4G 版
   name: 荣耀畅玩 4C
-COL-AL00:
+'`COL-AL00`':
   codename: columbia
   model_name: 荣耀 10 全网通标配版
   name: 荣耀 10
-COL-AL10:
+'`COL-AL10`':
   codename: columbia
   model_name: 荣耀 10 全网通高配版
   name: 荣耀 10
-COL-TL00:
+'`COL-TL00`':
   codename: columbia
   model_name: 荣耀 10 移动 4G+ 标配版
   name: 荣耀 10
-COL-TL10:
+'`COL-TL10`':
   codename: columbia
   model_name: 荣耀 10 移动 4G+ 高配版
   name: 荣耀 10
-COR-AL00:
+'`COR-AL00`':
   codename: cornell
   model_name: 荣耀 Play 全网通标配版
   name: 荣耀 Play
-COR-AL10:
+'`COR-AL10`':
   codename: cornell
   model_name: 荣耀 Play 全网通高配版
   name: 荣耀 Play
-COR-TL10:
+'`COR-TL10`':
   codename: cornell
   model_name: 荣耀 Play 移动 4G+ 高配版
   name: 荣耀 Play
-CUN-AL00:
+'`CUN-AL00`':
   codename: ''
   model_name: 荣耀畅玩 5 全网通版
   name: 荣耀畅玩 5
-CUN-TL00:
+'`CUN-TL00`':
   codename: ''
   model_name: 荣耀畅玩 5 移动定制版
   name: 荣耀畅玩 5
-Che1-CL10:
+'`Che1-CL10`':
   codename: cherry
   model_name: 荣耀畅玩 4X 电信版
   name: 荣耀畅玩 4X
-Che1-CL20:
+'`Che1-CL20`':
   codename: cherry
   model_name: 荣耀畅玩 4X 全网通版
   name: 荣耀畅玩 4X
-Che2-TL00:
-  codename: cherryplus
-  model_name: 荣耀畅玩 4X 移动渠道版 (2014)
-  name: 荣耀畅玩 4X
-Che2-TL00H:
-  codename: cherryplus
-  model_name: 荣耀畅玩 4X 移动渠道版 (2014)
-  name: 荣耀畅玩 4X
-Che2-TL00M:
+'`Che2-TL00M`':
   codename: cherryplus
   model_name: 荣耀畅玩 4X 移动定制版 (2014)
   name: 荣耀畅玩 4X
-Che2-UL00:
+'`Che2-TL00` `Che2-TL00H`':
+  codename: cherryplus
+  model_name: 荣耀畅玩 4X 移动渠道版 (2014)
+  name: 荣耀畅玩 4X
+'`Che2-UL00`':
   codename: cherryplus
   model_name: 荣耀畅玩 4X 联通版
   name: 荣耀畅玩 4X
-DLI-AL10:
+'`DLI-AL10`':
   codename: delhi
   model_name: 荣耀畅玩 6A 全网通版
   name: 荣耀畅玩 6A
-DLI-TL20:
+'`DLI-TL20`':
   codename: delhi
   model_name: 荣耀畅玩 6A 移动定制版
   name: 荣耀畅玩 6A
-DUA-AL00:
+'`DUA-AL00`':
   codename: dura
   model_name: 荣耀畅玩 7 全网通版
   name: 荣耀畅玩 7
-DUA-TL00:
+'`DUA-TL00`':
   codename: dura
   model_name: 荣耀畅玩 7 移动 4G+ 版
   name: 荣耀畅玩 7
-DUK-AL20:
+'`DUK-AL20`':
   codename: duke
   model_name: 荣耀 V9 全网通版
   name: 荣耀 V9
-DUK-TL30:
+'`DUK-TL30`':
   codename: duke
   model_name: 荣耀 V9 移动定制版
   name: 荣耀 V9
-EBG-AN00:
+'`EBG-AN00`':
   codename: edinburgh
   model_name: 荣耀 30 Pro 5G 全网通版
   name: 荣耀 30 Pro
-EBG-AN10:
+'`EBG-AN10`':
   codename: edinburgh
   model_name: 荣耀 30 Pro+ 5G 全网通版
   name: 荣耀 30 Pro+
-EBG-TN00:
+'`EBG-TN00`':
   codename: edinburgh
   model_name: 荣耀 30 Pro 5G 移动定制版
   name: 荣耀 30 Pro
-EDI-AL10:
+'`EDI-AL10`':
   codename: edison
   model_name: 荣耀 Note 8 全网通版
   name: 荣耀 Note 8
-EDI-DL00:
+'`EDI-DL00`':
   codename: edison
   model_name: 荣耀 Note 8 移动/联通版
   name: 荣耀 Note 8
-FRD-AL00:
+'`FRD-AL00`':
   codename: faraday
   model_name: 荣耀 8 全网通版 (3/4GB+32GB)
   name: 荣耀 8
-FRD-AL10:
+'`FRD-AL10`':
   codename: faraday
   model_name: 荣耀 8 全网通版 (4GB+64GB)
   name: 荣耀 8
-FRD-DL00:
+'`FRD-DL00`':
   codename: faraday
   model_name: 荣耀 8 移动/联通版
   name: 荣耀 8
-FRD-TL00:
+'`FRD-TL00`':
   codename: faraday
   model_name: 荣耀 8 移动版
   name: 荣耀 8
-FRD-WFD9:
+'`FRD-WFD9`':
   codename: ''
   model_name: 荣耀猎人游戏本 V700 i7
   name: 荣耀猎人游戏本 V700
-FRD-WFG9:
+'`FRD-WFG9`':
   codename: ''
   model_name: 荣耀猎人游戏本 V700 i5
   name: 荣耀猎人游戏本 V700
-G620S-UL00:
+'`G620S-UL00`':
   codename: ''
   model_name: 荣耀畅玩 4 联通版
   name: 荣耀畅玩 4
-G621-TL00:
-  codename: ''
-  model_name: 荣耀畅玩 4 移动定制版
-  name: 荣耀畅玩 4
-G621-TL00M:
+'`G621-TL00M`':
   codename: ''
   model_name: 荣耀畅玩 4 移动渠道版
   name: 荣耀畅玩 4
-G750-T00:
+'`G621-TL00`':
+  codename: ''
+  model_name: 荣耀畅玩 4 移动定制版
+  name: 荣耀畅玩 4
+'`G750-T00`':
   codename: ''
   model_name: 荣耀 3X 双 3G 版
   name: 荣耀 3X
-G750-T01:
+'`G750-T01`':
   codename: ''
   model_name: 荣耀真八核畅玩版
   name: 荣耀真八核畅玩版
-G750-T20:
+'`G750-T20`':
   codename: ''
   model_name: 荣耀 3X Pro
   name: 荣耀 3X
-G750-U00:
+'`G750-U00`':
   codename: ''
   model_name: 荣耀 3X 联通版
   name: 荣耀 3X
-GEM-703L:
-  codename: ''
-  model_name: 荣耀 X2
-  name: 荣耀 X2
-GEM-703LT:
+'`GEM-703LT`':
   codename: ''
   model_name: 荣耀 X2 移动版
   name: 荣耀 X2
-H30-C00:
+'`GEM-703L`':
+  codename: ''
+  model_name: 荣耀 X2
+  name: 荣耀 X2
+'`H30-C00`':
   codename: ''
   model_name: 荣耀 3C 电信版
   name: 荣耀 3C
-H30-L01:
-  codename: ''
-  model_name: 荣耀 3C 移动 4G 版
-  name: 荣耀 3C
-H30-L01M:
+'`H30-L01M`':
   codename: ''
   model_name: 荣耀 3C 移动 4G 定制版
   name: 荣耀 3C
-H30-L02:
+'`H30-L01`':
+  codename: ''
+  model_name: 荣耀 3C 移动 4G 版
+  name: 荣耀 3C
+'`H30-L02`':
   codename: ''
   model_name: 荣耀 3C 联通 4G 版
   name: 荣耀 3C
-H30-T00:
+'`H30-T00`':
   codename: ''
   model_name: 荣耀 3C 移动 3G 版 (4GB)
   name: 荣耀 3C
-H30-T10:
+'`H30-T10`':
   codename: ''
   model_name: 荣耀 3C 移动 3G 版 (8GB)
   name: 荣耀 3C
-H30-U10:
+'`H30-U10`':
   codename: ''
   model_name: 荣耀 3C 联通 3G 版
   name: 荣耀 3C
-H60-L01:
+'`H60-L01`':
   codename: mogolia
   model_name: 荣耀 6 移动版
   name: 荣耀 6
-H60-L02:
+'`H60-L02`':
   codename: mogolia
   model_name: 荣耀 6 联通版
   name: 荣耀 6
-H60-L03:
+'`H60-L03`':
   codename: mogolia
   model_name: 荣耀 6 移动定制版
   name: 荣耀 6
-H60-L11:
+'`H60-L11`':
   codename: mogolia
   model_name: 荣耀 6 移动高配版
   name: 荣耀 6
-H60-L12:
+'`H60-L12`':
   codename: mogolia
   model_name: 荣耀 6 联通高配版
   name: 荣耀 6
-H60-L21:
+'`H60-L21`':
   codename: mogolia
   model_name: 荣耀 6 至尊版
   name: 荣耀 6
-HBB-WAE9PHNL:
+'`HBB-WAE9PHNL`':
   codename: ''
   model_name: 荣耀 MagicBook Pro 2020 i7 (16GB+512GB)
   name: 荣耀 MagicBook Pro 2020
-HBB-WAH9PHNL:
+'`HBB-WAH9PHNL`':
   codename: ''
   model_name: 荣耀 MagicBook Pro 2020 i5 (16GB+512GB)
   name: 荣耀 MagicBook Pro 2020
-HBL-W19:
-  codename: ''
-  model_name: 荣耀 MagicBook Pro i5
-  name: 荣耀 MagicBook Pro
-HBL-W19L:
+'`HBL-W19L`':
   codename: ''
   model_name: 荣耀 MagicBook Pro 科技尝鲜版 i5
   name: 荣耀 MagicBook Pro
-HBL-W29:
+'`HBL-W19`':
   codename: ''
-  model_name: 荣耀 MagicBook Pro i7
+  model_name: 荣耀 MagicBook Pro i5
   name: 荣耀 MagicBook Pro
-HBL-W29L:
+'`HBL-W29L`':
   codename: ''
   model_name: 荣耀 MagicBook Pro 科技尝鲜版 i7
   name: 荣耀 MagicBook Pro
-HDL-AL09:
+'`HBL-W29`':
+  codename: ''
+  model_name: 荣耀 MagicBook Pro i7
+  name: 荣耀 MagicBook Pro
+'`HDL-AL09`':
   codename: handel
   model_name: 荣耀 Waterplay 8 英寸 全网通版
   name: 荣耀 Waterplay
-HDL-W09:
+'`HDL-W09`':
   codename: handel
   model_name: 荣耀 Waterplay 8 英寸 Wi-Fi 版
   name: 荣耀 Waterplay
-HDN-L09:
+'`HDN-L09`':
   codename: haydn
   model_name: 荣耀 Waterplay 10.1 英寸 LTE 版
   name: 荣耀 Waterplay
-HDN-W09:
+'`HDN-W09`':
   codename: haydn
   model_name: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
   name: 荣耀 Waterplay
-HLK-AL00:
+'`HLK-AL00` `HLK-AL00a`':
   codename: hulk
   model_name: 荣耀 9X 全网通版
   name: 荣耀 9X
-HLK-AL00a:
-  codename: hulk
-  model_name: 荣耀 9X 全网通版
-  name: 荣耀 9X
-HLK-AL10:
+'`HLK-AL10`':
   codename: hulk
   model_name: 荣耀 9X PRO 全网通版
   name: 荣耀 9X PRO
-HLK-TL00:
+'`HLK-TL00`':
   codename: hulk
   model_name: 荣耀 9X 移动 4G+ 版
   name: 荣耀 9X
-HLY-W19R:
-  codename: ''
-  model_name: 荣耀 MagicBook Pro R5
-  name: 荣耀 MagicBook Pro
-HLY-W19RL:
-  codename: ''
-  model_name: 荣耀 MagicBook Pro 科技尝鲜版 R5
-  name: 荣耀 MagicBook Pro
-HLY-W19RLP:
+'`HLY-W19RLP`':
   codename: ''
   model_name: 荣耀 MagicBook Pro 科技尝鲜版 R5 (16GB+512GB)
   name: 荣耀 MagicBook Pro
-HLY-W19RP:
+'`HLY-W19RL`':
+  codename: ''
+  model_name: 荣耀 MagicBook Pro 科技尝鲜版 R5
+  name: 荣耀 MagicBook Pro
+'`HLY-W19RP`':
   codename: ''
   model_name: 荣耀 MagicBook Pro R5 (16GB+512GB)
   name: 荣耀 MagicBook Pro
-HLY-W29R:
+'`HLY-W19R`':
   codename: ''
-  model_name: 荣耀 MagicBook Pro R7
+  model_name: 荣耀 MagicBook Pro R5
   name: 荣耀 MagicBook Pro
-HLY-W29RL:
+'`HLY-W29RL`':
   codename: ''
   model_name: 荣耀 MagicBook Pro 科技尝鲜版 R7
   name: 荣耀 MagicBook Pro
-HLYL-WFP9:
+'`HLY-W29R`':
+  codename: ''
+  model_name: 荣耀 MagicBook Pro R7
+  name: 荣耀 MagicBook Pro
+'`HLYL-WFP9`':
   codename: ''
   model_name: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
   name: 荣耀 MagicBook Pro 2020
-HLYL-WFQ9:
+'`HLYL-WFQ9`':
   codename: ''
   model_name: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
   name: 荣耀 MagicBook Pro 2020
-HRY-AL00:
-  codename: harry
-  model_name: 荣耀 10 青春版 全网通版
-  name: 荣耀 10 青春版
-HRY-AL00T:
+'`HN3-U01`':
+  codename: ''
+  model_name: 荣耀 3 outdoor
+  name: 华为荣耀手机
+'`HRY-AL00T`':
   codename: harrypro
   model_name: 荣耀 20i 全网通版
   name: 荣耀 20i
-HRY-AL00Ta:
+'`HRY-AL00Ta`':
   codename: harrypro
   model_name: 荣耀 20i 全网通版 (麒麟 710F)
   name: 荣耀 20i
-HRY-AL00a:
+'`HRY-AL00`':
+  codename: harry
+  model_name: 荣耀 10 青春版 全网通版
+  name: 荣耀 10 青春版
+'`HRY-AL00a`':
   codename: harry
   model_name: 荣耀 10 青春版 全网通版 (麒麟 710F)
   name: 荣耀 10 青春版
-HRY-TL00:
-  codename: harry
-  model_name: 荣耀 10 青春版 移动 4G+ 版
-  name: 荣耀 10 青春版
-HRY-TL00T:
+'`HRY-TL00T`':
   codename: harrypro
   model_name: 荣耀 20i 移动 4G+ 版
   name: 荣耀 20i
-Hol-T00:
+'`HRY-TL00`':
+  codename: harry
+  model_name: 荣耀 10 青春版 移动 4G+ 版
+  name: 荣耀 10 青春版
+'`Hol-T00`':
   codename: holly
   model_name: 荣耀 3C 畅玩版 移动版
   name: 荣耀 3C 畅玩版
-Hol-U10:
+'`Hol-U10`':
   codename: holly
   model_name: 荣耀 3C 畅玩版 联通版
   name: 荣耀 3C 畅玩版
-JAT-AL00:
+'`JAT-AL00`':
   codename: jakarta
   model_name: 荣耀畅玩 8A 全网通版
   name: 荣耀畅玩 8A
-JAT-TL00:
+'`JAT-TL00`':
   codename: jakarta
   model_name: 荣耀畅玩 8A 移动 4G+ 版
   name: 荣耀畅玩 8A
-JDN-AL00:
+'`JDN-AL00`':
   codename: jordan
   model_name: 荣耀平板 2 全网通版
   name: 荣耀平板 2
-JDN-AL50HN:
-  codename: jordan2
-  model_name: 荣耀平板 5 8 英寸 全网通版
-  name: 荣耀平板 5
-JDN-W09:
+'`JDN-W09`':
   codename: jordan
   model_name: 荣耀平板 2 Wi-Fi 版
   name: 荣耀平板 2
-JDN2-AL00HN:
+'`JDN2-AL00HN` `JDN-AL50HN`':
   codename: jordan2
   model_name: 荣耀平板 5 8 英寸 全网通版
   name: 荣耀平板 5
-JDN2-W09HN:
+'`JDN2-W09HN`':
   codename: jordan2
   model_name: 荣耀平板 5 8 英寸 Wi-Fi 版
   name: 荣耀平板 5
-JMM-AL00:
+'`JMM-AL00`':
   codename: jimmy
   model_name: 荣耀 V9 Play 全网通标配版
   name: 荣耀 V9 Play
-JMM-AL10:
+'`JMM-AL10`':
   codename: jimmy
   model_name: 荣耀 V9 Play 全网通高配版
   name: 荣耀 V9 Play
-JMM-TL00:
+'`JMM-TL00`':
   codename: jimmy
   model_name: 荣耀 V9 Play 移动定制标配版
   name: 荣耀 V9 Play
-JMM-TL10:
+'`JMM-TL10`':
   codename: jimmy
   model_name: 荣耀 V9 Play 移动定制高配版
   name: 荣耀 V9 Play
-JSM-TL00:
+'`JSM-TL00`':
   codename: johnson
   model_name: 荣耀 8X 移动 4G+ 版
   name: 荣耀 8X
-JSN-AL00:
+'`JSN-AL00`':
   codename: johnson
   model_name: 荣耀 8X 全网通版
   name: 荣耀 8X
-JSN-AL00a:
+'`JSN-AL00a`':
   codename: johnson
   model_name: 荣耀 8X 全网通版 (麒麟 710F)
   name: 荣耀 8X
-KIW-AL10:
+'`KIW-AL10`':
   codename: kiwi
   model_name: 荣耀畅玩 5X 全网通版
   name: 荣耀畅玩 5X
-KIW-CL00:
+'`KIW-CL00`':
   codename: kiwi
   model_name: 荣耀畅玩 5X 电信版
   name: 荣耀畅玩 5X
-KIW-TL00:
-  codename: kiwi
-  model_name: 荣耀畅玩 5X 移动定制版
-  name: 荣耀畅玩 5X
-KIW-TL00H:
+'`KIW-TL00H`':
   codename: kiwi
   model_name: 荣耀畅玩 5X 移动公开版
   name: 荣耀畅玩 5X
-KIW-UL00:
+'`KIW-TL00`':
+  codename: kiwi
+  model_name: 荣耀畅玩 5X 移动定制版
+  name: 荣耀畅玩 5X
+'`KIW-UL00`':
   codename: kiwi
   model_name: 荣耀畅玩 5X 双 4G 版
   name: 荣耀畅玩 5X
-KKG-AN00:
+'`KKG-AN00`':
   codename: kingkong
   model_name: 荣耀 X10 Max 5G 全网通版
   name: 荣耀 X10 Max
-KNT-AL10:
+'`KNT-AL10`':
   codename: knight
   model_name: 荣耀 V8 全网通版
   name: 荣耀 V8
-KNT-AL20:
+'`KNT-AL20`':
   codename: knight
   model_name: 荣耀 V8 全网通版 (麒麟 955, 2K 显示屏)
   name: 荣耀 V8
-KNT-TL10:
+'`KNT-TL10`':
   codename: knight
   model_name: 荣耀 V8 移动版
   name: 荣耀 V8
-KNT-UL10:
+'`KNT-UL10`':
   codename: knight
   model_name: 荣耀 V8 移动/联通版
   name: 荣耀 V8
-KOB-L09:
+'`KOB-L09`':
   codename: kobe
   model_name: 荣耀畅玩平板 2 8 英寸 LTE 版
   name: 荣耀畅玩平板 2
-KOB-W09:
+'`KOB-W09`':
   codename: kobe
   model_name: 荣耀畅玩平板 2 8 英寸 Wi-Fi 版
   name: 荣耀畅玩平板 2
-KPL-W00:
+'`KPL-W00`':
   codename: ''
   model_name: 荣耀 MagicBook 锐龙版
   name: 荣耀 MagicBook 锐龙版
-KPR-W19:
+'`KPR-W19`':
   codename: ''
   model_name: 荣耀 MagicBook 2019 锐龙版 R5
   name: 荣耀 MagicBook 2019 锐龙版
-KPR-W29:
+'`KPR-W29`':
   codename: ''
   model_name: 荣耀 MagicBook 2019 锐龙版 R7
   name: 荣耀 MagicBook 2019 锐龙版
-KPRC-W10L:
+'`KPRC-W10L`':
   codename: ''
   model_name: 荣耀 MagicBook 2019 科技尝鲜版 R5
   name: 荣耀 MagicBook 2019 锐龙版
-KPRC-W20L:
+'`KPRC-W20L`':
   codename: ''
   model_name: 荣耀 MagicBook 2019 科技尝鲜版 R7
   name: 荣耀 MagicBook 2019 锐龙版
-KRJ-AN00:
-  codename: ''
+'`KRJ-AN00`':
+  codename: karajan
   model_name: 荣耀平板 V6 10.4 英寸 5G 版
   name: 荣耀平板 V6
-KRJ-W09:
-  codename: ''
+'`KRJ-W09`':
+  codename: karajan
   model_name: 荣耀平板 V6 10.4 英寸 Wi-Fi 版
   name: 荣耀平板 V6
-KSA-AL00:
+'`KSA-AL00`':
   codename: katyusha
   model_name: 荣耀畅玩 8 全网通版
   name: 荣耀畅玩 8
-KSA-AL10:
+'`KSA-AL10`':
   codename: katyusha
   model_name: 荣耀 Play 3e 全网通版
   name: 荣耀 Play 3e
-KSA-TL00:
+'`KSA-TL00`':
   codename: katyusha
   model_name: 荣耀畅玩 8 移动 4G+ 版
   name: 荣耀畅玩 8
-LLD-AL00:
+'`LLD-AL00` `LLD-AL10`':
   codename: leland
   model_name: 荣耀 9 青春版 全网通版
   name: 荣耀 9 青春版
-LLD-AL10:
-  codename: leland
-  model_name: 荣耀 9 青春版 全网通版
-  name: 荣耀 9 青春版
-LLD-AL20:
+'`LLD-AL20`':
   codename: lelandp
   model_name: 荣耀 9i 全网通版 (4GB+64GB)
   name: 荣耀 9i
-LLD-AL30:
+'`LLD-AL30`':
   codename: lelandp
   model_name: 荣耀 9i 全网通版
   name: 荣耀 9i
-LLD-TL10:
+'`LLD-TL10`':
   codename: leland
   model_name: 荣耀 9 青春版 移动 4G+ 版
   name: 荣耀 9 青春版
-LND-AL30:
+'`LND-AL30`':
   codename: london
   model_name: 荣耀畅玩 7C 全网通标配版
   name: 荣耀畅玩 7C
-LND-AL40:
+'`LND-AL40`':
   codename: london
   model_name: 荣耀畅玩 7C 全网通高配版
   name: 荣耀畅玩 7C
-LND-TL30:
+'`LND-TL30`':
   codename: london
   model_name: 荣耀畅玩 7C 移动 4G+ 标配版
   name: 荣耀畅玩 7C
-LND-TL40:
+'`LND-TL40`':
   codename: london
   model_name: 荣耀畅玩 7C 移动 4G+ 高配版
   name: 荣耀畅玩 7C
-LOK-330:
+'`LOK-330`':
   codename: ''
   model_name: 荣耀智慧屏 X1 50 英寸
   name: 荣耀智慧屏 X1
-LOK-350:
-  codename: ''
-  model_name: 荣耀智慧屏 X1 55 英寸 (2GB+16GB)
-  name: 荣耀智慧屏 X1
-LOK-350C:
-  codename: ''
-  model_name: 荣耀智慧屏 X1 55 英寸 (2GB+16GB)
-  name: 荣耀智慧屏 X1
-LOK-350S:
+'`LOK-350S`':
   codename: ''
   model_name: 荣耀智慧屏 X1 55 英寸 (4GB+32GB)
   name: 荣耀智慧屏 X1
-LOK-360:
+'`LOK-350` `LOK-350C`':
   codename: ''
-  model_name: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
+  model_name: 荣耀智慧屏 X1 55 英寸 (2GB+16GB)
   name: 荣耀智慧屏 X1
-LOK-360C:
-  codename: ''
-  model_name: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
-  name: 荣耀智慧屏 X1
-LOK-360S:
+'`LOK-360S`':
   codename: ''
   model_name: 荣耀智慧屏 X1 65 英寸 (4GB+32GB)
   name: 荣耀智慧屏 X1
-LRA-AL00:
+'`LOK-360` `LOK-360C`':
+  codename: ''
+  model_name: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
+  name: 荣耀智慧屏 X1
+'`LRA-AL00`':
   codename: laura
   model_name: 荣耀 20 青春版 全网通版
   name: 荣耀 20 青春版
-LRA-TL00:
+'`LRA-TL00`':
   codename: laura
   model_name: 荣耀 20 青春版 移动 4G+ 版
   name: 荣耀 20 青春版
-MOA-AL00:
+'`MOA-AL00` `MOA-AL20`':
   codename: moana
   model_name: 荣耀畅玩 9A 全网通版
   name: 荣耀畅玩 9A
-MOA-AL20:
-  codename: moana
-  model_name: 荣耀畅玩 9A 全网通版
-  name: 荣耀畅玩 9A
-MOA-TL00:
+'`MOA-TL00`':
   codename: moana
   model_name: 荣耀畅玩 9A 移动 4G+ 版
   name: 荣耀畅玩 9A
-MXW-AN00:
+'`MXW-AN00`':
   codename: maxwell
   model_name: 荣耀 30 青春版 5G 全网通版
   name: 荣耀 30 青春版
-MXW-TN00:
+'`MXW-TN00`':
   codename: maxwell
   model_name: 荣耀 30 青春版 5G 移动定制版
   name: 荣耀 30 青春版
-MYA-AL10:
+'`MYA-AL10`':
   codename: maya
   model_name: 荣耀畅玩 6 全网通版
   name: 荣耀畅玩 6
-MYA-TL10:
+'`MYA-TL10`':
   codename: maya
   model_name: 荣耀畅玩 6 移动定制版
   name: 荣耀畅玩 6
-NEM-AL10:
+'`NEM-AL10`':
   codename: nemo
   model_name: 荣耀畅玩 5C 全网通版
   name: 荣耀畅玩 5C
-NEM-TL00:
-  codename: nemo
-  model_name: 荣耀畅玩 5C 移动定制版
-  name: 荣耀畅玩 5C
-NEM-TL00H:
+'`NEM-TL00H`':
   codename: nemo
   model_name: 荣耀畅玩 5C 移动公开版
   name: 荣耀畅玩 5C
-NEM-UL00:
+'`NEM-TL00`':
+  codename: nemo
+  model_name: 荣耀畅玩 5C 移动定制版
+  name: 荣耀畅玩 5C
+'`NEM-UL00`':
   codename: nemo
   model_name: 荣耀畅玩 5C 双 4G 版
   name: 荣耀畅玩 5C
-NTS-AL00:
+'`NTS-AL00`':
   codename: ''
   model_name: 荣耀 Magic 全网通版
   name: 荣耀 Magic
-Nbl-WAE9HN:
-  codename: nobelk
-  model_name: 荣耀 MagicBook 14 i7
-  name: 荣耀 MagicBook 14
-Nbl-WAE9HNP:
+'`Nbl-WAE9HNP`':
   codename: nobelk
   model_name: 荣耀 MagicBook 14 i7 (16GB+512GB)
   name: 荣耀 MagicBook 14
-Nbl-WAH9HN:
+'`Nbl-WAE9HN`':
   codename: nobelk
-  model_name: 荣耀 MagicBook 14 i5
+  model_name: 荣耀 MagicBook 14 i7
   name: 荣耀 MagicBook 14
-Nbl-WAH9HNP:
+'`Nbl-WAH9HNP`':
   codename: nobelk
   model_name: 荣耀 MagicBook 14 i5 (16GB+512GB)
   name: 荣耀 MagicBook 14
-Nbl-WAP9HNL:
+'`Nbl-WAH9HN`':
+  codename: nobelk
+  model_name: 荣耀 MagicBook 14 i5
+  name: 荣耀 MagicBook 14
+'`Nbl-WAP9HNL`':
   codename: nobelk
   model_name: 荣耀 MagicBook 14 科技尝鲜版 R7
   name: 荣耀 MagicBook 14
-Nbl-WAP9HNR:
+'`Nbl-WAP9HNR`':
   codename: nobelk
   model_name: 荣耀 MagicBook 14 R7
   name: 荣耀 MagicBook 14
-Nbl-WAQ9HNL:
+'`Nbl-WAQ9HNL`':
   codename: nobelk
   model_name: 荣耀 MagicBook 14 科技尝鲜版 R5
   name: 荣耀 MagicBook 14
-Nbl-WAQ9HNR:
-  codename: nobelk
-  model_name: 荣耀 MagicBook 14 & 14 SE R5
-  name: 荣耀 MagicBook 14
-Nbl-WAQ9HNRP:
+'`Nbl-WAQ9HNRP`':
   codename: nobelk
   model_name: 荣耀 MagicBook 14 R5 (16GB+512GB)
   name: 荣耀 MagicBook 14
-NblL-WFP9HN:
+'`Nbl-WAQ9HNR`':
+  codename: nobelk
+  model_name: 荣耀 MagicBook 14 / 14 SE R5
+  name: 荣耀 MagicBook 14
+'`NblL-WFP9HN`':
   codename: nobell
   model_name: 荣耀 MagicBook 14 2020 R7
   name: 荣耀 MagicBook 14 2020
-NblL-WFQ9HN:
+'`NblL-WFQ9HN`':
   codename: nobell
   model_name: 荣耀 MagicBook 14 2020 R5
   name: 荣耀 MagicBook 14 2020
-OSCA-550:
-  codename: osca
-  model_name: 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
-  name: 荣耀智慧屏 PRO
-OSCA-550A:
-  codename: osca
-  model_name: 荣耀智慧屏 55 英寸 (2GB+16GB)
-  name: 荣耀智慧屏
-OSCA-550AX:
+'`OSCA-550AX`':
   codename: osca
   model_name: 荣耀智慧屏 55 英寸 (4GB+32GB)
   name: 荣耀智慧屏
-OSCA-550X:
+'`OSCA-550A`':
+  codename: osca
+  model_name: 荣耀智慧屏 55 英寸 (2GB+16GB)
+  name: 荣耀智慧屏
+'`OSCA-550X`':
   codename: osca
   model_name: 荣耀智慧屏 PRO 55 英寸 (4GB+64GB)
   name: 荣耀智慧屏 PRO
-OXF-AN00:
+'`OSCA-550`':
+  codename: osca
+  model_name: 荣耀智慧屏 PRO 55 英寸 (2GB+32GB)
+  name: 荣耀智慧屏 PRO
+'`OXF-AN00`':
   codename: oxford
   model_name: 荣耀 V30 5G 全网通版
   name: 荣耀 V30
-OXF-AN10:
+'`OXF-AN10`':
   codename: oxford
   model_name: 荣耀 V30 PRO 5G 全网通版
   name: 荣耀 V30 PRO
-OXP-AN00:
+'`OXP-AN00`':
   codename: oxford
   model_name: 荣耀 Play 4 Pro 5G 全网通版
   name: 荣耀 Play 4 Pro
-PCT-AL10:
+'`PCT-AL10`':
   codename: princeton
   model_name: 荣耀 V20 全网通版
   name: 荣耀 V20
-PCT-TL10:
+'`PCT-TL10`':
   codename: princeton
   model_name: 荣耀 V20 移动 4G+ 版
   name: 荣耀 V20
-PE-CL00:
+'`PE-CL00`':
   codename: pine
   model_name: 荣耀 6 Plus 电信版
   name: 荣耀 6 Plus
-PE-TL00M:
+'`PE-TL00M`':
   codename: pine
   model_name: 荣耀 6 Plus 移动定制版
   name: 荣耀 6 Plus
-PE-TL10:
+'`PE-TL10`':
   codename: pine
   model_name: 荣耀 6 Plus 双 4G 高配版
   name: 荣耀 6 Plus
-PE-TL20:
+'`PE-TL20`':
   codename: pine
   model_name: 荣耀 6 Plus 移动渠道版
   name: 荣耀 6 Plus
-PE-UL00:
+'`PE-UL00`':
   codename: pine
   model_name: 荣耀 6 Plus 联通版
   name: 荣耀 6 Plus
-PLK-AL10:
+'`PLK-AL10`':
   codename: plank
   model_name: 荣耀 7 全网通高配版
   name: 荣耀 7
-PLK-CL00:
+'`PLK-CL00`':
   codename: plank
   model_name: 荣耀 7 电信版
   name: 荣耀 7
-PLK-TL00:
+'`PLK-TL00`':
   codename: plank
   model_name: 荣耀 7 移动定制版
   name: 荣耀 7
-PLK-TL01H:
+'`PLK-TL01H`':
   codename: plank
   model_name: 荣耀 7 移动渠道版
   name: 荣耀 7
-PLK-TL11H:
+'`PLK-TL11H`':
   codename: plank
   model_name: 荣耀 7 移动增强版
   name: 荣耀 7
-PLK-UL00:
+'`PLK-UL00`':
   codename: plank
   model_name: 荣耀 7 双 4G 版
   name: 荣耀 7
-PRA-AL00:
-  codename: prague
-  model_name: 荣耀 8 青春版 全网通标配版
-  name: 荣耀 8 青春版
-PRA-AL00X:
+'`PRA-AL00X`':
   codename: prague
   model_name: 荣耀 8 青春版 全网通高配/顶配版
   name: 荣耀 8 青春版
-PRA-TL10:
+'`PRA-AL00`':
+  codename: prague
+  model_name: 荣耀 8 青春版 全网通标配版
+  name: 荣耀 8 青春版
+'`PRA-TL10`':
   codename: prague
   model_name: 荣耀 8 青春版 移动定制版
   name: 荣耀 8 青春版
-RVL-AL09:
+'`RVL-AL09`':
   codename: ravel
   model_name: 荣耀 Note 10 全网通版
   name: 荣耀 Note 10
-S8-701u:
+'`S8-701u`':
   codename: ''
   model_name: 荣耀平板 3G 版
   name: 荣耀平板
-S8-701w:
+'`S8-701w`':
   codename: ''
   model_name: 荣耀平板 Wi-Fi 版
   name: 荣耀平板
-SCL-AL00:
+'`SCL-AL00`':
   codename: scale
   model_name: 荣耀 4A 全网通版
   name: 荣耀 4A
-SCL-CL00:
+'`SCL-CL00`':
   codename: scale
   model_name: 荣耀 4A 电信版
   name: 荣耀 4A
-SCL-TL00:
-  codename: scale
-  model_name: 荣耀 4A 移动定制版
-  name: 荣耀 4A
-SCL-TL00H:
+'`SCL-TL00H`':
   codename: scale
   model_name: 荣耀 4A 移动渠道版
   name: 荣耀 4A
-STF-AL00:
+'`SCL-TL00`':
+  codename: scale
+  model_name: 荣耀 4A 移动定制版
+  name: 荣耀 4A
+'`STF-AL00`':
   codename: stanford
   model_name: 荣耀 9 全网通标配版
   name: 荣耀 9
-STF-AL10:
+'`STF-AL10`':
   codename: stanford
   model_name: 荣耀 9 全网通高配/尊享版
   name: 荣耀 9
-STF-TL10:
+'`STF-TL10`':
   codename: stanford
   model_name: 荣耀 9 移动 4G+ 版
   name: 荣耀 9
-T1-701u:
+'`T1-701u`':
   codename: ''
   model_name: 荣耀畅玩平板
   name: 荣耀畅玩平板
-T1-701ua:
+'`T1-701ua`':
   codename: ''
   model_name: 荣耀畅玩平板优享版
   name: 荣耀畅玩平板
-T1-821w:
+'`T1-821w`':
   codename: ''
   model_name: 荣耀平板优享版
   name: 荣耀平板
-T1-823L:
+'`T1-823L`':
   codename: ''
   model_name: 荣耀平板 LTE 版
   name: 荣耀平板
-T1-A21w:
+'`T1-A21w`':
   codename: ''
   model_name: 荣耀畅玩平板 note
   name: 荣耀畅玩平板 note
-T1-A23L:
+'`T1-A23L`':
   codename: ''
   model_name: 荣耀畅玩平板 note LTE 版
   name: 荣耀畅玩平板 note
-TEL-AN00:
+'`T8950`':
+  codename: ''
+  model_name: Honor+ 移动版
+  name: 华为荣耀手机
+'`TEL-AN00`':
   codename: teller
   model_name: 荣耀 X10 5G 全网通版 (6GB+64GB)
   name: 荣耀 X10
-TEL-AN00a:
+'`TEL-AN00a` `TEL-AN10`':
   codename: teller
   model_name: 荣耀 X10 5G 全网通版
   name: 荣耀 X10
-TEL-AN10:
-  codename: teller
-  model_name: 荣耀 X10 5G 全网通版
-  name: 荣耀 X10
-TEL-TN00:
+'`TEL-TN00` `TEL-TN10`':
   codename: teller
   model_name: 荣耀 X10 5G 移动定制版
   name: 荣耀 X10
-TEL-TN10:
-  codename: teller
-  model_name: 荣耀 X10 5G 移动定制版
-  name: 荣耀 X10
-TNNH-AN00:
+'`TNNH-AN00`':
   codename: tianshanh
   model_name: 荣耀 Play 4 5G 全网通版
   name: 荣耀 Play 4
-TNY-AL00:
+'`TNY-AL00`':
   codename: tony
   model_name: 荣耀 Magic 2 全网通版
   name: 荣耀 Magic 2
-TNY-AL10:
+'`TNY-AL10`':
   codename: tony
   model_name: 荣耀 Magic 2 3D 感光版
   name: 荣耀 Magic 2
-TNY-TL00:
+'`TNY-TL00`':
   codename: tony
   model_name: 荣耀 Magic 2 移动 4G+ 版
   name: 荣耀 Magic 2
-VLR-W09:
+'`U8860`':
   codename: ''
-  model_name: 荣耀 MagicBook 2019 i3
-  name: 荣耀 MagicBook 2019
-VLR-W09L:
+  model_name: Honor 联通版
+  name: 华为荣耀手机
+'`U8950D`':
+  codename: ''
+  model_name: Honor+ 联通版
+  name: 华为荣耀手机
+'`U9508`':
+  codename: ''
+  model_name: 荣耀四核爱享版
+  name: 华为荣耀手机
+'`VLR-W09L`':
   codename: ''
   model_name: 荣耀 MagicBook 2019 科技尝鲜版 i3
   name: 荣耀 MagicBook 2019
-VLR-W19:
+'`VLR-W09`':
   codename: ''
-  model_name: 荣耀 MagicBook 2019 i5
+  model_name: 荣耀 MagicBook 2019 i3
   name: 荣耀 MagicBook 2019
-VLR-W19L:
-  codename: ''
-  model_name: 荣耀 MagicBook 2019 科技尝鲜版 i5
-  name: 荣耀 MagicBook 2019
-VLR-W19LP:
+'`VLR-W19LP`':
   codename: ''
   model_name: 荣耀 MagicBook 2019 科技尝鲜版 i5 (16GB+512GB)
   name: 荣耀 MagicBook 2019
-VLR-W29:
+'`VLR-W19L`':
   codename: ''
-  model_name: 荣耀 MagicBook 2019 i7
+  model_name: 荣耀 MagicBook 2019 科技尝鲜版 i5
   name: 荣耀 MagicBook 2019
-VLR-W29L:
+'`VLR-W19`':
+  codename: ''
+  model_name: 荣耀 MagicBook 2019 i5
+  name: 荣耀 MagicBook 2019
+'`VLR-W29L`':
   codename: ''
   model_name: 荣耀 MagicBook 2019 科技尝鲜版 i7
   name: 荣耀 MagicBook 2019
-VLT-W50:
+'`VLR-W29`':
+  codename: ''
+  model_name: 荣耀 MagicBook 2019 i7
+  name: 荣耀 MagicBook 2019
+'`VLT-W50`':
   codename: ''
   model_name: 荣耀 MagicBook i5
   name: 荣耀 MagicBook
-VLT-W60:
+'`VLT-W60`':
   codename: ''
   model_name: 荣耀 MagicBook i7
   name: 荣耀 MagicBook
-YAL-AL00:
+'`YAL-AL00`':
   codename: yale
   model_name: 荣耀 20 全网通版
   name: 荣耀 20
-YAL-AL10:
+'`YAL-AL10`':
   codename: yale
   model_name: 荣耀 20 PRO 全网通版
   name: 荣耀 20 PRO
-YAL-AL50:
+'`YAL-AL50`':
   codename: yalese
   model_name: 荣耀 20S 全网通版
   name: 荣耀 20S
-YAL-TL00:
+'`YAL-TL00`':
   codename: yale
   model_name: 荣耀 20 移动 4G+ 版
   name: 荣耀 20
-YAL-TL10:
+'`YAL-TL10`':
   codename: yale
   model_name: 荣耀 20 PRO 移动 4G+ 版
   name: 荣耀 20 PRO
-YAL-TL50:
+'`YAL-TL50`':
   codename: yalese
   model_name: 荣耀 20S 移动 4G+ 版
   name: 荣耀 20S

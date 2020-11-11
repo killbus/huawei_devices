@@ -1,1507 +1,1462 @@
 {
- "H60-L01": {
+ "`H60-L01`": {
   "codename": "mogolia",
   "name": "荣耀 6",
   "model_name": "荣耀 6 移动版"
  },
- "H60-L02": {
+ "`H60-L02`": {
   "codename": "mogolia",
   "name": "荣耀 6",
   "model_name": "荣耀 6 联通版"
  },
- "H60-L03": {
+ "`H60-L03`": {
   "codename": "mogolia",
   "name": "荣耀 6",
   "model_name": "荣耀 6 移动定制版"
  },
- "H60-L11": {
+ "`H60-L11`": {
   "codename": "mogolia",
   "name": "荣耀 6",
   "model_name": "荣耀 6 移动高配版"
  },
- "H60-L12": {
+ "`H60-L12`": {
   "codename": "mogolia",
   "name": "荣耀 6",
   "model_name": "荣耀 6 联通高配版"
  },
- "H60-L21": {
+ "`H60-L21`": {
   "codename": "mogolia",
   "name": "荣耀 6",
   "model_name": "荣耀 6 至尊版"
  },
- "PE-TL00M": {
+ "`PE-TL00M`": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
   "model_name": "荣耀 6 Plus 移动定制版"
  },
- "PE-TL10": {
+ "`PE-TL10`": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
   "model_name": "荣耀 6 Plus 双 4G 高配版"
  },
- "PE-TL20": {
+ "`PE-TL20`": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
   "model_name": "荣耀 6 Plus 移动渠道版"
  },
- "PE-UL00": {
+ "`PE-UL00`": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
   "model_name": "荣耀 6 Plus 联通版"
  },
- "PE-CL00": {
+ "`PE-CL00`": {
   "codename": "pine",
   "name": "荣耀 6 Plus",
   "model_name": "荣耀 6 Plus 电信版"
  },
- "PLK-AL10": {
+ "`PLK-AL10`": {
   "codename": "plank",
   "name": "荣耀 7",
   "model_name": "荣耀 7 全网通高配版"
  },
- "PLK-TL01H": {
+ "`PLK-TL01H`": {
   "codename": "plank",
   "name": "荣耀 7",
   "model_name": "荣耀 7 移动渠道版"
  },
- "PLK-TL00": {
+ "`PLK-TL00`": {
   "codename": "plank",
   "name": "荣耀 7",
   "model_name": "荣耀 7 移动定制版"
  },
- "PLK-TL11H": {
+ "`PLK-TL11H`": {
   "codename": "plank",
   "name": "荣耀 7",
   "model_name": "荣耀 7 移动增强版"
  },
- "PLK-UL00": {
+ "`PLK-UL00`": {
   "codename": "plank",
   "name": "荣耀 7",
   "model_name": "荣耀 7 双 4G 版"
  },
- "PLK-CL00": {
+ "`PLK-CL00`": {
   "codename": "plank",
   "name": "荣耀 7",
   "model_name": "荣耀 7 电信版"
  },
- "ATH-AL00": {
+ "`ATH-AL00`": {
   "codename": "",
   "name": "荣耀 7i",
   "model_name": "荣耀 7i 全网通版"
  },
- "ATH-TL00H": {
+ "`ATH-TL00H`": {
   "codename": "",
   "name": "荣耀 7i",
   "model_name": "荣耀 7i 移动渠道版"
  },
- "ATH-TL00": {
+ "`ATH-TL00`": {
   "codename": "",
   "name": "荣耀 7i",
   "model_name": "荣耀 7i 移动定制版"
  },
- "ATH-UL00": {
+ "`ATH-UL00`": {
   "codename": "",
   "name": "荣耀 7i",
   "model_name": "荣耀 7i 双 4G 版"
  },
- "ATH-CL00": {
+ "`ATH-CL00`": {
   "codename": "",
   "name": "荣耀 7i",
   "model_name": "荣耀 7i 电信版"
  },
- "FRD-AL00": {
+ "`FRD-AL00`": {
   "codename": "faraday",
   "name": "荣耀 8",
   "model_name": "荣耀 8 全网通版 (3/4GB+32GB)"
  },
- "FRD-AL10": {
+ "`FRD-AL10`": {
   "codename": "faraday",
   "name": "荣耀 8",
   "model_name": "荣耀 8 全网通版 (4GB+64GB)"
  },
- "FRD-TL00": {
+ "`FRD-TL00`": {
   "codename": "faraday",
   "name": "荣耀 8",
   "model_name": "荣耀 8 移动版"
  },
- "FRD-DL00": {
+ "`FRD-DL00`": {
   "codename": "faraday",
   "name": "荣耀 8",
   "model_name": "荣耀 8 移动/联通版"
  },
- "PRA-AL00": {
+ "`PRA-AL00`": {
   "codename": "prague",
   "name": "荣耀 8 青春版",
   "model_name": "荣耀 8 青春版 全网通标配版"
  },
- "PRA-AL00X": {
+ "`PRA-AL00X`": {
   "codename": "prague",
   "name": "荣耀 8 青春版",
   "model_name": "荣耀 8 青春版 全网通高配/顶配版"
  },
- "PRA-TL10": {
+ "`PRA-TL10`": {
   "codename": "prague",
   "name": "荣耀 8 青春版",
   "model_name": "荣耀 8 青春版 移动定制版"
  },
- "STF-AL00": {
+ "`STF-AL00`": {
   "codename": "stanford",
   "name": "荣耀 9",
   "model_name": "荣耀 9 全网通标配版"
  },
- "STF-AL10": {
+ "`STF-AL10`": {
   "codename": "stanford",
   "name": "荣耀 9",
   "model_name": "荣耀 9 全网通高配/尊享版"
  },
- "STF-TL10": {
+ "`STF-TL10`": {
   "codename": "stanford",
   "name": "荣耀 9",
   "model_name": "荣耀 9 移动 4G+ 版"
  },
- "LLD-AL00": {
+ "`LLD-AL00` `LLD-AL10`": {
   "codename": "leland",
   "name": "荣耀 9 青春版",
   "model_name": "荣耀 9 青春版 全网通版"
  },
- "LLD-AL10": {
-  "codename": "leland",
-  "name": "荣耀 9 青春版",
-  "model_name": "荣耀 9 青春版 全网通版"
- },
- "LLD-TL10": {
+ "`LLD-TL10`": {
   "codename": "leland",
   "name": "荣耀 9 青春版",
   "model_name": "荣耀 9 青春版 移动 4G+ 版"
  },
- "LLD-AL20": {
+ "`LLD-AL20`": {
   "codename": "lelandp",
   "name": "荣耀 9i",
   "model_name": "荣耀 9i 全网通版 (4GB+64GB)"
  },
- "LLD-AL30": {
+ "`LLD-AL30`": {
   "codename": "lelandp",
   "name": "荣耀 9i",
   "model_name": "荣耀 9i 全网通版"
  },
- "COL-AL00": {
+ "`COL-AL00`": {
   "codename": "columbia",
   "name": "荣耀 10",
   "model_name": "荣耀 10 全网通标配版"
  },
- "COL-AL10": {
+ "`COL-AL10`": {
   "codename": "columbia",
   "name": "荣耀 10",
   "model_name": "荣耀 10 全网通高配版"
  },
- "COL-TL00": {
+ "`COL-TL00`": {
   "codename": "columbia",
   "name": "荣耀 10",
   "model_name": "荣耀 10 移动 4G+ 标配版"
  },
- "COL-TL10": {
+ "`COL-TL10`": {
   "codename": "columbia",
   "name": "荣耀 10",
   "model_name": "荣耀 10 移动 4G+ 高配版"
  },
- "HRY-AL00": {
+ "`HRY-AL00`": {
   "codename": "harry",
   "name": "荣耀 10 青春版",
   "model_name": "荣耀 10 青春版 全网通版"
  },
- "HRY-AL00a": {
+ "`HRY-AL00a`": {
   "codename": "harry",
   "name": "荣耀 10 青春版",
   "model_name": "荣耀 10 青春版 全网通版 (麒麟 710F)"
  },
- "HRY-TL00": {
+ "`HRY-TL00`": {
   "codename": "harry",
   "name": "荣耀 10 青春版",
   "model_name": "荣耀 10 青春版 移动 4G+ 版"
  },
- "HRY-AL00T": {
+ "`HRY-AL00T`": {
   "codename": "harrypro",
   "name": "荣耀 20i",
   "model_name": "荣耀 20i 全网通版"
  },
- "HRY-AL00Ta": {
+ "`HRY-AL00Ta`": {
   "codename": "harrypro",
   "name": "荣耀 20i",
   "model_name": "荣耀 20i 全网通版 (麒麟 710F)"
  },
- "HRY-TL00T": {
+ "`HRY-TL00T`": {
   "codename": "harrypro",
   "name": "荣耀 20i",
   "model_name": "荣耀 20i 移动 4G+ 版"
  },
- "YAL-AL00": {
+ "`YAL-AL00`": {
   "codename": "yale",
   "name": "荣耀 20",
   "model_name": "荣耀 20 全网通版"
  },
- "YAL-TL00": {
+ "`YAL-TL00`": {
   "codename": "yale",
   "name": "荣耀 20",
   "model_name": "荣耀 20 移动 4G+ 版"
  },
- "YAL-AL10": {
+ "`YAL-AL10`": {
   "codename": "yale",
   "name": "荣耀 20 PRO",
   "model_name": "荣耀 20 PRO 全网通版"
  },
- "YAL-TL10": {
+ "`YAL-TL10`": {
   "codename": "yale",
   "name": "荣耀 20 PRO",
   "model_name": "荣耀 20 PRO 移动 4G+ 版"
  },
- "YAL-AL50": {
+ "`YAL-AL50`": {
   "codename": "yalese",
   "name": "荣耀 20S",
   "model_name": "荣耀 20S 全网通版"
  },
- "YAL-TL50": {
+ "`YAL-TL50`": {
   "codename": "yalese",
   "name": "荣耀 20S",
   "model_name": "荣耀 20S 移动 4G+ 版"
  },
- "LRA-AL00": {
+ "`LRA-AL00`": {
   "codename": "laura",
   "name": "荣耀 20 青春版",
   "model_name": "荣耀 20 青春版 全网通版"
  },
- "LRA-TL00": {
+ "`LRA-TL00`": {
   "codename": "laura",
   "name": "荣耀 20 青春版",
   "model_name": "荣耀 20 青春版 移动 4G+ 版"
  },
- "BMH-AN10": {
+ "`BMH-AN10` `BMH-AN20`": {
   "codename": "birmingham",
   "name": "荣耀 30",
   "model_name": "荣耀 30 5G 全网通版"
  },
- "BMH-AN20": {
-  "codename": "birmingham",
-  "name": "荣耀 30",
-  "model_name": "荣耀 30 5G 全网通版"
- },
- "BMH-TN10": {
+ "`BMH-TN10` `BMH-TN20`": {
   "codename": "birmingham",
   "name": "荣耀 30",
   "model_name": "荣耀 30 5G 移动定制版"
  },
- "BMH-TN20": {
-  "codename": "birmingham",
-  "name": "荣耀 30",
-  "model_name": "荣耀 30 5G 移动定制版"
- },
- "EBG-AN00": {
+ "`EBG-AN00`": {
   "codename": "edinburgh",
   "name": "荣耀 30 Pro",
   "model_name": "荣耀 30 Pro 5G 全网通版"
  },
- "EBG-TN00": {
+ "`EBG-TN00`": {
   "codename": "edinburgh",
   "name": "荣耀 30 Pro",
   "model_name": "荣耀 30 Pro 5G 移动定制版"
  },
- "EBG-AN10": {
+ "`EBG-AN10`": {
   "codename": "edinburgh",
   "name": "荣耀 30 Pro+",
   "model_name": "荣耀 30 Pro+ 5G 全网通版"
  },
- "CDY-AN90": {
+ "`CDY-AN90` `CDY-AN95`": {
   "codename": "cindy",
   "name": "荣耀 30S",
   "model_name": "荣耀 30S 5G 全网通版"
  },
- "CDY-AN95": {
-  "codename": "cindy",
-  "name": "荣耀 30S",
-  "model_name": "荣耀 30S 5G 全网通版"
- },
- "CDY-TN90": {
+ "`CDY-TN90` `CDY-TN95`": {
   "codename": "cindy",
   "name": "荣耀 30S",
   "model_name": "荣耀 30S 5G 移动定制版"
  },
- "CDY-TN95": {
-  "codename": "cindy",
-  "name": "荣耀 30S",
-  "model_name": "荣耀 30S 5G 移动定制版"
- },
- "MXW-AN00": {
+ "`MXW-AN00`": {
   "codename": "maxwell",
   "name": "荣耀 30 青春版",
   "model_name": "荣耀 30 青春版 5G 全网通版"
  },
- "MXW-TN00": {
+ "`MXW-TN00`": {
   "codename": "maxwell",
   "name": "荣耀 30 青春版",
   "model_name": "荣耀 30 青春版 5G 移动定制版"
  },
- "KNT-AL10": {
+ "`KNT-AL10`": {
   "codename": "knight",
   "name": "荣耀 V8",
   "model_name": "荣耀 V8 全网通版"
  },
- "KNT-AL20": {
+ "`KNT-AL20`": {
   "codename": "knight",
   "name": "荣耀 V8",
   "model_name": "荣耀 V8 全网通版 (麒麟 955, 2K 显示屏)"
  },
- "KNT-TL10": {
+ "`KNT-TL10`": {
   "codename": "knight",
   "name": "荣耀 V8",
   "model_name": "荣耀 V8 移动版"
  },
- "KNT-UL10": {
+ "`KNT-UL10`": {
   "codename": "knight",
   "name": "荣耀 V8",
   "model_name": "荣耀 V8 移动/联通版"
  },
- "DUK-AL20": {
+ "`DUK-AL20`": {
   "codename": "duke",
   "name": "荣耀 V9",
   "model_name": "荣耀 V9 全网通版"
  },
- "DUK-TL30": {
+ "`DUK-TL30`": {
   "codename": "duke",
   "name": "荣耀 V9",
   "model_name": "荣耀 V9 移动定制版"
  },
- "BKL-AL00": {
+ "`BKL-AL00`": {
   "codename": "berkeley",
   "name": "荣耀 V10",
   "model_name": "荣耀 V10 全网通标配版"
  },
- "BKL-AL10": {
+ "`BKL-AL10`": {
   "codename": "berkeley",
   "name": "荣耀 V10",
   "model_name": "荣耀 V10 全网通高配版"
  },
- "BKL-AL20": {
+ "`BKL-AL20`": {
   "codename": "berkeley",
   "name": "荣耀 V10",
   "model_name": "荣耀 V10 全网通尊享版"
  },
- "BKL-TL10": {
+ "`BKL-TL10`": {
   "codename": "berkeley",
   "name": "荣耀 V10",
   "model_name": "荣耀 V10 移动 4G+ 版"
  },
- "PCT-AL10": {
+ "`PCT-AL10`": {
   "codename": "princeton",
   "name": "荣耀 V20",
   "model_name": "荣耀 V20 全网通版"
  },
- "PCT-TL10": {
+ "`PCT-TL10`": {
   "codename": "princeton",
   "name": "荣耀 V20",
   "model_name": "荣耀 V20 移动 4G+ 版"
  },
- "OXF-AN00": {
+ "`OXF-AN00`": {
   "codename": "oxford",
   "name": "荣耀 V30",
   "model_name": "荣耀 V30 5G 全网通版"
  },
- "OXF-AN10": {
+ "`OXF-AN10`": {
   "codename": "oxford",
   "name": "荣耀 V30 PRO",
   "model_name": "荣耀 V30 PRO 5G 全网通版"
  },
- "NTS-AL00": {
+ "`NTS-AL00`": {
   "codename": "",
   "name": "荣耀 Magic",
   "model_name": "荣耀 Magic 全网通版"
  },
- "TNY-AL00": {
+ "`TNY-AL00`": {
   "codename": "tony",
   "name": "荣耀 Magic 2",
   "model_name": "荣耀 Magic 2 全网通版"
  },
- "TNY-AL10": {
+ "`TNY-AL10`": {
   "codename": "tony",
   "name": "荣耀 Magic 2",
   "model_name": "荣耀 Magic 2 3D 感光版"
  },
- "TNY-TL00": {
+ "`TNY-TL00`": {
   "codename": "tony",
   "name": "荣耀 Magic 2",
   "model_name": "荣耀 Magic 2 移动 4G+ 版"
  },
- "G750-T00": {
+ "`G750-T00`": {
   "codename": "",
   "name": "荣耀 3X",
   "model_name": "荣耀 3X 双 3G 版"
  },
- "G750-U00": {
+ "`G750-U00`": {
   "codename": "",
   "name": "荣耀 3X",
   "model_name": "荣耀 3X 联通版"
  },
- "G750-T20": {
+ "`G750-T20`": {
   "codename": "",
   "name": "荣耀 3X",
   "model_name": "荣耀 3X Pro"
  },
- "G750-T01": {
+ "`G750-T01`": {
   "codename": "",
   "name": "荣耀真八核畅玩版",
   "model_name": "荣耀真八核畅玩版"
  },
- "Che1-CL20": {
+ "`Che1-CL20`": {
   "codename": "cherry",
   "name": "荣耀畅玩 4X",
   "model_name": "荣耀畅玩 4X 全网通版"
  },
- "Che1-CL10": {
+ "`Che1-CL10`": {
   "codename": "cherry",
   "name": "荣耀畅玩 4X",
   "model_name": "荣耀畅玩 4X 电信版"
  },
- "Che2-TL00": {
+ "`Che2-TL00` `Che2-TL00H`": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
   "model_name": "荣耀畅玩 4X 移动渠道版 (2014)"
  },
- "Che2-TL00H": {
-  "codename": "cherryplus",
-  "name": "荣耀畅玩 4X",
-  "model_name": "荣耀畅玩 4X 移动渠道版 (2014)"
- },
- "Che2-TL00M": {
+ "`Che2-TL00M`": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
   "model_name": "荣耀畅玩 4X 移动定制版 (2014)"
  },
- "CHE-TL00H": {
+ "`CHE-TL00H`": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
   "model_name": "荣耀畅玩 4X 移动渠道版 (2015)"
  },
- "CHE-TL00": {
+ "`CHE-TL00`": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
   "model_name": "荣耀畅玩 4X 移动定制版 (2015)"
  },
- "Che2-UL00": {
+ "`Che2-UL00`": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
   "model_name": "荣耀畅玩 4X 联通版"
  },
- "KIW-AL10": {
+ "`KIW-AL10`": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
   "model_name": "荣耀畅玩 5X 全网通版"
  },
- "KIW-TL00H": {
+ "`KIW-TL00H`": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
   "model_name": "荣耀畅玩 5X 移动公开版"
  },
- "KIW-TL00": {
+ "`KIW-TL00`": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
   "model_name": "荣耀畅玩 5X 移动定制版"
  },
- "KIW-UL00": {
+ "`KIW-UL00`": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
   "model_name": "荣耀畅玩 5X 双 4G 版"
  },
- "KIW-CL00": {
+ "`KIW-CL00`": {
   "codename": "kiwi",
   "name": "荣耀畅玩 5X",
   "model_name": "荣耀畅玩 5X 电信版"
  },
- "BLN-AL10": {
+ "`BLN-AL10` `BLN-AL20`": {
   "codename": "berlin",
   "name": "荣耀畅玩 6X",
   "model_name": "荣耀畅玩 6X 全网通版"
  },
- "BLN-AL20": {
-  "codename": "berlin",
-  "name": "荣耀畅玩 6X",
-  "model_name": "荣耀畅玩 6X 全网通版"
- },
- "BLN-AL30": {
+ "`BLN-AL30` `BLN-AL40`": {
   "codename": "berlin",
   "name": "荣耀畅玩 6X",
   "model_name": "荣耀畅玩 6X 全网通版 (电信 800M)"
  },
- "BLN-AL40": {
-  "codename": "berlin",
-  "name": "荣耀畅玩 6X",
-  "model_name": "荣耀畅玩 6X 全网通版 (电信 800M)"
- },
- "BLN-TL00": {
+ "`BLN-TL00` `BLN-TL10`": {
   "codename": "berlin",
   "name": "荣耀畅玩 6X",
   "model_name": "荣耀畅玩 6X 移动定制版"
  },
- "BLN-TL10": {
-  "codename": "berlin",
-  "name": "荣耀畅玩 6X",
-  "model_name": "荣耀畅玩 6X 移动定制版"
- },
- "BND-AL00": {
+ "`BND-AL00`": {
   "codename": "bond",
   "name": "荣耀畅玩 7X",
   "model_name": "荣耀畅玩 7X 全网通版 (4GB+64GB)"
  },
- "BND-AL10": {
+ "`BND-AL10`": {
   "codename": "bond",
   "name": "荣耀畅玩 7X",
   "model_name": "荣耀畅玩 7X 全网通版"
  },
- "BND-TL10": {
+ "`BND-TL10`": {
   "codename": "bond",
   "name": "荣耀畅玩 7X",
   "model_name": "荣耀畅玩 7X 移动 4G+ 版"
  },
- "JSN-AL00": {
+ "`JSN-AL00`": {
   "codename": "johnson",
   "name": "荣耀 8X",
   "model_name": "荣耀 8X 全网通版"
  },
- "JSN-AL00a": {
+ "`JSN-AL00a`": {
   "codename": "johnson",
   "name": "荣耀 8X",
   "model_name": "荣耀 8X 全网通版 (麒麟 710F)"
  },
- "JSM-TL00": {
+ "`JSM-TL00`": {
   "codename": "johnson",
   "name": "荣耀 8X",
   "model_name": "荣耀 8X 移动 4G+ 版"
  },
- "ARE-AL00": {
+ "`ARE-AL00`": {
   "codename": "ares",
   "name": "荣耀 8X Max",
   "model_name": "荣耀 8X Max 全网通版 (骁龙 636)"
  },
- "ARE-AL10": {
+ "`ARE-AL10`": {
   "codename": "ares",
   "name": "荣耀 8X Max",
   "model_name": "荣耀 8X Max 全网通版 (骁龙 660)"
  },
- "ARE-TL00": {
+ "`ARE-TL00`": {
   "codename": "ares",
   "name": "荣耀 8X Max",
   "model_name": "荣耀 8X Max 移动 4G+ 版 (骁龙 636)"
  },
- "HLK-AL00": {
+ "`HLK-AL00` `HLK-AL00a`": {
   "codename": "hulk",
   "name": "荣耀 9X",
   "model_name": "荣耀 9X 全网通版"
  },
- "HLK-AL00a": {
-  "codename": "hulk",
-  "name": "荣耀 9X",
-  "model_name": "荣耀 9X 全网通版"
- },
- "HLK-TL00": {
+ "`HLK-TL00`": {
   "codename": "hulk",
   "name": "荣耀 9X",
   "model_name": "荣耀 9X 移动 4G+ 版"
  },
- "HLK-AL10": {
+ "`HLK-AL10`": {
   "codename": "hulk",
   "name": "荣耀 9X PRO",
   "model_name": "荣耀 9X PRO 全网通版"
  },
- "TEL-AN00": {
+ "`TEL-AN00`": {
   "codename": "teller",
   "name": "荣耀 X10",
   "model_name": "荣耀 X10 5G 全网通版 (6GB+64GB)"
  },
- "TEL-AN00a": {
+ "`TEL-AN00a` `TEL-AN10`": {
   "codename": "teller",
   "name": "荣耀 X10",
   "model_name": "荣耀 X10 5G 全网通版"
  },
- "TEL-AN10": {
-  "codename": "teller",
-  "name": "荣耀 X10",
-  "model_name": "荣耀 X10 5G 全网通版"
- },
- "TEL-TN00": {
+ "`TEL-TN00` `TEL-TN10`": {
   "codename": "teller",
   "name": "荣耀 X10",
   "model_name": "荣耀 X10 5G 移动定制版"
  },
- "TEL-TN10": {
-  "codename": "teller",
-  "name": "荣耀 X10",
-  "model_name": "荣耀 X10 5G 移动定制版"
- },
- "KKG-AN00": {
+ "`KKG-AN00`": {
   "codename": "kingkong",
   "name": "荣耀 X10 Max",
   "model_name": "荣耀 X10 Max 5G 全网通版"
  },
- "JMM-AL00": {
+ "`JMM-AL00`": {
   "codename": "jimmy",
   "name": "荣耀 V9 Play",
   "model_name": "荣耀 V9 Play 全网通标配版"
  },
- "JMM-AL10": {
+ "`JMM-AL10`": {
   "codename": "jimmy",
   "name": "荣耀 V9 Play",
   "model_name": "荣耀 V9 Play 全网通高配版"
  },
- "JMM-TL00": {
+ "`JMM-TL00`": {
   "codename": "jimmy",
   "name": "荣耀 V9 Play",
   "model_name": "荣耀 V9 Play 移动定制标配版"
  },
- "JMM-TL10": {
+ "`JMM-TL10`": {
   "codename": "jimmy",
   "name": "荣耀 V9 Play",
   "model_name": "荣耀 V9 Play 移动定制高配版"
  },
- "COR-AL00": {
+ "`COR-AL00`": {
   "codename": "cornell",
   "name": "荣耀 Play",
   "model_name": "荣耀 Play 全网通标配版"
  },
- "COR-AL10": {
+ "`COR-AL10`": {
   "codename": "cornell",
   "name": "荣耀 Play",
   "model_name": "荣耀 Play 全网通高配版"
  },
- "COR-TL10": {
+ "`COR-TL10`": {
   "codename": "cornell",
   "name": "荣耀 Play",
   "model_name": "荣耀 Play 移动 4G+ 高配版"
  },
- "ASK-AL00x": {
+ "`ASK-AL00x`": {
   "codename": "asoka",
   "name": "荣耀 Play 3",
   "model_name": "荣耀 Play 3 全网通版 (麒麟 710F)"
  },
- "ASK-AL20": {
+ "`ASK-AL20`": {
   "codename": "asoka",
   "name": "荣耀 Play 3",
   "model_name": "荣耀 Play 3 全网通版 (麒麟 710A)"
  },
- "ASK-TL00x": {
+ "`ASK-TL00x`": {
   "codename": "asoka",
   "name": "荣耀 Play 3",
   "model_name": "荣耀 Play 3 移动 4G+ 版 (麒麟 710F)"
  },
- "KSA-AL10": {
+ "`KSA-AL10`": {
   "codename": "katyusha",
   "name": "荣耀 Play 3e",
   "model_name": "荣耀 Play 3e 全网通版"
  },
- "AKA-AL10": {
-  "codename": "",
+ "`AKA-AL10`": {
+  "codename": "asoka",
   "name": "荣耀 Play 4T",
   "model_name": "荣耀 Play 4T 全网通版"
  },
- "AQM-AL10": {
+ "`AQM-AL10`": {
   "codename": "aquaman",
   "name": "荣耀 Play 4T Pro",
   "model_name": "荣耀 Play 4T Pro 全网通版"
  },
- "TNNH-AN00": {
+ "`TNNH-AN00`": {
   "codename": "tianshanh",
   "name": "荣耀 Play 4",
   "model_name": "荣耀 Play 4 5G 全网通版"
  },
- "OXP-AN00": {
+ "`OXP-AN00`": {
   "codename": "oxford",
   "name": "荣耀 Play 4 Pro",
   "model_name": "荣耀 Play 4 Pro 5G 全网通版"
  },
- "EDI-AL10": {
+ "`EDI-AL10`": {
   "codename": "edison",
   "name": "荣耀 Note 8",
   "model_name": "荣耀 Note 8 全网通版"
  },
- "EDI-DL00": {
+ "`EDI-DL00`": {
   "codename": "edison",
   "name": "荣耀 Note 8",
   "model_name": "荣耀 Note 8 移动/联通版"
  },
- "RVL-AL09": {
+ "`RVL-AL09`": {
   "codename": "ravel",
   "name": "荣耀 Note 10",
   "model_name": "荣耀 Note 10 全网通版"
  },
- "H30-T00": {
+ "`H30-T00`": {
   "codename": "",
   "name": "荣耀 3C",
   "model_name": "荣耀 3C 移动 3G 版 (4GB)"
  },
- "H30-T10": {
+ "`H30-T10`": {
   "codename": "",
   "name": "荣耀 3C",
   "model_name": "荣耀 3C 移动 3G 版 (8GB)"
  },
- "H30-U10": {
+ "`H30-U10`": {
   "codename": "",
   "name": "荣耀 3C",
   "model_name": "荣耀 3C 联通 3G 版"
  },
- "H30-L01": {
+ "`H30-L01`": {
   "codename": "",
   "name": "荣耀 3C",
   "model_name": "荣耀 3C 移动 4G 版"
  },
- "H30-L01M": {
+ "`H30-L01M`": {
   "codename": "",
   "name": "荣耀 3C",
   "model_name": "荣耀 3C 移动 4G 定制版"
  },
- "H30-L02": {
+ "`H30-L02`": {
   "codename": "",
   "name": "荣耀 3C",
   "model_name": "荣耀 3C 联通 4G 版"
  },
- "H30-C00": {
+ "`H30-C00`": {
   "codename": "",
   "name": "荣耀 3C",
   "model_name": "荣耀 3C 电信版"
  },
- "Hol-T00": {
+ "`Hol-T00`": {
   "codename": "holly",
   "name": "荣耀 3C 畅玩版",
   "model_name": "荣耀 3C 畅玩版 移动版"
  },
- "Hol-U10": {
+ "`Hol-U10`": {
   "codename": "holly",
   "name": "荣耀 3C 畅玩版",
   "model_name": "荣耀 3C 畅玩版 联通版"
  },
- "CHM-TL00H": {
+ "`CHM-TL00H`": {
   "codename": "cherrymini",
   "name": "荣耀畅玩 4C",
   "model_name": "荣耀畅玩 4C 移动渠道版"
  },
- "CHM-TL00": {
+ "`CHM-TL00`": {
   "codename": "cherrymini",
   "name": "荣耀畅玩 4C",
   "model_name": "荣耀畅玩 4C 移动定制版"
  },
- "CHM-UL00": {
+ "`CHM-UL00`": {
   "codename": "cherrymini",
   "name": "荣耀畅玩 4C",
   "model_name": "荣耀畅玩 4C 双 4G 版"
  },
- "CHM-CL00": {
+ "`CHM-CL00`": {
   "codename": "cherrymini",
   "name": "荣耀畅玩 4C",
   "model_name": "荣耀畅玩 4C 电信版"
  },
- "NEM-AL10": {
+ "`NEM-AL10`": {
   "codename": "nemo",
   "name": "荣耀畅玩 5C",
   "model_name": "荣耀畅玩 5C 全网通版"
  },
- "NEM-TL00H": {
+ "`NEM-TL00H`": {
   "codename": "nemo",
   "name": "荣耀畅玩 5C",
   "model_name": "荣耀畅玩 5C 移动公开版"
  },
- "NEM-TL00": {
+ "`NEM-TL00`": {
   "codename": "nemo",
   "name": "荣耀畅玩 5C",
   "model_name": "荣耀畅玩 5C 移动定制版"
  },
- "NEM-UL00": {
+ "`NEM-UL00`": {
   "codename": "nemo",
   "name": "荣耀畅玩 5C",
   "model_name": "荣耀畅玩 5C 双 4G 版"
  },
- "LND-AL30": {
+ "`LND-AL30`": {
   "codename": "london",
   "name": "荣耀畅玩 7C",
   "model_name": "荣耀畅玩 7C 全网通标配版"
  },
- "LND-AL40": {
+ "`LND-AL40`": {
   "codename": "london",
   "name": "荣耀畅玩 7C",
   "model_name": "荣耀畅玩 7C 全网通高配版"
  },
- "LND-TL30": {
+ "`LND-TL30`": {
   "codename": "london",
   "name": "荣耀畅玩 7C",
   "model_name": "荣耀畅玩 7C 移动 4G+ 标配版"
  },
- "LND-TL40": {
+ "`LND-TL40`": {
   "codename": "london",
   "name": "荣耀畅玩 7C",
   "model_name": "荣耀畅玩 7C 移动 4G+ 高配版"
  },
- "BKK-AL00": {
+ "`BKK-AL00`": {
   "codename": "bangkok",
   "name": "荣耀畅玩 8C",
   "model_name": "荣耀畅玩 8C 全网通版 (4GB+64GB)"
  },
- "BKK-AL10": {
+ "`BKK-AL10`": {
   "codename": "bangkok",
   "name": "荣耀畅玩 8C",
   "model_name": "荣耀畅玩 8C 全网通版"
  },
- "BKK-TL00": {
+ "`BKK-TL00`": {
   "codename": "bangkok",
   "name": "荣耀畅玩 8C",
   "model_name": "荣耀畅玩 8C 移动 4G+ 版"
  },
- "SCL-AL00": {
+ "`SCL-AL00`": {
   "codename": "scale",
   "name": "荣耀 4A",
   "model_name": "荣耀 4A 全网通版"
  },
- "SCL-TL00H": {
+ "`SCL-TL00H`": {
   "codename": "scale",
   "name": "荣耀 4A",
   "model_name": "荣耀 4A 移动渠道版"
  },
- "SCL-TL00": {
+ "`SCL-TL00`": {
   "codename": "scale",
   "name": "荣耀 4A",
   "model_name": "荣耀 4A 移动定制版"
  },
- "SCL-CL00": {
+ "`SCL-CL00`": {
   "codename": "scale",
   "name": "荣耀 4A",
   "model_name": "荣耀 4A 电信版"
  },
- "CAM-AL00": {
+ "`CAM-AL00`": {
   "codename": "",
   "name": "荣耀畅玩 5A",
   "model_name": "荣耀畅玩 5A 全网通版"
  },
- "CAM-TL00H": {
+ "`CAM-TL00H`": {
   "codename": "",
   "name": "荣耀畅玩 5A",
   "model_name": "荣耀畅玩 5A 移动渠道版"
  },
- "CAM-TL00": {
+ "`CAM-TL00`": {
   "codename": "",
   "name": "荣耀畅玩 5A",
   "model_name": "荣耀畅玩 5A 移动增强版"
  },
- "CAM-UL00": {
+ "`CAM-UL00`": {
   "codename": "",
   "name": "荣耀畅玩 5A",
   "model_name": "荣耀畅玩 5A 双 4G 版"
  },
- "CAM-CL00": {
+ "`CAM-CL00`": {
   "codename": "",
   "name": "荣耀畅玩 5A",
   "model_name": "荣耀畅玩 5A 电信版"
  },
- "DLI-AL10": {
+ "`DLI-AL10`": {
   "codename": "delhi",
   "name": "荣耀畅玩 6A",
   "model_name": "荣耀畅玩 6A 全网通版"
  },
- "DLI-TL20": {
+ "`DLI-TL20`": {
   "codename": "delhi",
   "name": "荣耀畅玩 6A",
   "model_name": "荣耀畅玩 6A 移动定制版"
  },
- "AUM-AL00": {
+ "`AUM-AL00`": {
   "codename": "atomu",
   "name": "荣耀畅玩 7A",
   "model_name": "荣耀畅玩 7A 全网通标配版"
  },
- "AUM-AL20": {
+ "`AUM-AL20`": {
   "codename": "atomu",
   "name": "荣耀畅玩 7A",
   "model_name": "荣耀畅玩 7A 全网通高配版"
  },
- "AUM-TL00": {
+ "`AUM-TL00`": {
   "codename": "atomu",
   "name": "荣耀畅玩 7A",
   "model_name": "荣耀畅玩 7A 移动 4G+ 标配版"
  },
- "AUM-TL20": {
+ "`AUM-TL20`": {
   "codename": "atomu",
   "name": "荣耀畅玩 7A",
   "model_name": "荣耀畅玩 7A 移动 4G+ 高配版"
  },
- "JAT-AL00": {
+ "`JAT-AL00`": {
   "codename": "jakarta",
   "name": "荣耀畅玩 8A",
   "model_name": "荣耀畅玩 8A 全网通版"
  },
- "JAT-TL00": {
+ "`JAT-TL00`": {
   "codename": "jakarta",
   "name": "荣耀畅玩 8A",
   "model_name": "荣耀畅玩 8A 移动 4G+ 版"
  },
- "MOA-AL00": {
+ "`MOA-AL00` `MOA-AL20`": {
   "codename": "moana",
   "name": "荣耀畅玩 9A",
   "model_name": "荣耀畅玩 9A 全网通版"
  },
- "MOA-AL20": {
-  "codename": "moana",
-  "name": "荣耀畅玩 9A",
-  "model_name": "荣耀畅玩 9A 全网通版"
- },
- "MOA-TL00": {
+ "`MOA-TL00`": {
   "codename": "moana",
   "name": "荣耀畅玩 9A",
   "model_name": "荣耀畅玩 9A 移动 4G+ 版"
  },
- "G621-TL00M": {
+ "`G621-TL00M`": {
   "codename": "",
   "name": "荣耀畅玩 4",
   "model_name": "荣耀畅玩 4 移动渠道版"
  },
- "G621-TL00": {
+ "`G621-TL00`": {
   "codename": "",
   "name": "荣耀畅玩 4",
   "model_name": "荣耀畅玩 4 移动定制版"
  },
- "G620S-UL00": {
+ "`G620S-UL00`": {
   "codename": "",
   "name": "荣耀畅玩 4",
   "model_name": "荣耀畅玩 4 联通版"
  },
- "C8817D": {
+ "`C8817D`": {
   "codename": "",
   "name": "荣耀畅玩 4",
   "model_name": "荣耀畅玩 4 电信版"
  },
- "CUN-AL00": {
+ "`CUN-AL00`": {
   "codename": "",
   "name": "荣耀畅玩 5",
   "model_name": "荣耀畅玩 5 全网通版"
  },
- "CUN-TL00": {
+ "`CUN-TL00`": {
   "codename": "",
   "name": "荣耀畅玩 5",
   "model_name": "荣耀畅玩 5 移动定制版"
  },
- "MYA-AL10": {
+ "`MYA-AL10`": {
   "codename": "maya",
   "name": "荣耀畅玩 6",
   "model_name": "荣耀畅玩 6 全网通版"
  },
- "MYA-TL10": {
+ "`MYA-TL10`": {
   "codename": "maya",
   "name": "荣耀畅玩 6",
   "model_name": "荣耀畅玩 6 移动定制版"
  },
- "DUA-AL00": {
+ "`DUA-AL00`": {
   "codename": "dura",
   "name": "荣耀畅玩 7",
   "model_name": "荣耀畅玩 7 全网通版"
  },
- "DUA-TL00": {
+ "`DUA-TL00`": {
   "codename": "dura",
   "name": "荣耀畅玩 7",
   "model_name": "荣耀畅玩 7 移动 4G+ 版"
  },
- "KSA-AL00": {
+ "`KSA-AL00`": {
   "codename": "katyusha",
   "name": "荣耀畅玩 8",
   "model_name": "荣耀畅玩 8 全网通版"
  },
- "KSA-TL00": {
+ "`KSA-TL00`": {
   "codename": "katyusha",
   "name": "荣耀畅玩 8",
   "model_name": "荣耀畅玩 8 移动 4G+ 版"
  },
- "S8-701w": {
+ "`S8-701w`": {
   "codename": "",
   "name": "荣耀平板",
   "model_name": "荣耀平板 Wi-Fi 版"
  },
- "S8-701u": {
+ "`S8-701u`": {
   "codename": "",
   "name": "荣耀平板",
   "model_name": "荣耀平板 3G 版"
  },
- "T1-821w": {
+ "`T1-821w`": {
   "codename": "",
   "name": "荣耀平板",
   "model_name": "荣耀平板优享版"
  },
- "T1-823L": {
+ "`T1-823L`": {
   "codename": "",
   "name": "荣耀平板",
   "model_name": "荣耀平板 LTE 版"
  },
- "JDN-W09": {
+ "`JDN-W09`": {
   "codename": "jordan",
   "name": "荣耀平板 2",
   "model_name": "荣耀平板 2 Wi-Fi 版"
  },
- "JDN-AL00": {
+ "`JDN-AL00`": {
   "codename": "jordan",
   "name": "荣耀平板 2",
   "model_name": "荣耀平板 2 全网通版"
  },
- "AGS2-W09HN": {
+ "`AGS2-W09HN`": {
   "codename": "agassi2",
   "name": "荣耀平板 5",
   "model_name": "荣耀平板 5 10.1 英寸 Wi-Fi 版"
  },
- "AGS2-AL00HN": {
+ "`AGS2-AL00HN`": {
   "codename": "agassi2",
   "name": "荣耀平板 5",
   "model_name": "荣耀平板 5 10.1 英寸 全网通版"
  },
- "JDN2-W09HN": {
+ "`JDN2-W09HN`": {
   "codename": "jordan2",
   "name": "荣耀平板 5",
   "model_name": "荣耀平板 5 8 英寸 Wi-Fi 版"
  },
- "JDN2-AL00HN": {
+ "`JDN2-AL00HN` `JDN-AL50HN`": {
   "codename": "jordan2",
   "name": "荣耀平板 5",
   "model_name": "荣耀平板 5 8 英寸 全网通版"
  },
- "JDN-AL50HN": {
-  "codename": "jordan2",
-  "name": "荣耀平板 5",
-  "model_name": "荣耀平板 5 8 英寸 全网通版"
- },
- "KRJ-W09": {
-  "codename": "",
+ "`KRJ-W09`": {
+  "codename": "karajan",
   "name": "荣耀平板 V6",
   "model_name": "荣耀平板 V6 10.4 英寸 Wi-Fi 版"
  },
- "KRJ-AN00": {
-  "codename": "",
+ "`KRJ-AN00`": {
+  "codename": "karajan",
   "name": "荣耀平板 V6",
   "model_name": "荣耀平板 V6 10.4 英寸 5G 版"
  },
- "AGS3-W09HN": {
+ "`AGS3-W09HN`": {
   "codename": "agassi3",
   "name": "荣耀平板 6",
   "model_name": "荣耀平板 6 10.1 英寸 Wi-Fi 版"
  },
- "AGS3-AL09HN": {
+ "`AGS3-AL09HN`": {
   "codename": "agassi3",
   "name": "荣耀平板 6",
   "model_name": "荣耀平板 6 10.1 英寸 全网通版"
  },
- "AGR-W09HN": {
-  "codename": "",
+ "`AGR-W09HN`": {
+  "codename": "agassir",
   "name": "荣耀平板 X6",
   "model_name": "荣耀平板 X6 9.7 英寸 Wi-Fi 版"
  },
- "AGR-AL09HN": {
-  "codename": "",
+ "`AGR-AL09HN`": {
+  "codename": "agassir",
   "name": "荣耀平板 X6",
   "model_name": "荣耀平板 X6 9.7 英寸 全网通版"
  },
- "HDN-W09": {
+ "`HDN-W09`": {
   "codename": "haydn",
   "name": "荣耀 Waterplay",
   "model_name": "荣耀 Waterplay 10.1 英寸 Wi-Fi 版"
  },
- "HDN-L09": {
+ "`HDN-L09`": {
   "codename": "haydn",
   "name": "荣耀 Waterplay",
   "model_name": "荣耀 Waterplay 10.1 英寸 LTE 版"
  },
- "HDL-W09": {
+ "`HDL-W09`": {
   "codename": "handel",
   "name": "荣耀 Waterplay",
   "model_name": "荣耀 Waterplay 8 英寸 Wi-Fi 版"
  },
- "HDL-AL09": {
+ "`HDL-AL09`": {
   "codename": "handel",
   "name": "荣耀 Waterplay",
   "model_name": "荣耀 Waterplay 8 英寸 全网通版"
  },
- "7D-501u": {
+ "`7D-501u`": {
   "codename": "",
   "name": "荣耀 X1",
   "model_name": "荣耀 X1 3G 版"
  },
- "7D-503L": {
+ "`7D-503L`": {
   "codename": "",
   "name": "荣耀 X1",
   "model_name": "荣耀 X1 4G 版"
  },
- "7D-503LT": {
+ "`7D-503LT`": {
   "codename": "",
   "name": "荣耀 X1",
   "model_name": "荣耀 X1 移动 4G 版"
  },
- "GEM-703L": {
+ "`GEM-703L`": {
   "codename": "",
   "name": "荣耀 X2",
   "model_name": "荣耀 X2"
  },
- "GEM-703LT": {
+ "`GEM-703LT`": {
   "codename": "",
   "name": "荣耀 X2",
   "model_name": "荣耀 X2 移动版"
  },
- "T1-701u": {
+ "`T1-701u`": {
   "codename": "",
   "name": "荣耀畅玩平板",
   "model_name": "荣耀畅玩平板"
  },
- "T1-701ua": {
+ "`T1-701ua`": {
   "codename": "",
   "name": "荣耀畅玩平板",
   "model_name": "荣耀畅玩平板优享版"
  },
- "BGO-DL09": {
+ "`BGO-DL09`": {
   "codename": "baggio",
   "name": "荣耀畅玩平板",
   "model_name": "荣耀畅玩平板 LTE 版"
  },
- "T1-A21w": {
+ "`T1-A21w`": {
   "codename": "",
   "name": "荣耀畅玩平板 note",
   "model_name": "荣耀畅玩平板 note"
  },
- "T1-A23L": {
+ "`T1-A23L`": {
   "codename": "",
   "name": "荣耀畅玩平板 note",
   "model_name": "荣耀畅玩平板 note LTE 版"
  },
- "KOB-W09": {
+ "`KOB-W09`": {
   "codename": "kobe",
   "name": "荣耀畅玩平板 2",
   "model_name": "荣耀畅玩平板 2 8 英寸 Wi-Fi 版"
  },
- "KOB-L09": {
+ "`KOB-L09`": {
   "codename": "kobe",
   "name": "荣耀畅玩平板 2",
   "model_name": "荣耀畅玩平板 2 8 英寸 LTE 版"
  },
- "AGS-W09": {
+ "`AGS-W09`": {
   "codename": "agassi",
   "name": "荣耀畅玩平板 2",
   "model_name": "荣耀畅玩平板 2 9.6 英寸 Wi-Fi 版"
  },
- "AGS-L09": {
+ "`AGS-L09`": {
   "codename": "agassi",
   "name": "荣耀畅玩平板 2",
   "model_name": "荣耀畅玩平板 2 9.6 英寸 LTE 版"
  },
- "BG2-W09": {
+ "`BG2-W09`": {
   "codename": "baggio2",
   "name": "荣耀畅玩平板 2",
   "model_name": "荣耀畅玩平板 2 7 英寸 Wi-Fi 版"
  },
- "VLT-W50": {
+ "`VLT-W50`": {
   "codename": "",
   "name": "荣耀 MagicBook",
   "model_name": "荣耀 MagicBook i5"
  },
- "VLT-W60": {
+ "`VLT-W60`": {
   "codename": "",
   "name": "荣耀 MagicBook",
   "model_name": "荣耀 MagicBook i7"
  },
- "KPL-W00": {
+ "`KPL-W00`": {
   "codename": "",
   "name": "荣耀 MagicBook 锐龙版",
   "model_name": "荣耀 MagicBook 锐龙版"
  },
- "VLR-W09": {
+ "`VLR-W09`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
   "model_name": "荣耀 MagicBook 2019 i3"
  },
- "VLR-W19": {
+ "`VLR-W19`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
   "model_name": "荣耀 MagicBook 2019 i5"
  },
- "VLR-W29": {
+ "`VLR-W29`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
   "model_name": "荣耀 MagicBook 2019 i7"
  },
- "VLR-W09L": {
+ "`VLR-W09L`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
   "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i3"
  },
- "VLR-W19L": {
+ "`VLR-W19L`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
   "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i5"
  },
- "VLR-W19LP": {
+ "`VLR-W19LP`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
   "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i5 (16GB+512GB)"
  },
- "VLR-W29L": {
+ "`VLR-W29L`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019",
   "model_name": "荣耀 MagicBook 2019 科技尝鲜版 i7"
  },
- "KPR-W19": {
+ "`KPR-W19`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019 锐龙版",
   "model_name": "荣耀 MagicBook 2019 锐龙版 R5"
  },
- "KPR-W29": {
+ "`KPR-W29`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019 锐龙版",
   "model_name": "荣耀 MagicBook 2019 锐龙版 R7"
  },
- "KPRC-W10L": {
+ "`KPRC-W10L`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019 锐龙版",
   "model_name": "荣耀 MagicBook 2019 科技尝鲜版 R5"
  },
- "KPRC-W20L": {
+ "`KPRC-W20L`": {
   "codename": "",
   "name": "荣耀 MagicBook 2019 锐龙版",
   "model_name": "荣耀 MagicBook 2019 科技尝鲜版 R7"
  },
- "Nbl-WAQ9HNR": {
+ "`Nbl-WAQ9HNR`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 & 14 SE R5"
+  "model_name": "荣耀 MagicBook 14 / 14 SE R5"
  },
- "Nbl-WAQ9HNRP": {
+ "`Nbl-WAQ9HNRP`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 R5 (16GB+512GB)"
  },
- "Nbl-WAP9HNR": {
+ "`Nbl-WAP9HNR`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 R7"
  },
- "Nbl-WAQ9HNL": {
+ "`Nbl-WAQ9HNL`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 科技尝鲜版 R5"
  },
- "Nbl-WAP9HNL": {
+ "`Nbl-WAP9HNL`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 科技尝鲜版 R7"
  },
- "Nbl-WAH9HN": {
+ "`Nbl-WAH9HN`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 i5"
  },
- "Nbl-WAH9HNP": {
+ "`Nbl-WAH9HNP`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 i5 (16GB+512GB)"
  },
- "Nbl-WAE9HN": {
+ "`Nbl-WAE9HN`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 i7"
  },
- "Nbl-WAE9HNP": {
+ "`Nbl-WAE9HNP`": {
   "codename": "nobelk",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
  },
- "NblL-WFQ9HN": {
+ "`NblL-WFQ9HN`": {
   "codename": "nobell",
   "name": "荣耀 MagicBook 14 2020",
   "model_name": "荣耀 MagicBook 14 2020 R5"
  },
- "NblL-WFP9HN": {
+ "`NblL-WFP9HN`": {
   "codename": "nobell",
   "name": "荣耀 MagicBook 14 2020",
   "model_name": "荣耀 MagicBook 14 2020 R7"
  },
- "Boh-WAQ9HNR": {
+ "`Boh-WAQ9HNR`": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 R5"
  },
- "Boh-WAQ9HNRP": {
+ "`Boh-WAQ9HNRP`": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 R5 (16GB+512GB)"
  },
- "Boh-WAP9HNR": {
+ "`Boh-WAP9HNR`": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 R7"
  },
- "Boh-WAQ9HNL": {
+ "`Boh-WAQ9HNL`": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 科技尝鲜版 R5"
  },
- "Boh-WAP9HNL": {
+ "`Boh-WAP9HNL`": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 科技尝鲜版 R7"
  },
- "Boh-WAH9HN": {
+ "`Boh-WAH9HN`": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 i5"
  },
- "Boh-WAH9HNP": {
+ "`Boh-WAH9HNP`": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 i5 (16GB+512GB)"
  },
- "Boh-WAE9HN": {
+ "`Boh-WAE9HN`": {
   "codename": "",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 i7"
  },
- "BohL-WDQ9HN": {
+ "`BohL-WDQ9HN`": {
   "codename": "",
   "name": "荣耀 MagicBook 15 2020",
   "model_name": "荣耀 MagicBook 15 2020 R5 (8GB+256GB)"
  },
- "BohL-WFQ9HN": {
+ "`BohL-WFQ9HN`": {
   "codename": "",
   "name": "荣耀 MagicBook 15 2020",
   "model_name": "荣耀 MagicBook 15 2020 R5 (16GB+512GB)"
  },
- "BohL-WFP9HN": {
+ "`BohL-WFP9HN`": {
   "codename": "",
   "name": "荣耀 MagicBook 15 2020",
   "model_name": "荣耀 MagicBook 15 2020 R7"
  },
- "HBL-W19": {
+ "`HBL-W19`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro i5"
  },
- "HBL-W29": {
+ "`HBL-W29`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro i7"
  },
- "HBL-W19L": {
+ "`HBL-W19L`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro 科技尝鲜版 i5"
  },
- "HBL-W29L": {
+ "`HBL-W29L`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro 科技尝鲜版 i7"
  },
- "HLY-W19R": {
+ "`HLY-W19R`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro R5"
  },
- "HLY-W19RP": {
+ "`HLY-W19RP`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro R5 (16GB+512GB)"
  },
- "HLY-W29R": {
+ "`HLY-W29R`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro R7"
  },
- "HLY-W19RL": {
+ "`HLY-W19RL`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R5"
  },
- "HLY-W19RLP": {
+ "`HLY-W19RLP`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R5 (16GB+512GB)"
  },
- "HLY-W29RL": {
+ "`HLY-W29RL`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro",
   "model_name": "荣耀 MagicBook Pro 科技尝鲜版 R7"
  },
- "HBB-WAH9PHNL": {
+ "`HBB-WAH9PHNL`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro 2020",
   "model_name": "荣耀 MagicBook Pro 2020 i5 (16GB+512GB)"
  },
- "HBB-WAE9PHNL": {
+ "`HBB-WAE9PHNL`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro 2020",
   "model_name": "荣耀 MagicBook Pro 2020 i7 (16GB+512GB)"
  },
- "HLYL-WFQ9": {
+ "`HLYL-WFQ9`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro 2020",
   "model_name": "荣耀 MagicBook Pro 2020 R5 (16GB+512GB)"
  },
- "HLYL-WFP9": {
+ "`HLYL-WFP9`": {
   "codename": "",
   "name": "荣耀 MagicBook Pro 2020",
   "model_name": "荣耀 MagicBook Pro 2020 R7 (16GB+512GB)"
  },
- "FRD-WFG9": {
+ "`FRD-WFG9`": {
   "codename": "",
   "name": "荣耀猎人游戏本 V700",
   "model_name": "荣耀猎人游戏本 V700 i5"
  },
- "FRD-WFD9": {
+ "`FRD-WFD9`": {
   "codename": "",
   "name": "荣耀猎人游戏本 V700",
   "model_name": "荣耀猎人游戏本 V700 i7"
  },
- "OSCA-550A": {
+ "`OSCA-550A`": {
   "codename": "osca",
   "name": "荣耀智慧屏",
   "model_name": "荣耀智慧屏 55 英寸 (2GB+16GB)"
  },
- "OSCA-550AX": {
+ "`OSCA-550AX`": {
   "codename": "osca",
   "name": "荣耀智慧屏",
   "model_name": "荣耀智慧屏 55 英寸 (4GB+32GB)"
  },
- "OSCA-550": {
+ "`OSCA-550`": {
   "codename": "osca",
   "name": "荣耀智慧屏 PRO",
   "model_name": "荣耀智慧屏 PRO 55 英寸 (2GB+32GB)"
  },
- "OSCA-550X": {
+ "`OSCA-550X`": {
   "codename": "osca",
   "name": "荣耀智慧屏 PRO",
   "model_name": "荣耀智慧屏 PRO 55 英寸 (4GB+64GB)"
  },
- "LOK-330": {
+ "`LOK-330`": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 50 英寸"
  },
- "LOK-350": {
+ "`LOK-350` `LOK-350C`": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 55 英寸 (2GB+16GB)"
  },
- "LOK-350C": {
-  "codename": "",
-  "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 55 英寸 (2GB+16GB)"
- },
- "LOK-350S": {
+ "`LOK-350S`": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 55 英寸 (4GB+32GB)"
  },
- "LOK-360": {
+ "`LOK-360` `LOK-360C`": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 65 英寸 (2GB+16GB)"
  },
- "LOK-360C": {
-  "codename": "",
-  "name": "荣耀智慧屏 X1",
-  "model_name": "荣耀智慧屏 X1 65 英寸 (2GB+16GB)"
- },
- "LOK-360S": {
+ "`LOK-360S`": {
   "codename": "",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 65 英寸 (4GB+32GB)"
+ },
+ "`U8860`": {
+  "codename": "",
+  "name": "华为荣耀手机",
+  "model_name": "Honor 联通版"
+ },
+ "`C8860E`": {
+  "codename": "",
+  "name": "华为荣耀手机",
+  "model_name": "Honor 电信版"
+ },
+ "`T8950`": {
+  "codename": "",
+  "name": "华为荣耀手机",
+  "model_name": "Honor+ 移动版"
+ },
+ "`U8950D`": {
+  "codename": "",
+  "name": "华为荣耀手机",
+  "model_name": "Honor+ 联通版"
+ },
+ "`C8950D`": {
+  "codename": "",
+  "name": "华为荣耀手机",
+  "model_name": "Honor+ 电信版"
+ },
+ "`U9508`": {
+  "codename": "",
+  "name": "华为荣耀手机",
+  "model_name": "荣耀四核爱享版"
+ },
+ "`HN3-U01`": {
+  "codename": "",
+  "name": "华为荣耀手机",
+  "model_name": "荣耀 3 outdoor"
  }
 }
