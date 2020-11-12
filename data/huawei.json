@@ -359,7 +359,12 @@
   "name": "HUAWEI P8 青春版",
   "model_name": "HUAWEI P8 青春版 电信版"
  },
- "DAV-703L` `DAV-713L": {
+ "DAV-703L": {
+  "codename": "",
+  "name": "HUAWEI P8 Max",
+  "model_name": "HUAWEI P8 Max"
+ },
+ "DAV-713L": {
   "codename": "",
   "name": "HUAWEI P8 Max",
   "model_name": "HUAWEI P8 Max"
@@ -679,32 +684,62 @@
   "name": "HUAWEI nova 6 SE",
   "model_name": "HUAWEI nova 6 SE 移动全网通版"
  },
- "JEF-AN00` `JEF-AN20": {
+ "JEF-AN00": {
   "codename": "jennifer",
   "name": "HUAWEI nova 7",
   "model_name": "HUAWEI nova 7 5G 全网通版"
  },
- "JEF-TN00` `JEF-TN20": {
+ "JEF-AN20": {
+  "codename": "jennifer",
+  "name": "HUAWEI nova 7",
+  "model_name": "HUAWEI nova 7 5G 全网通版"
+ },
+ "JEF-TN00": {
   "codename": "jennifer",
   "name": "HUAWEI nova 7",
   "model_name": "HUAWEI nova 7 5G 移动全网通版"
  },
- "JER-AN10` `JER-AN20": {
+ "JEF-TN20": {
+  "codename": "jennifer",
+  "name": "HUAWEI nova 7",
+  "model_name": "HUAWEI nova 7 5G 移动全网通版"
+ },
+ "JER-AN10": {
   "codename": "jenniferR",
   "name": "HUAWEI nova 7 Pro",
   "model_name": "HUAWEI nova 7 Pro 5G 全网通版"
  },
- "JER-TN10` `JER-TN20": {
+ "JER-AN20": {
+  "codename": "jenniferR",
+  "name": "HUAWEI nova 7 Pro",
+  "model_name": "HUAWEI nova 7 Pro 5G 全网通版"
+ },
+ "JER-TN10": {
   "codename": "jenniferR",
   "name": "HUAWEI nova 7 Pro",
   "model_name": "HUAWEI nova 7 Pro 5G 移动全网通版"
  },
- "CDY-AN00` `CDY-AN20": {
+ "JER-TN20": {
+  "codename": "jenniferR",
+  "name": "HUAWEI nova 7 Pro",
+  "model_name": "HUAWEI nova 7 Pro 5G 移动全网通版"
+ },
+ "CDY-AN00": {
   "codename": "cindy",
   "name": "HUAWEI nova 7 SE",
   "model_name": "HUAWEI nova 7 SE 5G 全网通版"
  },
- "CDY-TN00` `CDY-TN20": {
+ "CDY-AN20": {
+  "codename": "cindy",
+  "name": "HUAWEI nova 7 SE",
+  "model_name": "HUAWEI nova 7 SE 5G 全网通版"
+ },
+ "CDY-TN00": {
+  "codename": "cindy",
+  "name": "HUAWEI nova 7 SE",
+  "model_name": "HUAWEI nova 7 SE 5G 移动全网通版"
+ },
+ "CDY-TN20": {
   "codename": "cindy",
   "name": "HUAWEI nova 7 SE",
   "model_name": "HUAWEI nova 7 SE 5G 移动全网通版"
@@ -844,7 +879,12 @@
   "name": "HUAWEI 麦芒 7",
   "model_name": "HUAWEI 麦芒 7 全网通版"
  },
- "POT-AL00` `POT-AL10": {
+ "POT-AL00": {
+  "codename": "potterpro",
+  "name": "HUAWEI 麦芒 8",
+  "model_name": "HUAWEI 麦芒 8 全网通版"
+ },
+ "POT-AL10": {
   "codename": "potterpro",
   "name": "HUAWEI 麦芒 8",
   "model_name": "HUAWEI 麦芒 8 全网通版"
@@ -864,7 +904,12 @@
   "name": "华为畅享 5",
   "model_name": "华为畅享 5 移动 4G 版"
  },
- "TIT-CL00` `TIT-CL10": {
+ "TIT-CL00": {
+  "codename": "",
+  "name": "华为畅享 5",
+  "model_name": "华为畅享 5 电信 4G 版"
+ },
+ "TIT-CL10": {
   "codename": "",
   "name": "华为畅享 5",
   "model_name": "华为畅享 5 电信 4G 版"
@@ -884,12 +929,22 @@
   "name": "华为畅享 5S",
   "model_name": "华为畅享 5S 电信 4G 版"
  },
- "NCE-AL00` `NCE-AL10": {
+ "NCE-AL00": {
   "codename": "",
   "name": "华为畅享 6",
   "model_name": "华为畅享 6 全网通版"
  },
- "NCE-TL00` `NCE-TL10": {
+ "NCE-AL10": {
+  "codename": "",
+  "name": "华为畅享 6",
+  "model_name": "华为畅享 6 全网通版"
+ },
+ "NCE-TL00": {
+  "codename": "",
+  "name": "华为畅享 6",
+  "model_name": "华为畅享 6 移动 4G+ 版"
+ },
+ "NCE-TL10": {
   "codename": "",
   "name": "华为畅享 6",
   "model_name": "华为畅享 6 移动 4G+ 版"
@@ -904,12 +959,22 @@
   "name": "华为畅享 6S",
   "model_name": "华为畅享 6S 移动 4G+ 版"
  },
- "TRT-AL00` `TRT-AL00A": {
+ "TRT-AL00": {
   "codename": "toronto",
   "name": "华为畅享 7 Plus",
   "model_name": "华为畅享 7 Plus 全网通版"
  },
- "TRT-TL10` `TRT-TL10A": {
+ "TRT-AL00A": {
+  "codename": "toronto",
+  "name": "华为畅享 7 Plus",
+  "model_name": "华为畅享 7 Plus 全网通版"
+ },
+ "TRT-TL10": {
+  "codename": "toronto",
+  "name": "华为畅享 7 Plus",
+  "model_name": "华为畅享 7 Plus 移动 4G+ 版"
+ },
+ "TRT-TL10A": {
   "codename": "toronto",
   "name": "华为畅享 7 Plus",
   "model_name": "华为畅享 7 Plus 移动 4G+ 版"
@@ -944,12 +1009,27 @@
   "name": "华为畅享 7S",
   "model_name": "华为畅享 7S 移动 4G+ 高配版"
  },
- "FLA-AL00` `FLA-AL10` `FLA-AL20": {
+ "FLA-AL00": {
   "codename": "florida",
   "name": "华为畅享 8 Plus",
   "model_name": "华为畅享 8 Plus 全网通版"
  },
- "FLA-TL00` `FLA-TL10": {
+ "FLA-AL10": {
+  "codename": "florida",
+  "name": "华为畅享 8 Plus",
+  "model_name": "华为畅享 8 Plus 全网通版"
+ },
+ "FLA-AL20": {
+  "codename": "florida",
+  "name": "华为畅享 8 Plus",
+  "model_name": "华为畅享 8 Plus 全网通版"
+ },
+ "FLA-TL00": {
+  "codename": "florida",
+  "name": "华为畅享 8 Plus",
+  "model_name": "华为畅享 8 Plus 移动 4G+ 版"
+ },
+ "FLA-TL10": {
   "codename": "florida",
   "name": "华为畅享 8 Plus",
   "model_name": "华为畅享 8 Plus 移动 4G+ 版"
@@ -1034,7 +1114,12 @@
   "name": "华为畅享 Max",
   "model_name": "华为畅享 Max 移动 4G+ 版"
  },
- "DUB-AL00` `DUB-AL20": {
+ "DUB-AL00": {
+  "codename": "dubai",
+  "name": "华为畅享 9",
+  "model_name": "华为畅享 9 全网通标配/高配版"
+ },
+ "DUB-AL20": {
   "codename": "dubai",
   "name": "华为畅享 9",
   "model_name": "华为畅享 9 全网通标配/高配版"
@@ -1084,7 +1169,12 @@
   "name": "华为畅享 10 Plus",
   "model_name": "华为畅享 10 Plus 移动 4G+ 版"
  },
- "ART-AL00x` `ART-AL00m": {
+ "ART-AL00x": {
+  "codename": "arthur",
+  "name": "华为畅享 10",
+  "model_name": "华为畅享 10 全网通版"
+ },
+ "ART-AL00m": {
   "codename": "arthur",
   "name": "华为畅享 10",
   "model_name": "华为畅享 10 全网通版"
@@ -1104,7 +1194,12 @@
   "name": "华为畅享 10S",
   "model_name": "华为畅享 10S 移动 4G+ 版"
  },
- "MED-AL00` `MED-AL20": {
+ "MED-AL00": {
+  "codename": "merida",
+  "name": "华为畅享 10e",
+  "model_name": "华为畅享 10e 全网通版"
+ },
+ "MED-AL20": {
   "codename": "merida",
   "name": "华为畅享 10e",
   "model_name": "华为畅享 10e 全网通版"
@@ -1279,7 +1374,12 @@
   "name": "华为平板 M5 青春版",
   "model_name": "华为平板 M5 青春版 8 英寸 Wi-Fi 版"
  },
- "JDN2-AL00` `JDN2-AL50": {
+ "JDN2-AL00": {
+  "codename": "jordan2",
+  "name": "华为平板 M5 青春版",
+  "model_name": "华为平板 M5 青春版 8 英寸 全网通版"
+ },
+ "JDN2-AL50": {
   "codename": "jordan2",
   "name": "华为平板 M5 青春版",
   "model_name": "华为平板 M5 青春版 8 英寸 全网通版"
@@ -1314,7 +1414,12 @@
   "name": "华为平板 M6",
   "model_name": "华为平板 M6 10.8 英寸 全网通版"
  },
- "MRX-W09` `MRX-W29": {
+ "MRX-W09": {
+  "codename": "marx",
+  "name": "HUAWEI MatePad Pro",
+  "model_name": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)"
+ },
+ "MRX-W29": {
   "codename": "marx",
   "name": "HUAWEI MatePad Pro",
   "model_name": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)"
@@ -1324,7 +1429,12 @@
   "name": "HUAWEI MatePad Pro",
   "model_name": "HUAWEI MatePad Pro 10.8 英寸 全网通版 (6GB+128GB/8GB+256GB)"
  },
- "MRX-W19` `MRX-W39": {
+ "MRX-W19": {
+  "codename": "marx",
+  "name": "HUAWEI MatePad Pro",
+  "model_name": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)"
+ },
+ "MRX-W39": {
   "codename": "marx",
   "name": "HUAWEI MatePad Pro",
   "model_name": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)"
@@ -1419,7 +1529,12 @@
   "name": "华为平板 C3",
   "model_name": "华为平板 C3 8 英寸 2020 款 Wi-Fi 版"
  },
- "BZD-AL00` `BZD-AL10": {
+ "BZD-AL00": {
+  "codename": "",
+  "name": "华为平板 C3",
+  "model_name": "华为平板 C3 8 英寸 2020 款 全网通版"
+ },
+ "BZD-AL10": {
   "codename": "",
   "name": "华为平板 C3",
   "model_name": "华为平板 C3 8 英寸 2020 款 全网通版"

@@ -146,23 +146,43 @@ BKL-TL10:
   codename: berkeley
   model_name: 荣耀 V10 移动 4G+ 版
   name: 荣耀 V10
-BLN-AL10` `BLN-AL20:
+BLN-AL10:
   codename: berlin
   model_name: 荣耀畅玩 6X 全网通版
   name: 荣耀畅玩 6X
-BLN-AL30` `BLN-AL40:
+BLN-AL20:
+  codename: berlin
+  model_name: 荣耀畅玩 6X 全网通版
+  name: 荣耀畅玩 6X
+BLN-AL30:
   codename: berlin
   model_name: 荣耀畅玩 6X 全网通版 (电信 800M)
   name: 荣耀畅玩 6X
-BLN-TL00` `BLN-TL10:
+BLN-AL40:
+  codename: berlin
+  model_name: 荣耀畅玩 6X 全网通版 (电信 800M)
+  name: 荣耀畅玩 6X
+BLN-TL00:
   codename: berlin
   model_name: 荣耀畅玩 6X 移动定制版
   name: 荣耀畅玩 6X
-BMH-AN10` `BMH-AN20:
+BLN-TL10:
+  codename: berlin
+  model_name: 荣耀畅玩 6X 移动定制版
+  name: 荣耀畅玩 6X
+BMH-AN10:
   codename: birmingham
   model_name: 荣耀 30 5G 全网通版
   name: 荣耀 30
-BMH-TN10` `BMH-TN20:
+BMH-AN20:
+  codename: birmingham
+  model_name: 荣耀 30 5G 全网通版
+  name: 荣耀 30
+BMH-TN10:
+  codename: birmingham
+  model_name: 荣耀 30 5G 移动定制版
+  name: 荣耀 30
+BMH-TN20:
   codename: birmingham
   model_name: 荣耀 30 5G 移动定制版
   name: 荣耀 30
@@ -254,11 +274,19 @@ CAM-UL00:
   codename: ''
   model_name: 荣耀畅玩 5A 双 4G 版
   name: 荣耀畅玩 5A
-CDY-AN90` `CDY-AN95:
+CDY-AN90:
   codename: cindy
   model_name: 荣耀 30S 5G 全网通版
   name: 荣耀 30S
-CDY-TN90` `CDY-TN95:
+CDY-AN95:
+  codename: cindy
+  model_name: 荣耀 30S 5G 全网通版
+  name: 荣耀 30S
+CDY-TN90:
+  codename: cindy
+  model_name: 荣耀 30S 5G 移动定制版
+  name: 荣耀 30S
+CDY-TN95:
   codename: cindy
   model_name: 荣耀 30S 5G 移动定制版
   name: 荣耀 30S
@@ -330,13 +358,17 @@ Che1-CL20:
   codename: cherry
   model_name: 荣耀畅玩 4X 全网通版
   name: 荣耀畅玩 4X
+Che2-TL00:
+  codename: cherryplus
+  model_name: 荣耀畅玩 4X 移动渠道版 (2014)
+  name: 荣耀畅玩 4X
+Che2-TL00H:
+  codename: cherryplus
+  model_name: 荣耀畅玩 4X 移动渠道版 (2014)
+  name: 荣耀畅玩 4X
 Che2-TL00M:
   codename: cherryplus
   model_name: 荣耀畅玩 4X 移动定制版 (2014)
-  name: 荣耀畅玩 4X
-Che2-TL00` `Che2-TL00H:
-  codename: cherryplus
-  model_name: 荣耀畅玩 4X 移动渠道版 (2014)
   name: 荣耀畅玩 4X
 Che2-UL00:
   codename: cherryplus
@@ -538,7 +570,11 @@ HDN-W09:
   codename: haydn
   model_name: 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
   name: 荣耀 Waterplay
-HLK-AL00` `HLK-AL00a:
+HLK-AL00:
+  codename: hulk
+  model_name: 荣耀 9X 全网通版
+  name: 荣耀 9X
+HLK-AL00a:
   codename: hulk
   model_name: 荣耀 9X 全网通版
   name: 荣耀 9X
@@ -630,11 +666,15 @@ JDN-AL00:
   codename: jordan
   model_name: 荣耀平板 2 全网通版
   name: 荣耀平板 2
+JDN-AL50HN:
+  codename: jordan2
+  model_name: 荣耀平板 5 8 英寸 全网通版
+  name: 荣耀平板 5
 JDN-W09:
   codename: jordan
   model_name: 荣耀平板 2 Wi-Fi 版
   name: 荣耀平板 2
-JDN2-AL00HN` `JDN-AL50HN:
+JDN2-AL00HN:
   codename: jordan2
   model_name: 荣耀平板 5 8 英寸 全网通版
   name: 荣耀平板 5
@@ -758,7 +798,11 @@ KSA-TL00:
   codename: katyusha
   model_name: 荣耀畅玩 8 移动 4G+ 版
   name: 荣耀畅玩 8
-LLD-AL00` `LLD-AL10:
+LLD-AL00:
+  codename: leland
+  model_name: 荣耀 9 青春版 全网通版
+  name: 荣耀 9 青春版
+LLD-AL10:
   codename: leland
   model_name: 荣耀 9 青春版 全网通版
   name: 荣耀 9 青春版
@@ -794,21 +838,29 @@ LOK-330:
   codename: ''
   model_name: 荣耀智慧屏 X1 50 英寸
   name: 荣耀智慧屏 X1
+LOK-350:
+  codename: ''
+  model_name: 荣耀智慧屏 X1 55 英寸 (2GB+16GB)
+  name: 荣耀智慧屏 X1
+LOK-350C:
+  codename: ''
+  model_name: 荣耀智慧屏 X1 55 英寸 (2GB+16GB)
+  name: 荣耀智慧屏 X1
 LOK-350S:
   codename: ''
   model_name: 荣耀智慧屏 X1 55 英寸 (4GB+32GB)
   name: 荣耀智慧屏 X1
-LOK-350` `LOK-350C:
+LOK-360:
   codename: ''
-  model_name: 荣耀智慧屏 X1 55 英寸 (2GB+16GB)
+  model_name: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
+  name: 荣耀智慧屏 X1
+LOK-360C:
+  codename: ''
+  model_name: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
   name: 荣耀智慧屏 X1
 LOK-360S:
   codename: ''
   model_name: 荣耀智慧屏 X1 65 英寸 (4GB+32GB)
-  name: 荣耀智慧屏 X1
-LOK-360` `LOK-360C:
-  codename: ''
-  model_name: 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
   name: 荣耀智慧屏 X1
 LRA-AL00:
   codename: laura
@@ -818,7 +870,11 @@ LRA-TL00:
   codename: laura
   model_name: 荣耀 20 青春版 移动 4G+ 版
   name: 荣耀 20 青春版
-MOA-AL00` `MOA-AL20:
+MOA-AL00:
+  codename: moana
+  model_name: 荣耀畅玩 9A 全网通版
+  name: 荣耀畅玩 9A
+MOA-AL20:
   codename: moana
   model_name: 荣耀畅玩 9A 全网通版
   name: 荣耀畅玩 9A
@@ -1070,11 +1126,19 @@ TEL-AN00:
   codename: teller
   model_name: 荣耀 X10 5G 全网通版 (6GB+64GB)
   name: 荣耀 X10
-TEL-AN00a` `TEL-AN10:
+TEL-AN00a:
   codename: teller
   model_name: 荣耀 X10 5G 全网通版
   name: 荣耀 X10
-TEL-TN00` `TEL-TN10:
+TEL-AN10:
+  codename: teller
+  model_name: 荣耀 X10 5G 全网通版
+  name: 荣耀 X10
+TEL-TN00:
+  codename: teller
+  model_name: 荣耀 X10 5G 移动定制版
+  name: 荣耀 X10
+TEL-TN10:
   codename: teller
   model_name: 荣耀 X10 5G 移动定制版
   name: 荣耀 X10
