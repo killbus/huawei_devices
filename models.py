@@ -45,6 +45,7 @@ def dumper(brand='huawei'):
         for i in models:
             for model in map(str.strip, i.split(':')[0].strip().split(',')):
                 model = re.sub(r'HUAWEI ?', '', model, re.IGNORECASE)
+                model = model.strip().strip('`').strip()
                 model_name = i.split(':')[1].strip()
                 model_info = dict(info) # do a copy
                 model_info.update({"model_name": model_name})
