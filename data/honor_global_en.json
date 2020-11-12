@@ -1,235 +1,235 @@
 {
- "`Che1-L04`": {
+ "Che1-L04": {
   "codename": "cherry",
   "name": "HONOR 4X",
   "model_name": "HONOR 4X (India)"
  },
- "`Che2-L03`": {
+ "Che2-L03": {
   "codename": "cherryplus",
   "name": "HONOR 4X",
   "model_name": "HONOR 4X Single SIM"
  },
- "`Che2-L11` `Che2-L12` `Che2-L23`": {
+ "Che2-L11` `Che2-L12` `Che2-L23": {
   "codename": "cherryplus",
   "name": "HONOR 4X",
   "model_name": "HONOR 4X Dual SIM"
  },
- "`CHM-U01`": {
+ "CHM-U01": {
   "codename": "cherrymini",
   "name": "HONOR 4C",
   "model_name": "HONOR 4C Dual SIM"
  },
- "`KIW-L21`": {
+ "KIW-L21": {
   "codename": "kiwi",
   "name": "HONOR 5X",
   "model_name": "HONOR 5X Dual SIM"
  },
- "`KIW-L24`": {
+ "KIW-L24": {
   "codename": "kiwi",
   "name": "HONOR 5X",
   "model_name": "HONOR 5X Dual SIM (United States)"
  },
- "`NEM-L21` `NEM-L22` `NEM-L51`": {
+ "NEM-L21` `NEM-L22` `NEM-L51": {
   "codename": "nemo",
   "name": "HONOR 5C",
   "model_name": "HONOR 5C Dual SIM"
  },
- "`H60-L04`": {
+ "H60-L04": {
   "codename": "mogolia",
   "name": "HONOR 6",
   "model_name": "HONOR 6 Single SIM"
  },
- "`PE-TL10`": {
+ "PE-TL10": {
   "codename": "pine",
   "name": "HONOR 6 Plus",
   "model_name": "HONOR 6 Plus Dual SIM"
  },
- "`BLN-L21` `BLN-L22`": {
+ "BLN-L21` `BLN-L22": {
   "codename": "berlin",
   "name": "HONOR 6X",
   "model_name": "HONOR 6X Dual SIM"
  },
- "`BLN-L24`": {
+ "BLN-L24": {
   "codename": "berlin",
   "name": "HONOR 6X",
   "model_name": "HONOR 6X Dual SIM (United States)"
  },
- "`DIG-L22HN`": {
+ "DIG-L22HN": {
   "codename": "",
   "name": "HONOR 6C",
   "model_name": "HONOR 6C Dual SIM"
  },
- "`JMM-L22`": {
+ "JMM-L22": {
   "codename": "jimmy",
   "name": "HONOR 6C Pro",
   "model_name": "HONOR 6C Pro Dual SIM"
  },
- "`DLI-L22` `DLI-L42` `DLI-TL20`": {
+ "DLI-L22` `DLI-L42` `DLI-TL20": {
   "codename": "delhi",
   "name": "HONOR 6A",
   "model_name": "HONOR 6A Dual SIM"
  },
- "`PLK-L01`": {
+ "PLK-L01": {
   "codename": "plank",
   "name": "HONOR 7",
   "model_name": "HONOR 7 Dual SIM"
  },
- "`ATH-UL01` `ATH-UL06` `ATH-UL11` `ATH-UL16`": {
+ "ATH-UL01` `ATH-UL06` `ATH-UL11` `ATH-UL16": {
   "codename": "",
   "name": "ShotX",
   "model_name": "ShotX"
  },
- "`BND-L21` `BND-L31` `BND-AL10`": {
+ "BND-L21` `BND-L31` `BND-AL10": {
   "codename": "bond",
   "name": "HONOR 7X",
   "model_name": "HONOR 7X Dual SIM"
  },
- "`BND-L24`": {
+ "BND-L24": {
   "codename": "bond",
   "name": "HONOR 7X",
   "model_name": "HONOR 7X Dual SIM (United States)"
  },
- "`LND-L29` `LND-AL30`": {
+ "LND-L29` `LND-AL30": {
   "codename": "london",
   "name": "HONOR 7C",
   "model_name": "HONOR 7C Dual SIM"
  },
- "`AUM-L29` `AUM-L33` `AUM-L41` `AUM-AL20`": {
+ "AUM-L29` `AUM-L33` `AUM-L41` `AUM-AL20": {
   "codename": "atomu",
   "name": "HONOR 7A",
   "model_name": "HONOR 7A Dual SIM"
  },
- "`DRA-LX5` `DRA-AL00IA` `DUA-L22` `DUA-LX3`": {
+ "DRA-LX5` `DRA-AL00IA` `DUA-L22` `DUA-LX3": {
   "codename": "dura",
   "name": "HONOR 7S",
   "model_name": "HONOR 7S Dual SIM"
  },
- "`FRD-L02` `FRD-L04`": {
+ "FRD-L02` `FRD-L04": {
   "codename": "faraday",
   "name": "HONOR 8",
   "model_name": "HONOR 8 Single SIM"
  },
- "`FRD-L09` `FRD-L19`": {
+ "FRD-L09` `FRD-L19": {
   "codename": "faraday",
   "name": "HONOR 8",
   "model_name": "HONOR 8 Dual SIM"
  },
- "`DUK-L09`": {
+ "DUK-L09": {
   "codename": "duke",
   "name": "HONOR 8 Pro",
   "model_name": "HONOR 8 Pro Dual SIM"
  },
- "`VEN-L22`": {
+ "VEN-L22": {
   "codename": "",
   "name": "HONOR 8 Smart",
   "model_name": "HONOR 8 Smart Dual SIM"
  },
- "`JSN-L21` `JSN-L22` `JSN-L23` `JSN-L42`": {
+ "JSN-L21` `JSN-L22` `JSN-L23` `JSN-L42": {
   "codename": "johnson",
   "name": "HONOR 8X",
   "model_name": "HONOR 8X Dual SIM"
  },
- "`BKK-L21` `BKK-L22` `BKK-LX2`": {
+ "BKK-L21` `BKK-L22` `BKK-LX2": {
   "codename": "bangkok",
   "name": "HONOR 8C",
   "model_name": "HONOR 8C Dual SIM"
  },
- "`JAT-L29` `JAT-L41` `JAT-LX1` `JAT-LX3`": {
+ "JAT-L29` `JAT-L41` `JAT-LX1` `JAT-LX3": {
   "codename": "jakarta",
   "name": "HONOR 8A",
   "model_name": "HONOR 8A Dual SIM"
  },
- "`KSA-LX2` `KSA-LX3` `KSA-LX9`": {
+ "KSA-LX2` `KSA-LX3` `KSA-LX9": {
   "codename": "katyusha",
   "name": "HONOR 8S",
   "model_name": "HONOR 8S Dual SIM"
  },
- "`STF-L09`": {
+ "STF-L09": {
   "codename": "stanford",
   "name": "HONOR 9",
   "model_name": "HONOR 9 Dual SIM"
  },
- "`LLD-L31` `LLD-AL10`": {
+ "LLD-L31` `LLD-AL10": {
   "codename": "leland",
   "name": "HONOR 9 Lite",
   "model_name": "HONOR 9 Lite Dual SIM"
  },
- "`LLD-AL20`": {
+ "LLD-AL20": {
   "codename": "lelandp",
   "name": "HONOR 9N",
   "model_name": "HONOR 9N Dual SIM"
  },
- "`STK-L22` `STK-LX1` `STK-LX3`": {
+ "STK-L22` `STK-LX1` `STK-LX3": {
   "codename": "stark",
   "name": "HONOR 9X",
   "model_name": "HONOR 9X Dual SIM"
  },
- "`HLK-L41` `HLK-L42`": {
+ "HLK-L41` `HLK-L42": {
   "codename": "hulk",
   "name": "HONOR 9X PRO",
   "model_name": "HONOR 9X PRO Dual SIM"
  },
- "`JSN-L21` `JSN-L22` `JSN-L23`": {
+ "JSN-L21` `JSN-L22` `JSN-L23": {
   "codename": "johnson",
   "name": "HONOR 9X Lite",
   "model_name": "HONOR 9X Lite Dual SIM"
  },
- "`MOA-LX9N`": {
+ "MOA-LX9N": {
   "codename": "moana",
   "name": "HONOR 9A",
   "model_name": "HONOR 9A Dual SIM"
  },
- "`AKA-L29`": {
+ "AKA-L29": {
   "codename": "asoka",
   "name": "HONOR 9C",
   "model_name": "HONOR 9C Dual SIM"
  },
- "`COR-L29` `COR-AL00`": {
+ "COR-L29` `COR-AL00": {
   "codename": "cornell",
   "name": "HONOR Play",
   "model_name": "HONOR Play Dual SIM"
  },
- "`BKL-L09`": {
+ "BKL-L09": {
   "codename": "berkeley",
   "name": "HONOR View10",
   "model_name": "HONOR View10 Dual SIM"
  },
- "`BKL-L04`": {
+ "BKL-L04": {
   "codename": "berkeley",
   "name": "HONOR View10",
   "model_name": "HONOR View10 Dual SIM (United States)"
  },
- "`COL-L29` `COL-L29D` `COL-AL10`": {
+ "COL-L29` `COL-L29D` `COL-AL10": {
   "codename": "columbia",
   "name": "HONOR 10",
   "model_name": "HONOR 10 Dual SIM"
  },
- "`HRY-LX1` `HRY-LX1MEB` `HRY-LX2` `HRY-AL00` `HRY-AL00a`": {
+ "HRY-LX1` `HRY-LX1MEB` `HRY-LX2` `HRY-AL00` `HRY-AL00a": {
   "codename": "harry",
   "name": "HONOR 10 Lite",
   "model_name": "HONOR 10 Lite Dual SIM"
  },
- "`PCT-L29` `PCT-AL10`": {
+ "PCT-L29` `PCT-AL10": {
   "codename": "princeton",
   "name": "HONOR View20",
   "model_name": "HONOR View20 Dual SIM"
  },
- "`YAL-L21`": {
+ "YAL-L21": {
   "codename": "yale",
   "name": "HONOR 20",
   "model_name": "HONOR 20 Dual SIM"
  },
- "`YAL-L41`": {
+ "YAL-L41": {
   "codename": "yale",
   "name": "HONOR 20 PRO",
   "model_name": "HONOR 20 PRO Dual SIM"
  },
- "`HRY-AL00Ta`": {
+ "HRY-AL00Ta": {
   "codename": "harrypro",
   "name": "HONOR 20i",
   "model_name": "HONOR 20i Dual SIM"
  },
- "`OXF-N29` `OXF-AN10`": {
+ "OXF-N29` `OXF-AN10": {
   "codename": "oxford",
   "name": "HONOR View30 PRO",
   "model_name": "HONOR View30 PRO Dual SIM"

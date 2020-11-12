@@ -1,333 +1,333 @@
-'`ALE-L02` `ALE-L04` `ALE-L21` `ALE-L23`':
+ALE-L02` `ALE-L04` `ALE-L21` `ALE-L23:
   codename: alice
   model_name: HUAWEI P8 Lite
   name: HUAWEI P8 Lite
-'`ALP-L09`':
+ALP-L09:
   codename: alps
   model_name: HUAWEI Mate 10 Single SIM
   name: HUAWEI Mate 10
-'`ALP-L29`':
+ALP-L29:
   codename: alps
   model_name: HUAWEI Mate 10 Dual SIM
   name: HUAWEI Mate 10
-'`ANA-NX9`':
+ANA-NX9:
   codename: anna
   model_name: HUAWEI P40 Dual SIM
   name: HUAWEI P40
-'`ANE-LX1` `ANE-LX2` `ANE-LX2J` `ANE-LX3`':
+ANE-LX1` `ANE-LX2` `ANE-LX2J` `ANE-LX3:
   codename: anne
   model_name: HUAWEI P20 lite
   name: HUAWEI P20 lite
-'`BAC-L01` `BAC-L03`':
+BAC-L01` `BAC-L03:
   codename: barca
   model_name: HUAWEI nova 2 Plus Single SIM
   name: HUAWEI nova 2 Plus
-'`BAC-L21` `BAC-L22` `BAC-L23`':
+BAC-L21` `BAC-L22` `BAC-L23:
   codename: barca
   model_name: HUAWEI nova 2 Plus Dual SIM
   name: HUAWEI nova 2 Plus
-'`BLA-A09`':
+BLA-A09:
   codename: blanc
   model_name: PORSCHE DESIGN HUAWEI Mate 10 (United States)
   name: PORSCHE DESIGN HUAWEI Mate 10
-'`BLA-L09`':
+BLA-L09:
   codename: blanc
   model_name: HUAWEI Mate 10 Pro Single SIM
   name: HUAWEI Mate 10 Pro
-'`BLA-L29`':
+BLA-L29:
   codename: blanc
   model_name: PORSCHE DESIGN HUAWEI Mate 10 Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate 10
-'`BND-L34`':
+BND-L34:
   codename: bond
   model_name: HUAWEI Mate SE (United States)
   name: HUAWEI Mate SE
-'`CAN-L01` `CAN-L02` `CAN-L03` `CAN-L11` `CAN-L12` `CAN-L13`':
+CAN-L01` `CAN-L02` `CAN-L03` `CAN-L11` `CAN-L12` `CAN-L13:
   codename: cannes
   model_name: HUAWEI nova
   name: HUAWEI nova
-'`CDY-NX9`':
+CDY-NX9:
   codename: cindy
   model_name: HUAWEI nova 7 SE 5G
   name: HUAWEI nova 7 SE
-'`CLT-L04` `CLT-L09`':
+CLT-L04` `CLT-L09:
   codename: charlotte
   model_name: HUAWEI P20 Pro Single SIM
   name: HUAWEI P20 Pro
-'`CLT-L29`':
+CLT-L29:
   codename: charlotte
   model_name: HUAWEI P20 Pro Dual SIM
   name: HUAWEI P20 Pro
-'`CRR-L09`':
+CRR-L09:
   codename: carrera
   model_name: HUAWEI Mate S Single SIM
   name: HUAWEI Mate S
-'`CRR-UL00`':
+CRR-UL00:
   codename: carrera
   model_name: HUAWEI Mate S Dual SIM
   name: HUAWEI Mate S
-'`ELE-L09`':
+ELE-L09:
   codename: elle
   model_name: HUAWEI P30 Single SIM
   name: HUAWEI P30
-'`ELE-L29`':
+ELE-L29:
   codename: elle
   model_name: HUAWEI P30 Dual SIM
   name: HUAWEI P30
-'`ELS-N04` `ELS-NX9`':
+ELS-N04` `ELS-NX9:
   codename: elsa
   model_name: HUAWEI P40 Pro Single SIM
   name: HUAWEI P40 Pro
-'`ELS-NX9`':
+ELS-NX9:
   codename: elsa
   model_name: HUAWEI P40 Pro Dual SIM
   name: HUAWEI P40 Pro
-'`EML-L09`':
+EML-L09:
   codename: emily
   model_name: HUAWEI P20 Single SIM
   name: HUAWEI P20
-'`EML-L29`':
+EML-L29:
   codename: emily
   model_name: HUAWEI P20 Dual SIM
   name: HUAWEI P20
-'`EVA-L09`':
+EVA-L09:
   codename: eva
   model_name: HUAWEI P9 Single SIM
   name: HUAWEI P9
-'`EVA-L19` `EVA-L29`':
+EVA-L19` `EVA-L29:
   codename: eva
   model_name: HUAWEI P9 Dual SIM
   name: HUAWEI P9
-'`EVR-L29`':
+EVR-L29:
   codename: ever
   model_name: HUAWEI Mate 20 X Dual SIM
   name: HUAWEI Mate 20 X
-'`EVR-N29`':
+EVR-N29:
   codename: ever
   model_name: HUAWEI Mate 20 X 5G Dual SIM
   name: HUAWEI Mate 20 X
-'`FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`':
+FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3:
   codename: figo
   model_name: HUAWEI P Smart
   name: HUAWEI P Smart
-'`GRA-L09`':
+GRA-L09:
   codename: grace
   model_name: HUAWEI P8 Single SIM
   name: HUAWEI P8
-'`GRA-UL00` `GRA-UL10`':
+GRA-UL00` `GRA-UL10:
   codename: grace
   model_name: HUAWEI P8 Dual SIM
   name: HUAWEI P8
-'`HMA-L09`':
+HMA-L09:
   codename: hima
   model_name: HUAWEI Mate 20 Single SIM
   name: HUAWEI Mate 20
-'`HMA-L29`':
+HMA-L29:
   codename: hima
   model_name: HUAWEI Mate 20 Dual SIM
   name: HUAWEI Mate 20
-'`INE-LX1`':
+INE-LX1:
   codename: sydneyi
   model_name: HUAWEI P Smart+
   name: HUAWEI P Smart+
-'`INE-LX1` `INE-LX1r` `INE-LX2` `INE-LX2r`':
+INE-LX1` `INE-LX1r` `INE-LX2` `INE-LX2r:
   codename: sydneyi
   model_name: HUAWEI nova 3i
   name: HUAWEI nova 3i
-'`JNY-LX1`':
+JNY-LX1:
   codename: jenny
   model_name: HUAWEI nova 7i Dual SIM
   name: HUAWEI nova 7i
-'`JNY-LX2`':
+JNY-LX2:
   codename: jenny
   model_name: HUAWEI P40 lite Single SIM
   name: HUAWEI P40 lite
-'`LDN-LX2`':
+LDN-LX2:
   codename: london
   model_name: HUAWEI nova 2 lite
   name: HUAWEI nova 2 lite
-'`LIO-L09`':
+LIO-L09:
   codename: lion
   model_name: HUAWEI Mate 30 Pro Single SIM
   name: HUAWEI Mate 30 Pro
-'`LIO-L29`':
+LIO-L29:
   codename: lion
   model_name: HUAWEI Mate 30 Pro Dual SIM
   name: HUAWEI Mate 30 Pro
-'`LIO-N29`':
+LIO-N29:
   codename: lion
   model_name: PORSCHE DESIGN HUAWEI Mate 30 RS Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate 30 RS
-'`LON-L29`':
+LON-L29:
   codename: longland
   model_name: PORSCHE DESIGN HUAWEI Mate 9 Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate 9
-'`LYA-L09` `LYA-L0C`':
+LYA-L09` `LYA-L0C:
   codename: laya
   model_name: HUAWEI Mate 20 Single SIM
   name: HUAWEI Mate 20 Pro
-'`LYA-L29`':
+LYA-L29:
   codename: laya
   model_name: PORSCHE DESIGN HUAWEI Mate 20 RS Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate 20 RS
-? '`MAR-LX1A` `MAR-LX1Am` `MAR-LX1B` `MAR-LX1M` `MAR-LX1Mm` `MAR-LX2` `MAR-LX2m` `MAR-LX2B`
-  `MAR-LX2J` `MAR-LX3A` `MAR-LX3Am` `MAR-LX3Bm`'
+? MAR-LX1A` `MAR-LX1Am` `MAR-LX1B` `MAR-LX1M` `MAR-LX1Mm` `MAR-LX2` `MAR-LX2m` `MAR-LX2B`
+  `MAR-LX2J` `MAR-LX3A` `MAR-LX3Am` `MAR-LX3Bm
 : codename: marie
   model_name: HUAWEI P30 lite
   name: HUAWEI P30 lite
-'`MHA-L09`':
+MHA-L09:
   codename: manhattan
   model_name: HUAWEI Mate 9 Single SIM
   name: HUAWEI Mate 9
-'`MHA-L29`':
+MHA-L29:
   codename: manhattan
   model_name: HUAWEI Mate 9 Dual SIM
   name: HUAWEI Mate 9
-'`MLA-L01` `MLA-L02` `MLA-L03` `MLA-L11` `MLA-L12` `MLA-L13`':
+MLA-L01` `MLA-L02` `MLA-L03` `MLA-L11` `MLA-L12` `MLA-L13:
   codename: milan
   model_name: HUAWEI nova Plus
   name: HUAWEI nova Plus
-'`MT7-L09`':
+MT7-L09:
   codename: jazz
   model_name: HUAWEI Ascend Mate 7 Single SIM
   name: HUAWEI Ascend Mate 7
-'`MT7-TL10`':
+MT7-TL10:
   codename: jazz
   model_name: HUAWEI Ascend Mate 7 Dual SIM
   name: HUAWEI Ascend Mate 7
-'`NEO-L29`':
+NEO-L29:
   codename: neo
   model_name: PORSCHE DESIGN HUAWEI Mate RS Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate RS
-'`NXT-L09`':
+NXT-L09:
   codename: next
   model_name: HUAWEI Mate 8 Single SIM
   name: HUAWEI Mate 8
-'`NXT-L29`':
+NXT-L29:
   codename: next
   model_name: HUAWEI Mate 8 Dual SIM
   name: HUAWEI Mate 8
-'`P6-U06`':
+P6-U06:
   codename: ''
   model_name: HUAWEI Ascend P6 Single SIM
   name: HUAWEI Ascend P6
-'`P7-L10` `P7-L11` `P7-L12`':
+P7-L10` `P7-L11` `P7-L12:
   codename: sophia
   model_name: HUAWEI Ascend P7
   name: HUAWEI Ascend P7
-'`PAR-LX1` `PAR-LX1M` `PAR-LX9` `PAR-L21` `PAR-L29`':
+PAR-LX1` `PAR-LX1M` `PAR-LX9` `PAR-L21` `PAR-L29:
   codename: paris
   model_name: HUAWEI nova 3
   name: HUAWEI nova 3
-'`PIC-L09`':
+PIC-L09:
   codename: picasso
   model_name: HUAWEI nova 2 Single SIM
   name: HUAWEI nova 2
-'`PIC-LX9`':
+PIC-LX9:
   codename: picasso
   model_name: HUAWEI nova 2 Dual SIM
   name: HUAWEI nova 2
-'`POT-LX1` `POT-LX1AF` `POT-LX1RU` `POT-LX1T` `POT-LX3`':
+POT-LX1` `POT-LX1AF` `POT-LX1RU` `POT-LX1T` `POT-LX3:
   codename: potter
   model_name: HUAWEI P Smart 2019
   name: HUAWEI P Smart 2019
-'`POT-LX2J`':
+POT-LX2J:
   codename: potter
   model_name: HUAWEI nova lite 3 (Japan)
   name: HUAWEI nova lite 3
-'`PRA-LA1` `PRA-LX1`':
+PRA-LA1` `PRA-LX1:
   codename: prague
   model_name: HUAWEI P8 lite 2017
   name: HUAWEI P8 lite 2017
-'`PRA-LX2` `PRA-LX3`':
+PRA-LX2` `PRA-LX3:
   codename: prague
   model_name: HUAWEI nova lite
   name: HUAWEI nova lite
-'`RNE-L01` `RNE-L03`':
+RNE-L01` `RNE-L03:
   codename: rhone
   model_name: HUAWEI Mate 10 Lite Single SIM
   name: HUAWEI Mate 10 Lite
-'`RNE-L02`':
+RNE-L02:
   codename: rhone
   model_name: HUAWEI nova 2 Single SIM
   name: HUAWEI nova 2i
-'`RNE-L21` `RNE-L23`':
+RNE-L21` `RNE-L23:
   codename: rhone
   model_name: HUAWEI Mate 10 Lite Dual SIM
   name: HUAWEI Mate 10 Lite
-'`RNE-L22`':
+RNE-L22:
   codename: rhone
   model_name: HUAWEI nova 2 Dual SIM
   name: HUAWEI nova 2i
-'`SNE-LX1` `SNE-LX2` `SNE-LX3`':
+SNE-LX1` `SNE-LX2` `SNE-LX3:
   codename: sydneym
   model_name: HUAWEI Mate 20 lite
   name: HUAWEI Mate 20 lite
-'`STK-L21` `STK-LX1`':
+STK-L21` `STK-LX1:
   codename: stark
   model_name: HUAWEI P Smart Pro
   name: HUAWEI P Smart Pro
-'`TAH-N29m`':
+TAH-N29m:
   codename: tahiti
   model_name: HUAWEI Mate Xs Dual SIM
   name: HUAWEI Mate Xs
-'`TAS-L09`':
+TAS-L09:
   codename: taurus
   model_name: HUAWEI Mate 30 Single SIM
   name: HUAWEI Mate 30
-'`TAS-L29`':
+TAS-L29:
   codename: taurus
   model_name: HUAWEI Mate 30 Dual SIM
   name: HUAWEI Mate 30
-'`VCE-L22`':
+VCE-L22:
   codename: venice
   model_name: HUAWEI nova 4
   name: HUAWEI nova 4
-'`VIE-L09`':
+VIE-L09:
   codename: vienna
   model_name: HUAWEI P9 Plus Single SIM
   name: HUAWEI P9 Plus
-'`VIE-L29`':
+VIE-L29:
   codename: vienna
   model_name: HUAWEI P9 Plus Dual SIM
   name: HUAWEI P9 Plus
-'`VKY-L09`':
+VKY-L09:
   codename: vicky
   model_name: HUAWEI P10 Plus Single SIM
   name: HUAWEI P10 Plus
-'`VKY-L29`':
+VKY-L29:
   codename: vicky
   model_name: HUAWEI P10 Plus Dual SIM
   name: HUAWEI P10 Plus
-'`VNS-L21` `VNS-L22` `VNS-L23` `VNS-L31` `VNS-L52` `VNS-L53` `VNS-L62`':
+VNS-L21` `VNS-L22` `VNS-L23` `VNS-L31` `VNS-L52` `VNS-L53` `VNS-L62:
   codename: venus
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
-'`VOG-L09`':
+VOG-L09:
   codename: vogue
   model_name: HUAWEI P30 Pro Single SIM
   name: HUAWEI P30 Pro
-'`VOG-L29`':
+VOG-L29:
   codename: vogue
   model_name: HUAWEI P30 Pro Dual SIM
   name: HUAWEI P30 Pro
-'`VTR-L09`':
+VTR-L09:
   codename: victoria
   model_name: HUAWEI P10 Single SIM
   name: HUAWEI P10
-'`VTR-L29`':
+VTR-L29:
   codename: victoria
   model_name: HUAWEI P10 Dual SIM
   name: HUAWEI P10
-'`WAS-LX1` `WAS-LX1A` `WAS-LX2` `WAS-LX2J` `WAS-LX3` `WAS-L03T`':
+WAS-LX1` `WAS-LX1A` `WAS-LX2` `WAS-LX2J` `WAS-LX3` `WAS-L03T:
   codename: warsaw
   model_name: HUAWEI P10 lite
   name: HUAWEI P10 lite
-'`YAL-L21`':
+YAL-L21:
   codename: yale
   model_name: HUAWEI nova 5T
   name: HUAWEI nova 5T
-'`YAL-L41`':
+YAL-L41:
   codename: yale
   model_name: HUAWEI nova 5T Pro
   name: HUAWEI nova 5T

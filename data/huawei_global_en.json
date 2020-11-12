@@ -1,415 +1,415 @@
 {
- "`MT7-L09`": {
+ "MT7-L09": {
   "codename": "jazz",
   "name": "HUAWEI Ascend Mate 7",
   "model_name": "HUAWEI Ascend Mate 7 Single SIM"
  },
- "`MT7-TL10`": {
+ "MT7-TL10": {
   "codename": "jazz",
   "name": "HUAWEI Ascend Mate 7",
   "model_name": "HUAWEI Ascend Mate 7 Dual SIM"
  },
- "`CRR-L09`": {
+ "CRR-L09": {
   "codename": "carrera",
   "name": "HUAWEI Mate S",
   "model_name": "HUAWEI Mate S Single SIM"
  },
- "`CRR-UL00`": {
+ "CRR-UL00": {
   "codename": "carrera",
   "name": "HUAWEI Mate S",
   "model_name": "HUAWEI Mate S Dual SIM"
  },
- "`NXT-L09`": {
+ "NXT-L09": {
   "codename": "next",
   "name": "HUAWEI Mate 8",
   "model_name": "HUAWEI Mate 8 Single SIM"
  },
- "`NXT-L29`": {
+ "NXT-L29": {
   "codename": "next",
   "name": "HUAWEI Mate 8",
   "model_name": "HUAWEI Mate 8 Dual SIM"
  },
- "`MHA-L09`": {
+ "MHA-L09": {
   "codename": "manhattan",
   "name": "HUAWEI Mate 9",
   "model_name": "HUAWEI Mate 9 Single SIM"
  },
- "`MHA-L29`": {
+ "MHA-L29": {
   "codename": "manhattan",
   "name": "HUAWEI Mate 9",
   "model_name": "HUAWEI Mate 9 Dual SIM"
  },
- "`LON-L29`": {
+ "LON-L29": {
   "codename": "longland",
   "name": "PORSCHE DESIGN HUAWEI Mate 9",
   "model_name": "PORSCHE DESIGN HUAWEI Mate 9 Dual SIM"
  },
- "`ALP-L09`": {
+ "ALP-L09": {
   "codename": "alps",
   "name": "HUAWEI Mate 10",
   "model_name": "HUAWEI Mate 10 Single SIM"
  },
- "`ALP-L29`": {
+ "ALP-L29": {
   "codename": "alps",
   "name": "HUAWEI Mate 10",
   "model_name": "HUAWEI Mate 10 Dual SIM"
  },
- "`BLA-L09`": {
+ "BLA-L09": {
   "codename": "blanc",
   "name": "HUAWEI Mate 10 Pro",
   "model_name": "HUAWEI Mate 10 Pro Single SIM"
  },
- "`BLA-A09`": {
+ "BLA-A09": {
   "codename": "blanc",
   "name": "PORSCHE DESIGN HUAWEI Mate 10",
   "model_name": "PORSCHE DESIGN HUAWEI Mate 10 (United States)"
  },
- "`BLA-L29`": {
+ "BLA-L29": {
   "codename": "blanc",
   "name": "PORSCHE DESIGN HUAWEI Mate 10",
   "model_name": "PORSCHE DESIGN HUAWEI Mate 10 Dual SIM"
  },
- "`RNE-L01` `RNE-L03`": {
+ "RNE-L01` `RNE-L03": {
   "codename": "rhone",
   "name": "HUAWEI Mate 10 Lite",
   "model_name": "HUAWEI Mate 10 Lite Single SIM"
  },
- "`RNE-L21` `RNE-L23`": {
+ "RNE-L21` `RNE-L23": {
   "codename": "rhone",
   "name": "HUAWEI Mate 10 Lite",
   "model_name": "HUAWEI Mate 10 Lite Dual SIM"
  },
- "`BND-L34`": {
+ "BND-L34": {
   "codename": "bond",
   "name": "HUAWEI Mate SE",
   "model_name": "HUAWEI Mate SE (United States)"
  },
- "`NEO-L29`": {
+ "NEO-L29": {
   "codename": "neo",
   "name": "PORSCHE DESIGN HUAWEI Mate RS",
   "model_name": "PORSCHE DESIGN HUAWEI Mate RS Dual SIM"
  },
- "`HMA-L09`": {
+ "HMA-L09": {
   "codename": "hima",
   "name": "HUAWEI Mate 20",
   "model_name": "HUAWEI Mate 20 Single SIM"
  },
- "`HMA-L29`": {
+ "HMA-L29": {
   "codename": "hima",
   "name": "HUAWEI Mate 20",
   "model_name": "HUAWEI Mate 20 Dual SIM"
  },
- "`LYA-L09` `LYA-L0C`": {
+ "LYA-L09` `LYA-L0C": {
   "codename": "laya",
   "name": "HUAWEI Mate 20 Pro",
   "model_name": "HUAWEI Mate 20 Single SIM"
  },
- "`LYA-L29`": {
+ "LYA-L29": {
   "codename": "laya",
   "name": "PORSCHE DESIGN HUAWEI Mate 20 RS",
   "model_name": "PORSCHE DESIGN HUAWEI Mate 20 RS Dual SIM"
  },
- "`EVR-L29`": {
+ "EVR-L29": {
   "codename": "ever",
   "name": "HUAWEI Mate 20 X",
   "model_name": "HUAWEI Mate 20 X Dual SIM"
  },
- "`EVR-N29`": {
+ "EVR-N29": {
   "codename": "ever",
   "name": "HUAWEI Mate 20 X",
   "model_name": "HUAWEI Mate 20 X 5G Dual SIM"
  },
- "`SNE-LX1` `SNE-LX2` `SNE-LX3`": {
+ "SNE-LX1` `SNE-LX2` `SNE-LX3": {
   "codename": "sydneym",
   "name": "HUAWEI Mate 20 lite",
   "model_name": "HUAWEI Mate 20 lite"
  },
- "`TAS-L09`": {
+ "TAS-L09": {
   "codename": "taurus",
   "name": "HUAWEI Mate 30",
   "model_name": "HUAWEI Mate 30 Single SIM"
  },
- "`TAS-L29`": {
+ "TAS-L29": {
   "codename": "taurus",
   "name": "HUAWEI Mate 30",
   "model_name": "HUAWEI Mate 30 Dual SIM"
  },
- "`LIO-L09`": {
+ "LIO-L09": {
   "codename": "lion",
   "name": "HUAWEI Mate 30 Pro",
   "model_name": "HUAWEI Mate 30 Pro Single SIM"
  },
- "`LIO-L29`": {
+ "LIO-L29": {
   "codename": "lion",
   "name": "HUAWEI Mate 30 Pro",
   "model_name": "HUAWEI Mate 30 Pro Dual SIM"
  },
- "`LIO-N29`": {
+ "LIO-N29": {
   "codename": "lion",
   "name": "PORSCHE DESIGN HUAWEI Mate 30 RS",
   "model_name": "PORSCHE DESIGN HUAWEI Mate 30 RS Dual SIM"
  },
- "`TAH-N29m`": {
+ "TAH-N29m": {
   "codename": "tahiti",
   "name": "HUAWEI Mate Xs",
   "model_name": "HUAWEI Mate Xs Dual SIM"
  },
- "`P6-U06`": {
+ "P6-U06": {
   "codename": "",
   "name": "HUAWEI Ascend P6",
   "model_name": "HUAWEI Ascend P6 Single SIM"
  },
- "`P7-L10` `P7-L11` `P7-L12`": {
+ "P7-L10` `P7-L11` `P7-L12": {
   "codename": "sophia",
   "name": "HUAWEI Ascend P7",
   "model_name": "HUAWEI Ascend P7"
  },
- "`GRA-L09`": {
+ "GRA-L09": {
   "codename": "grace",
   "name": "HUAWEI P8",
   "model_name": "HUAWEI P8 Single SIM"
  },
- "`GRA-UL00` `GRA-UL10`": {
+ "GRA-UL00` `GRA-UL10": {
   "codename": "grace",
   "name": "HUAWEI P8",
   "model_name": "HUAWEI P8 Dual SIM"
  },
- "`ALE-L02` `ALE-L04` `ALE-L21` `ALE-L23`": {
+ "ALE-L02` `ALE-L04` `ALE-L21` `ALE-L23": {
   "codename": "alice",
   "name": "HUAWEI P8 Lite",
   "model_name": "HUAWEI P8 Lite"
  },
- "`PRA-LA1` `PRA-LX1`": {
+ "PRA-LA1` `PRA-LX1": {
   "codename": "prague",
   "name": "HUAWEI P8 lite 2017",
   "model_name": "HUAWEI P8 lite 2017"
  },
- "`EVA-L09`": {
+ "EVA-L09": {
   "codename": "eva",
   "name": "HUAWEI P9",
   "model_name": "HUAWEI P9 Single SIM"
  },
- "`EVA-L19` `EVA-L29`": {
+ "EVA-L19` `EVA-L29": {
   "codename": "eva",
   "name": "HUAWEI P9",
   "model_name": "HUAWEI P9 Dual SIM"
  },
- "`VIE-L09`": {
+ "VIE-L09": {
   "codename": "vienna",
   "name": "HUAWEI P9 Plus",
   "model_name": "HUAWEI P9 Plus Single SIM"
  },
- "`VIE-L29`": {
+ "VIE-L29": {
   "codename": "vienna",
   "name": "HUAWEI P9 Plus",
   "model_name": "HUAWEI P9 Plus Dual SIM"
  },
- "`VNS-L21` `VNS-L22` `VNS-L23` `VNS-L31` `VNS-L52` `VNS-L53` `VNS-L62`": {
+ "VNS-L21` `VNS-L22` `VNS-L23` `VNS-L31` `VNS-L52` `VNS-L53` `VNS-L62": {
   "codename": "venus",
   "name": "HUAWEI P9 lite",
   "model_name": "HUAWEI P9 lite"
  },
- "`VTR-L09`": {
+ "VTR-L09": {
   "codename": "victoria",
   "name": "HUAWEI P10",
   "model_name": "HUAWEI P10 Single SIM"
  },
- "`VTR-L29`": {
+ "VTR-L29": {
   "codename": "victoria",
   "name": "HUAWEI P10",
   "model_name": "HUAWEI P10 Dual SIM"
  },
- "`VKY-L09`": {
+ "VKY-L09": {
   "codename": "vicky",
   "name": "HUAWEI P10 Plus",
   "model_name": "HUAWEI P10 Plus Single SIM"
  },
- "`VKY-L29`": {
+ "VKY-L29": {
   "codename": "vicky",
   "name": "HUAWEI P10 Plus",
   "model_name": "HUAWEI P10 Plus Dual SIM"
  },
- "`WAS-LX1` `WAS-LX1A` `WAS-LX2` `WAS-LX2J` `WAS-LX3` `WAS-L03T`": {
+ "WAS-LX1` `WAS-LX1A` `WAS-LX2` `WAS-LX2J` `WAS-LX3` `WAS-L03T": {
   "codename": "warsaw",
   "name": "HUAWEI P10 lite",
   "model_name": "HUAWEI P10 lite"
  },
- "`EML-L09`": {
+ "EML-L09": {
   "codename": "emily",
   "name": "HUAWEI P20",
   "model_name": "HUAWEI P20 Single SIM"
  },
- "`EML-L29`": {
+ "EML-L29": {
   "codename": "emily",
   "name": "HUAWEI P20",
   "model_name": "HUAWEI P20 Dual SIM"
  },
- "`CLT-L04` `CLT-L09`": {
+ "CLT-L04` `CLT-L09": {
   "codename": "charlotte",
   "name": "HUAWEI P20 Pro",
   "model_name": "HUAWEI P20 Pro Single SIM"
  },
- "`CLT-L29`": {
+ "CLT-L29": {
   "codename": "charlotte",
   "name": "HUAWEI P20 Pro",
   "model_name": "HUAWEI P20 Pro Dual SIM"
  },
- "`ANE-LX1` `ANE-LX2` `ANE-LX2J` `ANE-LX3`": {
+ "ANE-LX1` `ANE-LX2` `ANE-LX2J` `ANE-LX3": {
   "codename": "anne",
   "name": "HUAWEI P20 lite",
   "model_name": "HUAWEI P20 lite"
  },
- "`ELE-L09`": {
+ "ELE-L09": {
   "codename": "elle",
   "name": "HUAWEI P30",
   "model_name": "HUAWEI P30 Single SIM"
  },
- "`ELE-L29`": {
+ "ELE-L29": {
   "codename": "elle",
   "name": "HUAWEI P30",
   "model_name": "HUAWEI P30 Dual SIM"
  },
- "`VOG-L09`": {
+ "VOG-L09": {
   "codename": "vogue",
   "name": "HUAWEI P30 Pro",
   "model_name": "HUAWEI P30 Pro Single SIM"
  },
- "`VOG-L29`": {
+ "VOG-L29": {
   "codename": "vogue",
   "name": "HUAWEI P30 Pro",
   "model_name": "HUAWEI P30 Pro Dual SIM"
  },
- "`MAR-LX1A` `MAR-LX1Am` `MAR-LX1B` `MAR-LX1M` `MAR-LX1Mm` `MAR-LX2` `MAR-LX2m` `MAR-LX2B` `MAR-LX2J` `MAR-LX3A` `MAR-LX3Am` `MAR-LX3Bm`": {
+ "MAR-LX1A` `MAR-LX1Am` `MAR-LX1B` `MAR-LX1M` `MAR-LX1Mm` `MAR-LX2` `MAR-LX2m` `MAR-LX2B` `MAR-LX2J` `MAR-LX3A` `MAR-LX3Am` `MAR-LX3Bm": {
   "codename": "marie",
   "name": "HUAWEI P30 lite",
   "model_name": "HUAWEI P30 lite"
  },
- "`ANA-NX9`": {
+ "ANA-NX9": {
   "codename": "anna",
   "name": "HUAWEI P40",
   "model_name": "HUAWEI P40 Dual SIM"
  },
- "`ELS-N04` `ELS-NX9`": {
+ "ELS-N04` `ELS-NX9": {
   "codename": "elsa",
   "name": "HUAWEI P40 Pro",
   "model_name": "HUAWEI P40 Pro Single SIM"
  },
- "`ELS-NX9`": {
+ "ELS-NX9": {
   "codename": "elsa",
   "name": "HUAWEI P40 Pro",
   "model_name": "HUAWEI P40 Pro Dual SIM"
  },
- "`JNY-LX1`": {
+ "JNY-LX1": {
   "codename": "jenny",
   "name": "HUAWEI nova 7i",
   "model_name": "HUAWEI nova 7i Dual SIM"
  },
- "`JNY-LX2`": {
+ "JNY-LX2": {
   "codename": "jenny",
   "name": "HUAWEI P40 lite",
   "model_name": "HUAWEI P40 lite Single SIM"
  },
- "`CDY-NX9`": {
+ "CDY-NX9": {
   "codename": "cindy",
   "name": "HUAWEI nova 7 SE",
   "model_name": "HUAWEI nova 7 SE 5G"
  },
- "`FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3`": {
+ "FIG-LA1` `FIG-LX1` `FIG-LX2` `FIG-LX3": {
   "codename": "figo",
   "name": "HUAWEI P Smart",
   "model_name": "HUAWEI P Smart"
  },
- "`INE-LX1`": {
+ "INE-LX1": {
   "codename": "sydneyi",
   "name": "HUAWEI P Smart+",
   "model_name": "HUAWEI P Smart+"
  },
- "`POT-LX1` `POT-LX1AF` `POT-LX1RU` `POT-LX1T` `POT-LX3`": {
+ "POT-LX1` `POT-LX1AF` `POT-LX1RU` `POT-LX1T` `POT-LX3": {
   "codename": "potter",
   "name": "HUAWEI P Smart 2019",
   "model_name": "HUAWEI P Smart 2019"
  },
- "`STK-L21` `STK-LX1`": {
+ "STK-L21` `STK-LX1": {
   "codename": "stark",
   "name": "HUAWEI P Smart Pro",
   "model_name": "HUAWEI P Smart Pro"
  },
- "`CAN-L01` `CAN-L02` `CAN-L03` `CAN-L11` `CAN-L12` `CAN-L13`": {
+ "CAN-L01` `CAN-L02` `CAN-L03` `CAN-L11` `CAN-L12` `CAN-L13": {
   "codename": "cannes",
   "name": "HUAWEI nova",
   "model_name": "HUAWEI nova"
  },
- "`MLA-L01` `MLA-L02` `MLA-L03` `MLA-L11` `MLA-L12` `MLA-L13`": {
+ "MLA-L01` `MLA-L02` `MLA-L03` `MLA-L11` `MLA-L12` `MLA-L13": {
   "codename": "milan",
   "name": "HUAWEI nova Plus",
   "model_name": "HUAWEI nova Plus"
  },
- "`PRA-LX2` `PRA-LX3`": {
+ "PRA-LX2` `PRA-LX3": {
   "codename": "prague",
   "name": "HUAWEI nova lite",
   "model_name": "HUAWEI nova lite"
  },
- "`PIC-L09`": {
+ "PIC-L09": {
   "codename": "picasso",
   "name": "HUAWEI nova 2",
   "model_name": "HUAWEI nova 2 Single SIM"
  },
- "`PIC-LX9`": {
+ "PIC-LX9": {
   "codename": "picasso",
   "name": "HUAWEI nova 2",
   "model_name": "HUAWEI nova 2 Dual SIM"
  },
- "`BAC-L01` `BAC-L03`": {
+ "BAC-L01` `BAC-L03": {
   "codename": "barca",
   "name": "HUAWEI nova 2 Plus",
   "model_name": "HUAWEI nova 2 Plus Single SIM"
  },
- "`BAC-L21` `BAC-L22` `BAC-L23`": {
+ "BAC-L21` `BAC-L22` `BAC-L23": {
   "codename": "barca",
   "name": "HUAWEI nova 2 Plus",
   "model_name": "HUAWEI nova 2 Plus Dual SIM"
  },
- "`RNE-L02`": {
+ "RNE-L02": {
   "codename": "rhone",
   "name": "HUAWEI nova 2i",
   "model_name": "HUAWEI nova 2 Single SIM"
  },
- "`RNE-L22`": {
+ "RNE-L22": {
   "codename": "rhone",
   "name": "HUAWEI nova 2i",
   "model_name": "HUAWEI nova 2 Dual SIM"
  },
- "`LDN-LX2`": {
+ "LDN-LX2": {
   "codename": "london",
   "name": "HUAWEI nova 2 lite",
   "model_name": "HUAWEI nova 2 lite"
  },
- "`PAR-LX1` `PAR-LX1M` `PAR-LX9` `PAR-L21` `PAR-L29`": {
+ "PAR-LX1` `PAR-LX1M` `PAR-LX9` `PAR-L21` `PAR-L29": {
   "codename": "paris",
   "name": "HUAWEI nova 3",
   "model_name": "HUAWEI nova 3"
  },
- "`INE-LX1` `INE-LX1r` `INE-LX2` `INE-LX2r`": {
+ "INE-LX1` `INE-LX1r` `INE-LX2` `INE-LX2r": {
   "codename": "sydneyi",
   "name": "HUAWEI nova 3i",
   "model_name": "HUAWEI nova 3i"
  },
- "`POT-LX2J`": {
+ "POT-LX2J": {
   "codename": "potter",
   "name": "HUAWEI nova lite 3",
   "model_name": "HUAWEI nova lite 3 (Japan)"
  },
- "`VCE-L22`": {
+ "VCE-L22": {
   "codename": "venice",
   "name": "HUAWEI nova 4",
   "model_name": "HUAWEI nova 4"
  },
- "`YAL-L21`": {
+ "YAL-L21": {
   "codename": "yale",
   "name": "HUAWEI nova 5T",
   "model_name": "HUAWEI nova 5T"
  },
- "`YAL-L41`": {
+ "YAL-L41": {
   "codename": "yale",
   "name": "HUAWEI nova 5T",
   "model_name": "HUAWEI nova 5T Pro"
