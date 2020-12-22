@@ -618,26 +618,50 @@ GRA-UL10:
   codename: grace
   model_name: HUAWEI P8 双 4G 高配版
   name: HUAWEI P8
+HD55KANB:
+  codename: ''
+  model_name: 华为智慧屏 S 55" 60Hz (3GB+16GB)
+  name: 华为智慧屏 S 系列
+HD55KANC:
+  codename: ''
+  model_name: 华为智慧屏 S 55" 60Hz (3GB+32GB)
+  name: 华为智慧屏 S 系列
+HD65KANA:
+  codename: ''
+  model_name: 华为智慧屏 S 65" (3GB+16GB)
+  name: 华为智慧屏 S 系列
+HD65KANS:
+  codename: ''
+  model_name: 华为智慧屏 S Pro 65" (3GB+32GB)
+  name: 华为智慧屏 S 系列
+HD75KANA:
+  codename: ''
+  model_name: 华为智慧屏 S 75" (3GB+16GB)
+  name: 华为智慧屏 S 系列
+HD75KANS:
+  codename: ''
+  model_name: 华为智慧屏 S Pro 75" (3GB+32GB)
+  name: 华为智慧屏 S 系列
 HEGE-550:
   codename: hege
   model_name: 华为智慧屏 V55i-A (4GB+64GB)
-  name: 华为智慧屏
+  name: 华为智慧屏 V 系列
 HEGE-550B:
   codename: hege
   model_name: 华为智慧屏 V55i-B (4GB+32GB)
-  name: 华为智慧屏
+  name: 华为智慧屏 V 系列
 HEGE-560:
   codename: hege
   model_name: 华为智慧屏 V65
-  name: 华为智慧屏
+  name: 华为智慧屏 V 系列
 HEGE-560B:
   codename: hege
   model_name: 华为智慧屏 V65i
-  name: 华为智慧屏
+  name: 华为智慧屏 V 系列
 HEGE-570:
   codename: hege
   model_name: 华为智慧屏 V75
-  name: 华为智慧屏
+  name: 华为智慧屏 V 系列
 HMA-AL00:
   codename: hima
   model_name: HUAWEI Mate 20 全网通版
@@ -1249,7 +1273,7 @@ PL-W29:
 PLAT-760:
   codename: plat
   model_name: 华为智慧屏 X65
-  name: 华为智慧屏
+  name: 华为智慧屏 X 系列
 PLE-703L:
   codename: ''
   model_name: 华为揽阅 M2 青春版 7.0 英寸 全网通版
