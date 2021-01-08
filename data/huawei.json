@@ -1735,84 +1735,104 @@
   "model_name": "HUAWEI MateBook D (2018) i3 集显"
  },
  "Nbl-WAQ9R": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 R5"
  },
  "Nbl-WAQ9RP": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 R5 (16GB+512GB)"
  },
  "Nbl-WAQ9L": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 R5 Linux 版"
  },
  "NbB-WAH9": {
-  "codename": "",
+  "codename": "nobelB",
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 i5 (8GB+512GB)"
  },
  "NbB-WAH9P": {
-  "codename": "",
+  "codename": "nobelB",
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 i5 (16GB+512GB)"
  },
  "NbB-WAE9P": {
-  "codename": "",
+  "codename": "nobelB",
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 i7 (16GB+512GB)"
  },
  "NblL-WFQ9": {
-  "codename": "",
+  "codename": "nobelL",
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 (2020) R5"
  },
  "NblL-WFP9": {
-  "codename": "",
+  "codename": "nobelL",
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 (2020) R7"
  },
+ "NbD-WFH9": {
+  "codename": "nobelD",
+  "name": "HUAWEI MateBook D 14",
+  "model_name": "HUAWEI MateBook D 14 (2021) i5"
+ },
+ "NbD-WFE9": {
+  "codename": "nobelD",
+  "name": "HUAWEI MateBook D 14",
+  "model_name": "HUAWEI MateBook D 14 (2021) i7"
+ },
  "Boh-WAQ9R": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 R5 (8GB+512GB)"
  },
  "Boh-WAQ9RP": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)"
  },
  "Boh-WAQ9L": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 R5 Linux 版"
  },
  "BoB-WAH9": {
-  "codename": "",
+  "codename": "bohrB",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 i5 (8GB+512GB)"
  },
  "BoB-WAH9P": {
-  "codename": "",
+  "codename": "bohrB",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 i5 (16GB+512GB)"
  },
  "BoB-WAE9P": {
-  "codename": "",
+  "codename": "bohrB",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 i7 (16GB+512GB)"
  },
  "BohL-WFQ9": {
-  "codename": "",
+  "codename": "bohrL",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 (2020) R5"
  },
  "BohL-WFP9": {
-  "codename": "",
+  "codename": "bohrL",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 (2020) R7"
+ },
+ "BoD-WFH9": {
+  "codename": "bohrD",
+  "name": "HUAWEI MateBook D 15",
+  "model_name": "HUAWEI MateBook D 15 (2021) i5"
+ },
+ "BoD-WFE9": {
+  "codename": "bohrD",
+  "name": "HUAWEI MateBook D 15",
+  "model_name": "HUAWEI MateBook D 15 (2021) i7"
  },
  "BL-W09": {
   "codename": "",

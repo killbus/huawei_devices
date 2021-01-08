@@ -235,35 +235,43 @@ BZW-AL10:
   model_name: 华为平板 C5 8 英寸 2020 款 全网通版 (4GB+64GB)
   name: 华为平板 C5
 BoB-WAE9P:
-  codename: ''
+  codename: bohrB
   model_name: HUAWEI MateBook D 15 i7 (16GB+512GB)
   name: HUAWEI MateBook D 15
 BoB-WAH9:
-  codename: ''
+  codename: bohrB
   model_name: HUAWEI MateBook D 15 i5 (8GB+512GB)
   name: HUAWEI MateBook D 15
 BoB-WAH9P:
-  codename: ''
+  codename: bohrB
   model_name: HUAWEI MateBook D 15 i5 (16GB+512GB)
   name: HUAWEI MateBook D 15
+BoD-WFE9:
+  codename: bohrD
+  model_name: HUAWEI MateBook D 15 (2021) i7
+  name: HUAWEI MateBook D 15
+BoD-WFH9:
+  codename: bohrD
+  model_name: HUAWEI MateBook D 15 (2021) i5
+  name: HUAWEI MateBook D 15
 Boh-WAQ9L:
-  codename: ''
+  codename: bohrK
   model_name: HUAWEI MateBook D 15 R5 Linux 版
   name: HUAWEI MateBook D 15
 Boh-WAQ9R:
-  codename: ''
+  codename: bohrK
   model_name: HUAWEI MateBook D 15 R5 (8GB+512GB)
   name: HUAWEI MateBook D 15
 Boh-WAQ9RP:
-  codename: ''
+  codename: bohrK
   model_name: HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)
   name: HUAWEI MateBook D 15
 BohL-WFP9:
-  codename: ''
+  codename: bohrL
   model_name: HUAWEI MateBook D 15 (2020) R7
   name: HUAWEI MateBook D 15
 BohL-WFQ9:
-  codename: ''
+  codename: bohrL
   model_name: HUAWEI MateBook D 15 (2020) R5
   name: HUAWEI MateBook D 15
 C199:
@@ -1167,35 +1175,43 @@ NXT-TL00:
   model_name: HUAWEI Mate 8 移动版
   name: HUAWEI Mate 8
 NbB-WAE9P:
-  codename: ''
+  codename: nobelB
   model_name: HUAWEI MateBook D 14 i7 (16GB+512GB)
   name: HUAWEI MateBook D 14
 NbB-WAH9:
-  codename: ''
+  codename: nobelB
   model_name: HUAWEI MateBook D 14 i5 (8GB+512GB)
   name: HUAWEI MateBook D 14
 NbB-WAH9P:
-  codename: ''
+  codename: nobelB
   model_name: HUAWEI MateBook D 14 i5 (16GB+512GB)
   name: HUAWEI MateBook D 14
+NbD-WFE9:
+  codename: nobelD
+  model_name: HUAWEI MateBook D 14 (2021) i7
+  name: HUAWEI MateBook D 14
+NbD-WFH9:
+  codename: nobelD
+  model_name: HUAWEI MateBook D 14 (2021) i5
+  name: HUAWEI MateBook D 14
 Nbl-WAQ9L:
-  codename: nobelk
+  codename: nobelK
   model_name: HUAWEI MateBook D 14 R5 Linux 版
   name: HUAWEI MateBook D 14
 Nbl-WAQ9R:
-  codename: nobelk
+  codename: nobelK
   model_name: HUAWEI MateBook D 14 R5
   name: HUAWEI MateBook D 14
 Nbl-WAQ9RP:
-  codename: nobelk
+  codename: nobelK
   model_name: HUAWEI MateBook D 14 R5 (16GB+512GB)
   name: HUAWEI MateBook D 14
 NblL-WFP9:
-  codename: ''
+  codename: nobelL
   model_name: HUAWEI MateBook D 14 (2020) R7
   name: HUAWEI MateBook D 14
 NblL-WFQ9:
-  codename: ''
+  codename: nobelL
   model_name: HUAWEI MateBook D 14 (2020) R5
   name: HUAWEI MateBook D 14
 OCE-AN00:

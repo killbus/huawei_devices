@@ -1260,112 +1260,112 @@
   "model_name": "荣耀 MagicBook 2019 科技尝鲜版 R7"
  },
  "Nbl-WAQ9HNR": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 / 14 SE R5"
  },
  "Nbl-WAQ9HNRP": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 R5 (16GB+512GB)"
  },
  "Nbl-WAP9HNR": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 R7"
  },
  "Nbl-WAQ9HNL": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 科技尝鲜版 R5"
  },
  "Nbl-WAP9HNL": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 科技尝鲜版 R7"
  },
  "Nbl-WAH9HN": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 i5"
  },
  "Nbl-WAH9HNP": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 i5 (16GB+512GB)"
  },
  "Nbl-WAE9HN": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 i7"
  },
  "Nbl-WAE9HNP": {
-  "codename": "nobelk",
+  "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
  },
  "NblL-WFQ9HN": {
-  "codename": "nobell",
+  "codename": "nobelL",
   "name": "荣耀 MagicBook 14 2020",
   "model_name": "荣耀 MagicBook 14 2020 R5"
  },
  "NblL-WFP9HN": {
-  "codename": "nobell",
+  "codename": "nobelL",
   "name": "荣耀 MagicBook 14 2020",
   "model_name": "荣耀 MagicBook 14 2020 R7"
  },
  "Boh-WAQ9HNR": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 R5"
  },
  "Boh-WAQ9HNRP": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 R5 (16GB+512GB)"
  },
  "Boh-WAP9HNR": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 R7"
  },
  "Boh-WAQ9HNL": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 科技尝鲜版 R5"
  },
  "Boh-WAP9HNL": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 科技尝鲜版 R7"
  },
  "Boh-WAH9HN": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 i5"
  },
  "Boh-WAH9HNP": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 i5 (16GB+512GB)"
  },
  "Boh-WAE9HN": {
-  "codename": "",
+  "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 i7"
  },
  "BohL-WDQ9HN": {
-  "codename": "",
+  "codename": "bohrL",
   "name": "荣耀 MagicBook 15 2020",
   "model_name": "荣耀 MagicBook 15 2020 R5 (8GB+256GB)"
  },
  "BohL-WFQ9HN": {
-  "codename": "",
+  "codename": "bohrL",
   "name": "荣耀 MagicBook 15 2020",
   "model_name": "荣耀 MagicBook 15 2020 R5 (16GB+512GB)"
  },
  "BohL-WFP9HN": {
-  "codename": "",
+  "codename": "bohrL",
   "name": "荣耀 MagicBook 15 2020",
   "model_name": "荣耀 MagicBook 15 2020 R7"
  },
@@ -1439,73 +1439,78 @@
   "name": "荣耀 MagicBook Pro 2020",
   "model_name": "荣耀 MagicBook Pro 2020 R7 (16GB+512GB)"
  },
+ "FRD-WDG9": {
+  "codename": "",
+  "name": "荣耀猎人游戏本 V700",
+  "model_name": "荣耀猎人游戏本 V700 i5 (8GB+512GB)"
+ },
  "FRD-WFG9": {
   "codename": "",
   "name": "荣耀猎人游戏本 V700",
-  "model_name": "荣耀猎人游戏本 V700 i5"
+  "model_name": "荣耀猎人游戏本 V700 i5 (16GB+512GB)"
  },
  "FRD-WFD9": {
   "codename": "",
   "name": "荣耀猎人游戏本 V700",
-  "model_name": "荣耀猎人游戏本 V700 i7"
+  "model_name": "荣耀猎人游戏本 V700 i7 (16GB+512GB)"
  },
  "OSCA-550A": {
-  "codename": "osca",
+  "codename": "oscar",
   "name": "荣耀智慧屏",
   "model_name": "荣耀智慧屏 55 英寸 (2GB+16GB)"
  },
  "OSCA-550AX": {
-  "codename": "osca",
+  "codename": "oscar",
   "name": "荣耀智慧屏",
   "model_name": "荣耀智慧屏 55 英寸 (4GB+32GB)"
  },
  "OSCA-550": {
-  "codename": "osca",
+  "codename": "oscar",
   "name": "荣耀智慧屏 PRO",
   "model_name": "荣耀智慧屏 PRO 55 英寸 (2GB+32GB)"
  },
  "OSCA-550X": {
-  "codename": "osca",
+  "codename": "oscar",
   "name": "荣耀智慧屏 PRO",
   "model_name": "荣耀智慧屏 PRO 55 英寸 (4GB+64GB)"
  },
  "LOK-330": {
-  "codename": "",
+  "codename": "locke",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 50 英寸"
  },
  "LOK-350": {
-  "codename": "",
+  "codename": "locke",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 55 英寸 (2GB+16GB)"
  },
  "LOK-350C": {
-  "codename": "",
+  "codename": "locke",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 55 英寸 (2GB+16GB)"
  },
  "LOK-350S": {
-  "codename": "",
+  "codename": "locke",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 55 英寸 (4GB+32GB)"
  },
  "LOK-360": {
-  "codename": "",
+  "codename": "locke",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 65 英寸 (2GB+16GB)"
  },
  "LOK-360C": {
-  "codename": "",
+  "codename": "locke",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 65 英寸 (2GB+16GB)"
  },
  "LOK-360S": {
-  "codename": "",
+  "codename": "locke",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 65 英寸 (4GB+32GB)"
  },
  "LOK-370": {
-  "codename": "",
+  "codename": "locke",
   "name": "荣耀智慧屏 X1",
   "model_name": "荣耀智慧屏 X1 75 英寸"
  },
