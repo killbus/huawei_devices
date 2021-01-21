@@ -751,8 +751,13 @@
  },
  "CND-AN00": {
   "codename": "cindy",
-  "name": "HUAWEI nova 7 SE 活力版",
-  "model_name": "HUAWEI nova 7 SE 活力版 5G 全网通版"
+  "name": "HUAWEI nova 7 SE 5G 活力版",
+  "model_name": "HUAWEI nova 7 SE 5G 活力版 全网通版"
+ },
+ "CDL-AN50": {
+  "codename": "",
+  "name": "HUAWEI nova 7 SE 5G 乐活版",
+  "model_name": "HUAWEI nova 7 SE 5G 乐活版 全网通版"
  },
  "ANG-AN00": {
   "codename": "",
