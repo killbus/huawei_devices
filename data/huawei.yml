@@ -186,6 +186,14 @@ BZA-W00:
   codename: agassi
   model_name: 华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版
   name: 华为平板 C3
+BZC-AL00:
+  codename: ''
+  model_name: 华为平板 C3 9.7 英寸 2020 款 全网通版
+  name: 华为平板 C3
+BZC-W00:
+  codename: ''
+  model_name: 华为平板 C3 9.7 英寸 2020 款 Wi-Fi 版
+  name: 华为平板 C3
 BZD-AL00:
   codename: ''
   model_name: 华为平板 C3 8 英寸 2020 款 全网通版
@@ -811,7 +819,7 @@ JSC-TN00:
   model_name: HUAWEI nova 8 SE 5G 移动全网通版
   name: HUAWEI nova 8 SE
 KLCZ-WDH9:
-  codename: kelvinc
+  codename: kelvinC
   model_name: HUAWEI MateBook B5-420
   name: HUAWEI MateBook B5-420
 KLV-W19:
@@ -827,23 +835,35 @@ KLV-W29:
   model_name: HUAWEI MateBook 14 i7
   name: HUAWEI MateBook 14
 KLVC-WAH9L:
-  codename: kelvinc
+  codename: kelvinC
   model_name: HUAWEI MateBook 14 (2020) i5 (8GB+512GB)
   name: HUAWEI MateBook 14
 KLVC-WFE9L:
-  codename: kelvinc
+  codename: kelvinC
   model_name: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
   name: HUAWEI MateBook 14
 KLVC-WFH9L:
-  codename: kelvinc
+  codename: kelvinC
   model_name: HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
   name: HUAWEI MateBook 14
+KLVD-WDH9:
+  codename: kelvinD
+  model_name: HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
+  name: HUAWEI MateBook 14
+KLVD-WFE9:
+  codename: kelvinD
+  model_name: HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
+  name: HUAWEI MateBook 14
+KLVD-WFH9:
+  codename: kelvinD
+  model_name: HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
+  name: HUAWEI MateBook 14
 KLVL-WFE9:
-  codename: kelvinl
+  codename: kelvinL
   model_name: HUAWEI MateBook 14 (2020) R7
   name: HUAWEI MateBook 14
 KLVL-WFH9:
-  codename: kelvinl
+  codename: kelvinL
   model_name: HUAWEI MateBook 14 (2020) R5
   name: HUAWEI MateBook 14
 LDN-AL00:
@@ -945,6 +965,14 @@ MACHC-WAE9LP:
 MACHC-WAH9LP:
   codename: ''
   model_name: HUAWEI MateBook X Pro (2020) i5
+  name: HUAWEI MateBook X Pro
+MACHD-WFE9:
+  codename: ''
+  model_name: HUAWEI MateBook X Pro (2021) i7
+  name: HUAWEI MateBook X Pro
+MACHD-WFH9:
+  codename: ''
+  model_name: HUAWEI MateBook X Pro (2021) i5
   name: HUAWEI MateBook X Pro
 MACHR-W19:
   codename: ''
@@ -1647,16 +1675,28 @@ WRT-W29L:
   model_name: HUAWEI MateBook 13 i7 Linux 版
   name: HUAWEI MateBook 13
 WRTB-WAH9L:
-  codename: wrightb
+  codename: wrightB
   model_name: HUAWEI MateBook 13 (2020) i5 (8GB+512GB)
   name: HUAWEI MateBook 13
 WRTB-WFE9L:
-  codename: wrightb
+  codename: wrightB
   model_name: HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
   name: HUAWEI MateBook 13
 WRTB-WFH9L:
-  codename: wrightb
+  codename: wrightB
   model_name: HUAWEI MateBook 13 (2020) i5 (16GB+512GB)
+  name: HUAWEI MateBook 13
+WRTD-WDH9:
+  codename: wrightD
+  model_name: HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
+  name: HUAWEI MateBook 13
+WRTD-WFE9:
+  codename: wrightD
+  model_name: HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
+  name: HUAWEI MateBook 13
+WRTD-WFH9:
+  codename: wrightD
+  model_name: HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
   name: HUAWEI MateBook 13
 WT-W09:
   codename: ''

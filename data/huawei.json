@@ -1564,6 +1564,16 @@
   "name": "华为平板 C3",
   "model_name": "华为平板 C3 8 英寸 2020 款 全网通版"
  },
+ "BZC-W00": {
+  "codename": "",
+  "name": "华为平板 C3",
+  "model_name": "华为平板 C3 9.7 英寸 2020 款 Wi-Fi 版"
+ },
+ "BZC-AL00": {
+  "codename": "",
+  "name": "华为平板 C3",
+  "model_name": "华为平板 C3 9.7 英寸 2020 款 全网通版"
+ },
  "MON-W19": {
   "codename": "",
   "name": "华为平板 C5",
@@ -1688,6 +1698,16 @@
   "codename": "",
   "name": "HUAWEI MateBook X Pro",
   "model_name": "HUAWEI MateBook X Pro (2020) i7"
+ },
+ "MACHD-WFH9": {
+  "codename": "",
+  "name": "HUAWEI MateBook X Pro",
+  "model_name": "HUAWEI MateBook X Pro (2021) i5"
+ },
+ "MACHD-WFE9": {
+  "codename": "",
+  "name": "HUAWEI MateBook X Pro",
+  "model_name": "HUAWEI MateBook X Pro (2021) i7"
  },
  "PL-W09": {
   "codename": "",
@@ -1885,17 +1905,17 @@
   "model_name": "HUAWEI MateBook 13 锐龙 Linux 版"
  },
  "WRTB-WAH9L": {
-  "codename": "wrightb",
+  "codename": "wrightB",
   "name": "HUAWEI MateBook 13",
   "model_name": "HUAWEI MateBook 13 (2020) i5 (8GB+512GB)"
  },
  "WRTB-WFH9L": {
-  "codename": "wrightb",
+  "codename": "wrightB",
   "name": "HUAWEI MateBook 13",
   "model_name": "HUAWEI MateBook 13 (2020) i5 (16GB+512GB)"
  },
  "WRTB-WFE9L": {
-  "codename": "wrightb",
+  "codename": "wrightB",
   "name": "HUAWEI MateBook 13",
   "model_name": "HUAWEI MateBook 13 (2020) i7 (16GB+512GB)"
  },
@@ -1908,6 +1928,21 @@
   "codename": "",
   "name": "HUAWEI MateBook 13",
   "model_name": "HUAWEI MateBook 13 (2020) R7"
+ },
+ "WRTD-WDH9": {
+  "codename": "wrightD",
+  "name": "HUAWEI MateBook 13",
+  "model_name": "HUAWEI MateBook 13 (2021) i5 (8GB+512GB)"
+ },
+ "WRTD-WFH9": {
+  "codename": "wrightD",
+  "name": "HUAWEI MateBook 13",
+  "model_name": "HUAWEI MateBook 13 (2021) i5 (16GB+512GB)"
+ },
+ "WRTD-WFE9": {
+  "codename": "wrightD",
+  "name": "HUAWEI MateBook 13",
+  "model_name": "HUAWEI MateBook 13 (2021) i7 (16GB+512GB)"
  },
  "KLV-W19": {
   "codename": "kelvin",
@@ -1925,29 +1960,44 @@
   "model_name": "HUAWEI MateBook 14 i7"
  },
  "KLVC-WAH9L": {
-  "codename": "kelvinc",
+  "codename": "kelvinC",
   "name": "HUAWEI MateBook 14",
   "model_name": "HUAWEI MateBook 14 (2020) i5 (8GB+512GB)"
  },
  "KLVC-WFH9L": {
-  "codename": "kelvinc",
+  "codename": "kelvinC",
   "name": "HUAWEI MateBook 14",
   "model_name": "HUAWEI MateBook 14 (2020) i5 (16GB+512GB)"
  },
  "KLVC-WFE9L": {
-  "codename": "kelvinc",
+  "codename": "kelvinC",
   "name": "HUAWEI MateBook 14",
   "model_name": "HUAWEI MateBook 14 (2020) i7 (16GB+512GB)"
  },
  "KLVL-WFH9": {
-  "codename": "kelvinl",
+  "codename": "kelvinL",
   "name": "HUAWEI MateBook 14",
   "model_name": "HUAWEI MateBook 14 (2020) R5"
  },
  "KLVL-WFE9": {
-  "codename": "kelvinl",
+  "codename": "kelvinL",
   "name": "HUAWEI MateBook 14",
   "model_name": "HUAWEI MateBook 14 (2020) R7"
+ },
+ "KLVD-WDH9": {
+  "codename": "kelvinD",
+  "name": "HUAWEI MateBook 14",
+  "model_name": "HUAWEI MateBook 14 (2021) i5 (8GB+512GB)"
+ },
+ "KLVD-WFH9": {
+  "codename": "kelvinD",
+  "name": "HUAWEI MateBook 14",
+  "model_name": "HUAWEI MateBook 14 (2021) i5 (16GB+512GB)"
+ },
+ "KLVD-WFE9": {
+  "codename": "kelvinD",
+  "name": "HUAWEI MateBook 14",
+  "model_name": "HUAWEI MateBook 14 (2021) i7 (16GB+512GB)"
  },
  "NBZ-WBH9": {
   "codename": "",
@@ -1975,7 +2025,7 @@
   "model_name": "HUAWEI MateBook B3-510 i7"
  },
  "KLCZ-WDH9": {
-  "codename": "kelvinc",
+  "codename": "kelvinC",
   "name": "HUAWEI MateBook B5-420",
   "model_name": "HUAWEI MateBook B5-420"
  },
