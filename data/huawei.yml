@@ -951,43 +951,43 @@ M2-A01W:
   model_name: 华为揽阅 M2 10.0 Wi-Fi 版
   name: 华为揽阅 M2 10.0
 MACH-W19:
-  codename: ''
+  codename: mach
   model_name: HUAWEI MateBook X Pro i5
   name: HUAWEI MateBook X Pro
 MACH-W29:
-  codename: ''
+  codename: mach
   model_name: HUAWEI MateBook X Pro i7
   name: HUAWEI MateBook X Pro
 MACHC-WAE9LP:
-  codename: ''
+  codename: machC
   model_name: HUAWEI MateBook X Pro (2020) i7
   name: HUAWEI MateBook X Pro
 MACHC-WAH9LP:
-  codename: ''
+  codename: machC
   model_name: HUAWEI MateBook X Pro (2020) i5
   name: HUAWEI MateBook X Pro
 MACHD-WFE9:
-  codename: ''
+  codename: machD
   model_name: HUAWEI MateBook X Pro (2021) i7
   name: HUAWEI MateBook X Pro
 MACHD-WFH9:
-  codename: ''
+  codename: machD
   model_name: HUAWEI MateBook X Pro (2021) i5
   name: HUAWEI MateBook X Pro
 MACHR-W19:
-  codename: ''
+  codename: machR
   model_name: HUAWEI MateBook X Pro (2019) i5
   name: HUAWEI MateBook X Pro
 MACHR-W19L:
-  codename: ''
+  codename: machR
   model_name: HUAWEI MateBook X Pro (2019) i5 Linux 版
   name: HUAWEI MateBook X Pro
 MACHR-W29:
-  codename: ''
+  codename: machR
   model_name: HUAWEI MateBook X Pro (2019) i7
   name: HUAWEI MateBook X Pro
 MACHR-W29BL:
-  codename: ''
+  codename: machR
   model_name: HUAWEI MateBook X Pro (2019) i7 Linux 版
   name: HUAWEI MateBook X Pro
 MAR-AL00:

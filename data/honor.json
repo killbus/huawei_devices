@@ -1319,6 +1319,11 @@
   "name": "荣耀 MagicBook 14 2020",
   "model_name": "荣耀 MagicBook 14 2020 R7"
  },
+ "NDR-WFH9HN": {
+  "codename": "nobelD",
+  "name": "荣耀 MagicBook 14 2021",
+  "model_name": "荣耀 MagicBook 14 2021 i5 & i7"
+ },
  "Boh-WAQ9HNR": {
   "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
@@ -1373,6 +1378,11 @@
   "codename": "bohrL",
   "name": "荣耀 MagicBook 15 2020",
   "model_name": "荣耀 MagicBook 15 2020 R7"
+ },
+ "BDR-WFH9HN": {
+  "codename": "bohrD",
+  "name": "荣耀 MagicBook 15 2021",
+  "model_name": "荣耀 MagicBook 15 2021 i5 & i7"
  },
  "HBL-W19": {
   "codename": "",

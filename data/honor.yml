@@ -110,6 +110,10 @@ AUM-TL20:
   codename: atomu
   model_name: 荣耀畅玩 7A 移动 4G+ 高配版
   name: 荣耀畅玩 7A
+BDR-WFH9HN:
+  codename: bohrD
+  model_name: 荣耀 MagicBook 15 2021 i5 & i7
+  name: 荣耀 MagicBook 15 2021
 BG2-W09:
   codename: baggio2
   model_name: 荣耀畅玩平板 2 7 英寸 Wi-Fi 版
@@ -906,6 +910,10 @@ MYA-TL10:
   codename: maya
   model_name: 荣耀畅玩 6 移动定制版
   name: 荣耀畅玩 6
+NDR-WFH9HN:
+  codename: nobelD
+  model_name: 荣耀 MagicBook 14 2021 i5 & i7
+  name: 荣耀 MagicBook 14 2021
 NEM-AL10:
   codename: nemo
   model_name: 荣耀畅玩 5C 全网通版
