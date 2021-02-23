@@ -179,11 +179,6 @@
   "name": "HUAWEI Mate 20 RS 保时捷设计",
   "model_name": "HUAWEI Mate 20 RS 保时捷设计"
  },
- "TAH-AN00": {
-  "codename": "tahiti",
-  "name": "HUAWEI Mate X",
-  "model_name": "HUAWEI Mate X"
- },
  "TAS-AL00": {
   "codename": "taurus",
   "name": "HUAWEI Mate 30",
@@ -234,11 +229,6 @@
   "name": "HUAWEI Mate 30 RS 保时捷设计",
   "model_name": "HUAWEI Mate 30 RS 保时捷设计"
  },
- "TAH-AN00m": {
-  "codename": "tahiti",
-  "name": "HUAWEI Mate Xs",
-  "model_name": "HUAWEI Mate Xs"
- },
  "OCE-AN00": {
   "codename": "ocean",
   "name": "HUAWEI Mate 40E",
@@ -258,6 +248,21 @@
   "codename": "noahp",
   "name": "HUAWEI Mate 40 RS 保时捷设计",
   "model_name": "HUAWEI Mate 40 RS 保时捷设计"
+ },
+ "TAH-AN00": {
+  "codename": "tahiti",
+  "name": "HUAWEI Mate X",
+  "model_name": "HUAWEI Mate X"
+ },
+ "TAH-AN00m": {
+  "codename": "tahiti",
+  "name": "HUAWEI Mate Xs",
+  "model_name": "HUAWEI Mate Xs"
+ },
+ "TET-AN00` `TET-AN10": {
+  "codename": "teton",
+  "name": "HUAWEI Mate X2",
+  "model_name": "HUAWEI Mate X2"
  },
  "U9200": {
   "codename": "",

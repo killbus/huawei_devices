@@ -1498,6 +1498,10 @@ TAS-TN00:
   codename: taurus
   model_name: HUAWEI Mate 30 5G 移动定制版
   name: HUAWEI Mate 30
+TET-AN00` `TET-AN10:
+  codename: teton
+  model_name: HUAWEI Mate X2
+  name: HUAWEI Mate X2
 TIT-AL00:
   codename: ''
   model_name: 华为畅享 5 全网通版
