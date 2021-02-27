@@ -42,6 +42,10 @@ ALP-TL00:
   codename: alps
   model_name: HUAWEI Mate 10 移动 4G+ 版
   name: HUAWEI Mate 10
+ANA-AL00:
+  codename: anna
+  model_name: HUAWEI P40 4G 全网通版
+  name: HUAWEI P40
 ANA-AN00:
   codename: anna
   model_name: HUAWEI P40 5G 全网通版
