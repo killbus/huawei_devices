@@ -703,19 +703,19 @@ HMA-TL00:
   model_name: HUAWEI Mate 20 移动 4G+ 版
   name: HUAWEI Mate 20
 HN-W19L:
-  codename: ''
+  codename: heng
   model_name: HUAWEI MateBook 13 锐龙 Linux 版
   name: HUAWEI MateBook 13 锐龙版
 HN-W19R:
-  codename: ''
+  codename: heng
   model_name: HUAWEI MateBook 13 锐龙版
   name: HUAWEI MateBook 13 锐龙版
 HNL-WFP9:
-  codename: ''
+  codename: hengL
   model_name: HUAWEI MateBook 13 (2020) R7
   name: HUAWEI MateBook 13
 HNL-WFQ9:
-  codename: ''
+  codename: hengL
   model_name: HUAWEI MateBook 13 (2020) R5
   name: HUAWEI MateBook 13
 HWI-AL00:
@@ -1190,6 +1190,10 @@ NOH-AN00:
   codename: noah
   model_name: HUAWEI Mate 40 Pro 全网通版
   name: HUAWEI Mate 40 Pro
+NOH-AN01:
+  codename: noah
+  model_name: HUAWEI Mate 40 Pro 全网通版
+  name: HUAWEI Mate 40 Pro
 NOP-AN00:
   codename: noahp
   model_name: HUAWEI Mate 40 RS 保时捷设计
@@ -1250,14 +1254,14 @@ NblL-WFQ9:
   codename: nobelL
   model_name: HUAWEI MateBook D 14 (2020) R5
   name: HUAWEI MateBook D 14
-OCE-AN00:
-  codename: ocean
-  model_name: HUAWEI Mate 40E 全网通版
-  name: HUAWEI Mate 40E
 OCE-AN10:
   codename: ocean
   model_name: HUAWEI Mate 40 全网通版
   name: HUAWEI Mate 40
+OCE-AN50:
+  codename: ocean
+  model_name: HUAWEI Mate 40E 全网通版
+  name: HUAWEI Mate 40E
 P2-0000:
   codename: ''
   model_name: 华为 Ascend P2
