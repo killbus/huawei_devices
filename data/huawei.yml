@@ -651,27 +651,27 @@ GRA-UL10:
   model_name: HUAWEI P8 双 4G 高配版
   name: HUAWEI P8
 HD55KANB:
-  codename: ''
+  codename: kant
   model_name: 华为智慧屏 S 55" 60Hz (3GB+16GB)
   name: 华为智慧屏 S 系列
 HD55KANC:
-  codename: ''
+  codename: kant
   model_name: 华为智慧屏 S 55" 60Hz (3GB+32GB)
   name: 华为智慧屏 S 系列
 HD65KANA:
-  codename: ''
+  codename: kant
   model_name: 华为智慧屏 S 65" (3GB+16GB)
   name: 华为智慧屏 S 系列
 HD65KANS:
-  codename: ''
+  codename: kant
   model_name: 华为智慧屏 S Pro 65" (3GB+32GB)
   name: 华为智慧屏 S 系列
 HD75KANA:
-  codename: ''
+  codename: kant
   model_name: 华为智慧屏 S 75" (3GB+16GB)
   name: 华为智慧屏 S 系列
 HD75KANS:
-  codename: ''
+  codename: kant
   model_name: 华为智慧屏 S Pro 75" (3GB+32GB)
   name: 华为智慧屏 S 系列
 HEGE-550:
@@ -1335,7 +1335,7 @@ PL-W29:
   model_name: HUAWEI MateBook D i7
   name: HUAWEI MateBook D
 PLAT-760:
-  codename: plat
+  codename: plato
   model_name: 华为智慧屏 X65
   name: 华为智慧屏 X 系列
 PLE-703L:

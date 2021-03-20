@@ -2070,37 +2070,37 @@
   "model_name": "华为智慧屏 V75"
  },
  "PLAT-760": {
-  "codename": "plat",
+  "codename": "plato",
   "name": "华为智慧屏 X 系列",
   "model_name": "华为智慧屏 X65"
  },
  "HD55KANB": {
-  "codename": "",
+  "codename": "kant",
   "name": "华为智慧屏 S 系列",
   "model_name": "华为智慧屏 S 55\" 60Hz (3GB+16GB)"
  },
  "HD55KANC": {
-  "codename": "",
+  "codename": "kant",
   "name": "华为智慧屏 S 系列",
   "model_name": "华为智慧屏 S 55\" 60Hz (3GB+32GB)"
  },
  "HD65KANA": {
-  "codename": "",
+  "codename": "kant",
   "name": "华为智慧屏 S 系列",
   "model_name": "华为智慧屏 S 65\" (3GB+16GB)"
  },
  "HD65KANS": {
-  "codename": "",
+  "codename": "kant",
   "name": "华为智慧屏 S 系列",
   "model_name": "华为智慧屏 S Pro 65\" (3GB+32GB)"
  },
  "HD75KANA": {
-  "codename": "",
+  "codename": "kant",
   "name": "华为智慧屏 S 系列",
   "model_name": "华为智慧屏 S 75\" (3GB+16GB)"
  },
  "HD75KANS": {
-  "codename": "",
+  "codename": "kant",
   "name": "华为智慧屏 S 系列",
   "model_name": "华为智慧屏 S Pro 75\" (3GB+32GB)"
  },
