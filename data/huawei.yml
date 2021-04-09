@@ -658,6 +658,10 @@ HD55KANC:
   codename: kant
   model_name: 华为智慧屏 S 55" 60Hz (3GB+32GB)
   name: 华为智慧屏 S 系列
+HD55THAA:
+  codename: ''
+  model_name: 华为智慧屏 V55 2021 款
+  name: 华为智慧屏 V 系列 2021 款
 HD65KANA:
   codename: kant
   model_name: 华为智慧屏 S 65" (3GB+16GB)
@@ -666,6 +670,10 @@ HD65KANS:
   codename: kant
   model_name: 华为智慧屏 S Pro 65" (3GB+32GB)
   name: 华为智慧屏 S 系列
+HD65THAA:
+  codename: ''
+  model_name: 华为智慧屏 V65 2021 款
+  name: 华为智慧屏 V 系列 2021 款
 HD75KANA:
   codename: kant
   model_name: 华为智慧屏 S 75" (3GB+16GB)
@@ -674,6 +682,14 @@ HD75KANS:
   codename: kant
   model_name: 华为智慧屏 S Pro 75" (3GB+32GB)
   name: 华为智慧屏 S 系列
+HD75THAA:
+  codename: ''
+  model_name: 华为智慧屏 V75 2021 款
+  name: 华为智慧屏 V 系列 2021 款
+HD85THAA:
+  codename: ''
+  model_name: 华为智慧屏 V85 2021 款
+  name: 华为智慧屏 V 系列 2021 款
 HEGE-550:
   codename: hege
   model_name: 华为智慧屏 V55i-A (4GB+64GB)

@@ -2069,6 +2069,26 @@
   "name": "华为智慧屏 V 系列",
   "model_name": "华为智慧屏 V75"
  },
+ "HD55THAA": {
+  "codename": "",
+  "name": "华为智慧屏 V 系列 2021 款",
+  "model_name": "华为智慧屏 V55 2021 款"
+ },
+ "HD65THAA": {
+  "codename": "",
+  "name": "华为智慧屏 V 系列 2021 款",
+  "model_name": "华为智慧屏 V65 2021 款"
+ },
+ "HD75THAA": {
+  "codename": "",
+  "name": "华为智慧屏 V 系列 2021 款",
+  "model_name": "华为智慧屏 V75 2021 款"
+ },
+ "HD85THAA": {
+  "codename": "",
+  "name": "华为智慧屏 V 系列 2021 款",
+  "model_name": "华为智慧屏 V85 2021 款"
+ },
  "PLAT-760": {
   "codename": "plato",
   "name": "华为智慧屏 X 系列",
