@@ -706,6 +706,10 @@ HEGE-560B:
   codename: hege
   model_name: 华为智慧屏 V65i
   name: 华为智慧屏 V 系列
+HEGE-560S:
+  codename: hege
+  model_name: 华为智慧屏 V65 尊爵版
+  name: 华为智慧屏 V 系列
 HEGE-570:
   codename: hege
   model_name: 华为智慧屏 V75

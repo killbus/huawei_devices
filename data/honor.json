@@ -1289,6 +1289,26 @@
   "name": "荣耀 MagicBook 2019 锐龙版",
   "model_name": "荣耀 MagicBook 2019 科技尝鲜版 R7"
  },
+ "Nbl-WAH9HN": {
+  "codename": "nobelB",
+  "name": "荣耀 MagicBook 14",
+  "model_name": "荣耀 MagicBook 14 i5"
+ },
+ "Nbl-WAH9HNP": {
+  "codename": "nobelB",
+  "name": "荣耀 MagicBook 14",
+  "model_name": "荣耀 MagicBook 14 i5 (16GB+512GB)"
+ },
+ "Nbl-WAE9HN": {
+  "codename": "nobelB",
+  "name": "荣耀 MagicBook 14",
+  "model_name": "荣耀 MagicBook 14 i7"
+ },
+ "Nbl-WAE9HNP": {
+  "codename": "nobelB",
+  "name": "荣耀 MagicBook 14",
+  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
+ },
  "Nbl-WAQ9HNR": {
   "codename": "nobelK",
   "name": "荣耀 MagicBook 14",
@@ -1314,26 +1334,6 @@
   "name": "荣耀 MagicBook 14",
   "model_name": "荣耀 MagicBook 14 科技尝鲜版 R7"
  },
- "Nbl-WAH9HN": {
-  "codename": "nobelK",
-  "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i5"
- },
- "Nbl-WAH9HNP": {
-  "codename": "nobelK",
-  "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i5 (16GB+512GB)"
- },
- "Nbl-WAE9HN": {
-  "codename": "nobelK",
-  "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7"
- },
- "Nbl-WAE9HNP": {
-  "codename": "nobelK",
-  "name": "荣耀 MagicBook 14",
-  "model_name": "荣耀 MagicBook 14 i7 (16GB+512GB)"
- },
  "NblL-WFQ9HN": {
   "codename": "nobelL",
   "name": "荣耀 MagicBook 14 2020",
@@ -1348,6 +1348,26 @@
   "codename": "nobelDR",
   "name": "荣耀 MagicBook 14 2021",
   "model_name": "荣耀 MagicBook 14 2021 i5 & i7"
+ },
+ "NIR-WAP9HNRP": {
+  "codename": "nobelKR",
+  "name": "荣耀 MagicBook 14 SE 2021",
+  "model_name": "荣耀 MagicBook 14 SE 2021 R7"
+ },
+ "Boh-WAH9HN": {
+  "codename": "bohrB",
+  "name": "荣耀 MagicBook 15",
+  "model_name": "荣耀 MagicBook 15 i5"
+ },
+ "Boh-WAH9HNP": {
+  "codename": "bohrB",
+  "name": "荣耀 MagicBook 15",
+  "model_name": "荣耀 MagicBook 15 i5 (16GB+512GB)"
+ },
+ "Boh-WAE9HN": {
+  "codename": "bohrB",
+  "name": "荣耀 MagicBook 15",
+  "model_name": "荣耀 MagicBook 15 i7"
  },
  "Boh-WAQ9HNR": {
   "codename": "bohrK",
@@ -1373,21 +1393,6 @@
   "codename": "bohrK",
   "name": "荣耀 MagicBook 15",
   "model_name": "荣耀 MagicBook 15 科技尝鲜版 R7"
- },
- "Boh-WAH9HN": {
-  "codename": "bohrK",
-  "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i5"
- },
- "Boh-WAH9HNP": {
-  "codename": "bohrK",
-  "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i5 (16GB+512GB)"
- },
- "Boh-WAE9HN": {
-  "codename": "bohrK",
-  "name": "荣耀 MagicBook 15",
-  "model_name": "荣耀 MagicBook 15 i7"
  },
  "BohL-WDQ9HN": {
   "codename": "bohrL",
