@@ -147,11 +147,11 @@ BAH3-W59:
   model_name: HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 820)
   name: HUAWEI MatePad
 BBZ-WBE9:
-  codename: ''
+  codename: bohrBZ
   model_name: HUAWEI MateBook B3-510 i7
   name: HUAWEI MateBook B3-510
 BBZ-WBH9:
-  codename: ''
+  codename: bohrBZ
   model_name: HUAWEI MateBook B3-510 i5
   name: HUAWEI MateBook B3-510
 BL-W09:
@@ -378,6 +378,14 @@ CPN-W09:
   codename: chopin
   model_name: 华为平板 M3 青春版 8.0 英寸 Wi-Fi 版
   name: 华为平板 M3 青春版
+CREM-WFD9:
+  codename: ''
+  model_name: HUAWEI MateBook 16 R7
+  name: HUAWEI MateBook 16
+CREM-WFG9:
+  codename: ''
+  model_name: HUAWEI MateBook 16 R5
+  name: HUAWEI MateBook 16
 CRR-CL00:
   codename: carrera
   model_name: HUAWEI Mate S 电信臻享版
@@ -650,6 +658,14 @@ GRA-UL10:
   codename: grace
   model_name: HUAWEI P8 双 4G 高配版
   name: HUAWEI P8
+HD55DESY:
+  codename: ''
+  model_name: 华为智慧屏 SE 55" 畅连通话版 (2GB+16GB)
+  name: 华为智慧屏 SE 系列
+HD55DESZ:
+  codename: ''
+  model_name: 华为智慧屏 SE 55" 畅连通话版 (2GB+16GB)
+  name: 华为智慧屏 SE 系列
 HD55KANB:
   codename: kant
   model_name: 华为智慧屏 S 55" 60Hz (3GB+16GB)
@@ -662,6 +678,14 @@ HD55THAA:
   codename: ''
   model_name: 华为智慧屏 V55 2021 款
   name: 华为智慧屏 V 系列 2021 款
+HD65DESY:
+  codename: ''
+  model_name: 华为智慧屏 SE 65" 畅连通话版 (2GB+16GB)
+  name: 华为智慧屏 SE 系列
+HD65DESZ:
+  codename: ''
+  model_name: 华为智慧屏 SE 65" 畅连通话版 (2GB+16GB)
+  name: 华为智慧屏 SE 系列
 HD65KANA:
   codename: kant
   model_name: 华为智慧屏 S 65" (3GB+16GB)
@@ -1175,15 +1199,15 @@ MT7-UL00:
   model_name: 华为 Ascend Mate 7 联通版
   name: 华为 Ascend Mate 7
 NBZ-WBE9:
-  codename: ''
+  codename: nobelBZ
   model_name: HUAWEI MateBook B3-410 i7
   name: HUAWEI MateBook B3-410
 NBZ-WBH9:
-  codename: ''
+  codename: nobelBZ
   model_name: HUAWEI MateBook B3-410 i5 (8GB+256GB)
   name: HUAWEI MateBook B3-410
 NBZ-WBM9:
-  codename: ''
+  codename: nobelBZ
   model_name: HUAWEI MateBook B3-410 i5 (8GB+512GB)
   name: HUAWEI MateBook B3-410
 NCE-AL00:

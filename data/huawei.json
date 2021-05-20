@@ -2014,28 +2014,38 @@
   "name": "HUAWEI MateBook 14",
   "model_name": "HUAWEI MateBook 14 (2021) i7 (16GB+512GB)"
  },
- "NBZ-WBH9": {
+ "CREM-WFG9": {
   "codename": "",
+  "name": "HUAWEI MateBook 16",
+  "model_name": "HUAWEI MateBook 16 R5"
+ },
+ "CREM-WFD9": {
+  "codename": "",
+  "name": "HUAWEI MateBook 16",
+  "model_name": "HUAWEI MateBook 16 R7"
+ },
+ "NBZ-WBH9": {
+  "codename": "nobelBZ",
   "name": "HUAWEI MateBook B3-410",
   "model_name": "HUAWEI MateBook B3-410 i5 (8GB+256GB)"
  },
  "NBZ-WBM9": {
-  "codename": "",
+  "codename": "nobelBZ",
   "name": "HUAWEI MateBook B3-410",
   "model_name": "HUAWEI MateBook B3-410 i5 (8GB+512GB)"
  },
  "NBZ-WBE9": {
-  "codename": "",
+  "codename": "nobelBZ",
   "name": "HUAWEI MateBook B3-410",
   "model_name": "HUAWEI MateBook B3-410 i7"
  },
  "BBZ-WBH9": {
-  "codename": "",
+  "codename": "bohrBZ",
   "name": "HUAWEI MateBook B3-510",
   "model_name": "HUAWEI MateBook B3-510 i5"
  },
  "BBZ-WBE9": {
-  "codename": "",
+  "codename": "bohrBZ",
   "name": "HUAWEI MateBook B3-510",
   "model_name": "HUAWEI MateBook B3-510 i7"
  },
@@ -2128,6 +2138,26 @@
   "codename": "kant",
   "name": "华为智慧屏 S 系列",
   "model_name": "华为智慧屏 S Pro 75\" (3GB+32GB)"
+ },
+ "HD55DESY": {
+  "codename": "",
+  "name": "华为智慧屏 SE 系列",
+  "model_name": "华为智慧屏 SE 55\" 畅连通话版 (2GB+16GB)"
+ },
+ "HD55DESZ": {
+  "codename": "",
+  "name": "华为智慧屏 SE 系列",
+  "model_name": "华为智慧屏 SE 55\" 畅连通话版 (2GB+16GB)"
+ },
+ "HD65DESY": {
+  "codename": "",
+  "name": "华为智慧屏 SE 系列",
+  "model_name": "华为智慧屏 SE 65\" 畅连通话版 (2GB+16GB)"
+ },
+ "HD65DESZ": {
+  "codename": "",
+  "name": "华为智慧屏 SE 系列",
+  "model_name": "华为智慧屏 SE 65\" 畅连通话版 (2GB+16GB)"
  },
  "U9500": {
   "codename": "",
