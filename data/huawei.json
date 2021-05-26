@@ -222,7 +222,7 @@
  "LIO-AN00m": {
   "codename": "lion",
   "name": "HUAWEI Mate 30E Pro",
-  "model_name": "HUAWEI Mate 30E Pro 全网通版"
+  "model_name": "HUAWEI Mate 30E Pro 5G 全网通版"
  },
  "LIO-AN00P": {
   "codename": "lion",
@@ -232,22 +232,32 @@
  "OCE-AN10": {
   "codename": "ocean",
   "name": "HUAWEI Mate 40",
-  "model_name": "HUAWEI Mate 40 全网通版"
+  "model_name": "HUAWEI Mate 40 5G 全网通版"
  },
  "OCE-AN50": {
   "codename": "ocean",
   "name": "HUAWEI Mate 40E",
-  "model_name": "HUAWEI Mate 40E 全网通版"
+  "model_name": "HUAWEI Mate 40E 5G 全网通版"
+ },
+ "OCE-AL50": {
+  "codename": "ocean",
+  "name": "HUAWEI Mate 40E",
+  "model_name": "HUAWEI Mate 40E 4G 全网通版"
  },
  "NOH-AN00": {
   "codename": "noah",
   "name": "HUAWEI Mate 40 Pro",
-  "model_name": "HUAWEI Mate 40 Pro 全网通版"
+  "model_name": "HUAWEI Mate 40 Pro 5G 全网通版"
  },
  "NOH-AN01": {
   "codename": "noah",
   "name": "HUAWEI Mate 40 Pro",
-  "model_name": "HUAWEI Mate 40 Pro 全网通版"
+  "model_name": "HUAWEI Mate 40 Pro 5G 全网通版"
+ },
+ "NOH-AL00": {
+  "codename": "noah",
+  "name": "HUAWEI Mate 40 Pro",
+  "model_name": "HUAWEI Mate 40 Pro 4G 全网通版"
  },
  "NOP-AN00": {
   "codename": "noahp",
@@ -783,6 +793,11 @@
   "codename": "",
   "name": "HUAWEI nova 8 Pro",
   "model_name": "HUAWEI nova 8 Pro 5G 全网通版"
+ },
+ "BRQ-AL00": {
+  "codename": "",
+  "name": "HUAWEI nova 8 Pro",
+  "model_name": "HUAWEI nova 8 Pro 4G 全网通版"
  },
  "JSC-AN00": {
   "codename": "jessica",

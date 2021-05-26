@@ -42,6 +42,10 @@ ANE-LX3:
   codename: anne
   model_name: HUAWEI P20 lite
   name: HUAWEI P20 lite
+ART-L29:
+  codename: arthur
+  model_name: HUAWEI P40 lite E Dual SIM
+  name: HUAWEI P40 lite E
 BAC-L01:
   codename: barca
   model_name: HUAWEI nova 2 Plus Single SIM
@@ -172,20 +176,20 @@ EVR-N29:
   name: HUAWEI Mate 20 X
 FIG-LA1:
   codename: figo
-  model_name: HUAWEI P Smart
-  name: HUAWEI P Smart
+  model_name: HUAWEI P smart
+  name: HUAWEI P smart
 FIG-LX1:
   codename: figo
-  model_name: HUAWEI P Smart
-  name: HUAWEI P Smart
+  model_name: HUAWEI P smart
+  name: HUAWEI P smart
 FIG-LX2:
   codename: figo
-  model_name: HUAWEI P Smart
-  name: HUAWEI P Smart
+  model_name: HUAWEI P smart
+  name: HUAWEI P smart
 FIG-LX3:
   codename: figo
-  model_name: HUAWEI P Smart
-  name: HUAWEI P Smart
+  model_name: HUAWEI P smart
+  name: HUAWEI P smart
 GRA-L09:
   codename: grace
   model_name: HUAWEI P8 Single SIM
@@ -354,6 +358,10 @@ NEO-L29:
   codename: neo
   model_name: PORSCHE DESIGN HUAWEI Mate RS Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate RS
+NOH-NX9:
+  codename: noah
+  model_name: HUAWEI Mate 40 Pro 5G Dual SIM
+  name: HUAWEI Mate 40 Pro
 NXT-L09:
   codename: next
   model_name: HUAWEI Mate 8 Single SIM
@@ -408,28 +416,36 @@ PIC-LX9:
   name: HUAWEI nova 2
 POT-LX1:
   codename: potter
-  model_name: HUAWEI P Smart 2019
-  name: HUAWEI P Smart 2019
+  model_name: HUAWEI P smart 2019
+  name: HUAWEI P smart 2019
+POT-LX1A:
+  codename: potter
+  model_name: HUAWEI P smart 2020 Dual SIM
+  name: HUAWEI P smart 2020
 POT-LX1AF:
   codename: potter
-  model_name: HUAWEI P Smart 2019
-  name: HUAWEI P Smart 2019
+  model_name: HUAWEI P smart 2019
+  name: HUAWEI P smart 2019
 POT-LX1RU:
   codename: potter
-  model_name: HUAWEI P Smart 2019
-  name: HUAWEI P Smart 2019
+  model_name: HUAWEI P smart 2019
+  name: HUAWEI P smart 2019
 POT-LX1T:
   codename: potter
-  model_name: HUAWEI P Smart 2019
-  name: HUAWEI P Smart 2019
+  model_name: HUAWEI P smart+ 2019
+  name: HUAWEI P smart+ 2019
 POT-LX2J:
   codename: potter
   model_name: HUAWEI nova lite 3 (Japan)
   name: HUAWEI nova lite 3
 POT-LX3:
   codename: potter
-  model_name: HUAWEI P Smart 2019
-  name: HUAWEI P Smart 2019
+  model_name: HUAWEI P smart 2019
+  name: HUAWEI P smart 2019
+PPA-LX2:
+  codename: ''
+  model_name: HUAWEI P smart 2021 Dual SIM
+  name: HUAWEI P smart 2021
 PRA-LA1:
   codename: prague
   model_name: HUAWEI P8 lite 2017
@@ -484,12 +500,12 @@ SNE-LX3:
   name: HUAWEI Mate 20 lite
 STK-L21:
   codename: stark
-  model_name: HUAWEI P Smart Pro
-  name: HUAWEI P Smart Pro
+  model_name: HUAWEI P smart Pro Dual SIM
+  name: HUAWEI P smart Pro
 STK-LX1:
   codename: stark
-  model_name: HUAWEI P Smart Pro
-  name: HUAWEI P Smart Pro
+  model_name: HUAWEI P smart Z Dual SIM
+  name: HUAWEI P smart Z
 TAH-N29m:
   codename: tahiti
   model_name: HUAWEI Mate Xs Dual SIM

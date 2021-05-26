@@ -170,6 +170,10 @@ BLA-TL00:
   codename: blanc
   model_name: HUAWEI Mate 10 Pro 移动 4G+ 版
   name: HUAWEI Mate 10 Pro
+BRQ-AL00:
+  codename: ''
+  model_name: HUAWEI nova 8 Pro 4G 全网通版
+  name: HUAWEI nova 8 Pro
 BRQ-AN00:
   codename: ''
   model_name: HUAWEI nova 8 Pro 5G 全网通版
@@ -952,7 +956,7 @@ LIO-AN00P:
   name: HUAWEI Mate 30 RS 保时捷设计
 LIO-AN00m:
   codename: lion
-  model_name: HUAWEI Mate 30E Pro 全网通版
+  model_name: HUAWEI Mate 30E Pro 5G 全网通版
   name: HUAWEI Mate 30E Pro
 LIO-TL00:
   codename: lion
@@ -1230,13 +1234,17 @@ NEO-AL00:
   codename: neo
   model_name: HUAWEI Mate RS 保时捷设计
   name: HUAWEI Mate RS 保时捷设计
+NOH-AL00:
+  codename: noah
+  model_name: HUAWEI Mate 40 Pro 4G 全网通版
+  name: HUAWEI Mate 40 Pro
 NOH-AN00:
   codename: noah
-  model_name: HUAWEI Mate 40 Pro 全网通版
+  model_name: HUAWEI Mate 40 Pro 5G 全网通版
   name: HUAWEI Mate 40 Pro
 NOH-AN01:
   codename: noah
-  model_name: HUAWEI Mate 40 Pro 全网通版
+  model_name: HUAWEI Mate 40 Pro 5G 全网通版
   name: HUAWEI Mate 40 Pro
 NOP-AN00:
   codename: noahp
@@ -1298,13 +1306,17 @@ NblL-WFQ9:
   codename: nobelL
   model_name: HUAWEI MateBook D 14 (2020) R5
   name: HUAWEI MateBook D 14
+OCE-AL50:
+  codename: ocean
+  model_name: HUAWEI Mate 40E 4G 全网通版
+  name: HUAWEI Mate 40E
 OCE-AN10:
   codename: ocean
-  model_name: HUAWEI Mate 40 全网通版
+  model_name: HUAWEI Mate 40 5G 全网通版
   name: HUAWEI Mate 40
 OCE-AN50:
   codename: ocean
-  model_name: HUAWEI Mate 40E 全网通版
+  model_name: HUAWEI Mate 40E 5G 全网通版
   name: HUAWEI Mate 40E
 P2-0000:
   codename: ''
