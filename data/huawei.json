@@ -1839,6 +1839,16 @@
   "name": "HUAWEI MateBook D 14",
   "model_name": "HUAWEI MateBook D 14 (2021) i7"
  },
+ "NbM-WFQ9": {
+  "codename": "nobelM",
+  "name": "HUAWEI MateBook D 14",
+  "model_name": "HUAWEI MateBook D 14 (2021) R5"
+ },
+ "NbM-WFP9": {
+  "codename": "nobelM",
+  "name": "HUAWEI MateBook D 14",
+  "model_name": "HUAWEI MateBook D 14 (2021) R7"
+ },
  "Boh-WAQ9R": {
   "codename": "bohrK",
   "name": "HUAWEI MateBook D 15",
@@ -1888,6 +1898,16 @@
   "codename": "bohrD",
   "name": "HUAWEI MateBook D 15",
   "model_name": "HUAWEI MateBook D 15 (2021) i7"
+ },
+ "BoM-WFQ9": {
+  "codename": "bohrM",
+  "name": "HUAWEI MateBook D 15",
+  "model_name": "HUAWEI MateBook D 15 (2021) R5"
+ },
+ "BoM-WFP9": {
+  "codename": "bohrM",
+  "name": "HUAWEI MateBook D 15",
+  "model_name": "HUAWEI MateBook D 15 (2021) R7"
  },
  "BL-W09": {
   "codename": "",

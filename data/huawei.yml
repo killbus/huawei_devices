@@ -270,6 +270,14 @@ BoD-WFH9:
   codename: bohrD
   model_name: HUAWEI MateBook D 15 (2021) i5
   name: HUAWEI MateBook D 15
+BoM-WFP9:
+  codename: bohrM
+  model_name: HUAWEI MateBook D 15 (2021) R7
+  name: HUAWEI MateBook D 15
+BoM-WFQ9:
+  codename: bohrM
+  model_name: HUAWEI MateBook D 15 (2021) R5
+  name: HUAWEI MateBook D 15
 Boh-WAQ9L:
   codename: bohrK
   model_name: HUAWEI MateBook D 15 R5 Linux 版
@@ -1285,6 +1293,14 @@ NbD-WFE9:
 NbD-WFH9:
   codename: nobelD
   model_name: HUAWEI MateBook D 14 (2021) i5
+  name: HUAWEI MateBook D 14
+NbM-WFP9:
+  codename: nobelM
+  model_name: HUAWEI MateBook D 14 (2021) R7
+  name: HUAWEI MateBook D 14
+NbM-WFQ9:
+  codename: nobelM
+  model_name: HUAWEI MateBook D 14 (2021) R5
   name: HUAWEI MateBook D 14
 Nbl-WAQ9L:
   codename: nobelK
