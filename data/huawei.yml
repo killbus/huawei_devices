@@ -442,6 +442,10 @@ DAV-713L:
   codename: ''
   model_name: HUAWEI P8 Max
   name: HUAWEI P8 Max
+DBY-W09:
+  codename: ''
+  model_name: HUAWEI MatePad 11 英寸 Wi-Fi 版
+  name: HUAWEI MatePad 11
 DIG-AL00:
   codename: diego
   model_name: 华为畅享 6S 全网通版
@@ -1142,6 +1146,10 @@ MRD-TL00:
   codename: madrid
   model_name: 华为畅享 9e 移动 4G+ 版
   name: 华为畅享 9e
+MRR-W29` `MRR-W39:
+  codename: marxR
+  model_name: HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
+  name: HUAWEI MatePad Pro 10.8
 MRX-AL09:
   codename: marx
   model_name: HUAWEI MatePad Pro 10.8 英寸 全网通版 (6GB+128GB/8GB+256GB)
@@ -1152,7 +1160,7 @@ MRX-AL19:
   name: HUAWEI MatePad Pro
 MRX-AN19:
   codename: marx
-  model_name: HUAWEI MatePad Pro 5G 10.8 英寸 全网通版
+  model_name: HUAWEI MatePad Pro 10.8 英寸 5G 全网通版
   name: HUAWEI MatePad Pro
 MRX-W09:
   codename: marx
@@ -1481,11 +1489,11 @@ SCM-W09:
 SCMR-AL09:
   codename: schumannR
   model_name: HUAWEI MatePad 10.8 英寸 全网通版
-  name: HUAWEI MatePad
+  name: HUAWEI MatePad 10.8
 SCMR-W09:
   codename: schumannR
   model_name: HUAWEI MatePad 10.8 英寸 Wi-Fi 版
-  name: HUAWEI MatePad
+  name: HUAWEI MatePad 10.8
 SEA-AL00:
   codename: seattle
   model_name: HUAWEI nova 5 全网通版
@@ -1578,9 +1586,13 @@ TAS-TN00:
   codename: taurus
   model_name: HUAWEI Mate 30 5G 移动定制版
   name: HUAWEI Mate 30
+TET-AL00:
+  codename: teton
+  model_name: HUAWEI Mate X2 4G 全网通版
+  name: HUAWEI Mate X2
 TET-AN00` `TET-AN10:
   codename: teton
-  model_name: HUAWEI Mate X2
+  model_name: HUAWEI Mate X2 5G 全网通版
   name: HUAWEI Mate X2
 TIT-AL00:
   codename: ''
@@ -1726,6 +1738,18 @@ WAS-TL10:
   codename: warsaw
   model_name: HUAWEI nova 青春版 移动 4G+ 版
   name: HUAWEI nova 青春版
+WGR-AN19:
+  codename: wanger
+  model_name: HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
+  name: HUAWEI MatePad Pro 12.6
+WGR-W09:
+  codename: wanger
+  model_name: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
+  name: HUAWEI MatePad Pro 12.6
+WGR-W19:
+  codename: wanger
+  model_name: HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
+  name: HUAWEI MatePad Pro 12.6
 WKG-AN00:
   codename: wukong
   model_name: 华为畅享 20 5G 全网通版

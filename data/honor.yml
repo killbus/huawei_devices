@@ -678,6 +678,14 @@ HRY-TL00T:
   codename: harrypro
   model_name: 荣耀 20i 移动 4G+ 版
   name: 荣耀 20i
+HYLR-WDQ9:
+  codename: ''
+  model_name: 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
+  name: 荣耀 MagicBook Pro 2020
+HYLR-WFP9:
+  codename: ''
+  model_name: 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
+  name: 荣耀 MagicBook Pro 2020
 Hol-T00:
   codename: holly
   model_name: 荣耀 3C 畅玩版 移动版
@@ -762,6 +770,10 @@ KIW-UL00:
   codename: kiwi
   model_name: 荣耀畅玩 5X 双 4G 版
   name: 荣耀畅玩 5X
+KJR-W09:
+  codename: karajanR
+  model_name: 荣耀平板 V6 10.4 英寸 Wi-Fi 版
+  name: 荣耀平板 V6
 KKG-AN00:
   codename: kingkong
   model_name: 荣耀 X10 Max 5G 全网通版
@@ -1196,7 +1208,7 @@ T8950:
   name: 华为荣耀手机
 TEL-AN00:
   codename: teller
-  model_name: 荣耀 X10 5G 全网通版 (6GB+64GB)
+  model_name: 荣耀 X10 5G 全网通版
   name: 荣耀 X10
 TEL-AN00a:
   codename: teller
