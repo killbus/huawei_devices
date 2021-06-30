@@ -322,6 +322,10 @@ CHE-TL00H:
   codename: cherryplus
   model_name: 荣耀畅玩 4X 移动渠道版 (2015)
   name: 荣耀畅玩 4X
+CHL-AN00:
+  codename: chanel
+  model_name: 荣耀 X20 SE 5G 全网通版
+  name: 荣耀 X20 SE
 CHM-CL00:
   codename: cherrymini
   model_name: 荣耀畅玩 4C 电信版
@@ -1149,6 +1153,10 @@ PRA-TL10:
 RNA-AN00:
   codename: ''
   model_name: 荣耀 50 Pro 5G 全网通版
+  name: 荣耀 50 Pro
+RNA-TN00:
+  codename: ''
+  model_name: 荣耀 50 Pro 5G 移动版
   name: 荣耀 50 Pro
 RVL-AL09:
   codename: ravel
