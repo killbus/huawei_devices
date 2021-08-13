@@ -222,6 +222,10 @@ BND-TL10:
   codename: bond
   model_name: 荣耀畅玩 7X 移动 4G+ 版
   name: 荣耀畅玩 7X
+BRT-W09:
+  codename: britten
+  model_name: 荣耀平板 V7 Pro 11 英寸 Wi-Fi 版
+  name: 荣耀平板 V7 Pro
 Boh-WAE9HN:
   codename: bohrB
   model_name: 荣耀 MagicBook 15 i7
@@ -450,6 +454,18 @@ EDI-DL00:
   codename: edison
   model_name: 荣耀 Note8 移动/联通版
   name: 荣耀 Note8
+ELZ-AN00:
+  codename: elizabeth
+  model_name: 荣耀 Magic3 5G 全网通版
+  name: 荣耀 Magic3
+ELZ-AN10:
+  codename: elizabeth
+  model_name: 荣耀 Magic3 Pro 5G 全网通版
+  name: 荣耀 Magic3 Pro
+ELZ-AN20:
+  codename: elizabeth
+  model_name: 荣耀 Magic3 至臻版 5G 全网通版
+  name: 荣耀 Magic3 至臻版
 FRD-AL00:
   codename: faraday
   model_name: 荣耀 8 全网通版 (3/4GB+32GB)
