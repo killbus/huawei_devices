@@ -80,12 +80,12 @@ AQM-TL00:
   name: 华为畅享 10S
 ARS-AL00:
   codename: ares
-  model_name: 华为畅享 Max 全网通版
-  name: 华为畅享 Max
+  model_name: 华为畅享 MAX 全网通版
+  name: 华为畅享 MAX
 ARS-TL00:
   codename: ares
-  model_name: 华为畅享 Max 移动 4G+ 版
-  name: 华为畅享 Max
+  model_name: 华为畅享 MAX 移动 4G+ 版
+  name: 华为畅享 MAX
 ART-AL00m:
   codename: arthur
   model_name: 华为畅享 10 全网通版
@@ -826,6 +826,10 @@ INE-TL00:
   codename: sydneyi
   model_name: HUAWEI nova 3i 移动 4G+ 版
   name: HUAWEI nova 3i
+JAD-AL00:
+  codename: jade
+  model_name: HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
+  name: HUAWEI P50 Pro
 JAD-AL50:
   codename: jade
   model_name: HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
@@ -1615,6 +1619,10 @@ TET-AL00:
   model_name: HUAWEI Mate X2 4G 全网通版
   name: HUAWEI Mate X2
 TET-AN00` `TET-AN10:
+  codename: teton
+  model_name: HUAWEI Mate X2 5G 全网通版
+  name: HUAWEI Mate X2
+TET-AN50:
   codename: teton
   model_name: HUAWEI Mate X2 5G 全网通版
   name: HUAWEI Mate X2
